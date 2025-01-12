@@ -8,8 +8,8 @@
 ![image](https://github.com/user-attachments/assets/7b1d768f-0e93-4a9e-a5de-c85c0c2c6807)
 ![image](https://github.com/user-attachments/assets/2977d70d-e6ba-432d-b3ca-1d9ff4496a09)
 ![image](https://github.com/user-attachments/assets/61141eb8-36c1-463a-a1da-edcec200ab05)
-
 ***
+## Задания прошлых лет
 ![матанализ практика вариант номер 1](../../../../images/1-sem/mathan/practice/att1/math-isit-pr1/pr1.jpg)
 ![матанализ практика вариант номер 2](../../../../images/1-sem/mathan/practice/att1/math-isit-pr1/pr2.jpg)
 ![матанализ практика вариант номер 3](../../../../images/1-sem/mathan/practice/att1/math-isit-pr1/pr3.jpg)
