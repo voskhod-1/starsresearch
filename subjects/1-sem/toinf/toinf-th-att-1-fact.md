@@ -11,3 +11,4 @@
 ![тоинф вариант 1](../../../images/1-sem/toinf/theory/att1/th9.jpg)
 ![тоинф вариант 1](../../../images/1-sem/toinf/theory/att1/th10.jpg)
 ![тоинф вариант 1](../../../images/1-sem/toinf/theory/att1/th11.jpg)
+![image](https://github.com/user-attachments/assets/2f47444a-cd02-46db-9737-13c22269daac)
