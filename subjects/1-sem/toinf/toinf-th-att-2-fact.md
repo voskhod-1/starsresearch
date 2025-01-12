@@ -1,7 +1,8 @@
 [назад](../../../README.md)
 ***
 ![тоинф вариант 1](../../../images/1-sem/toinf/theory/att2/pr1.jpg)
-![тоинф вариант 2](../../../images/1-sem/toinf/theory/att3/th2.jpg)
+<img width="680" alt="Screenshot 2025-01-13 at 01 48 43" src="https://github.com/user-attachments/assets/88fbdb29-32db-49fb-b325-2dfd0f136893" />
+
 ![тоинф вариант 2](../../../images/1-sem/toinf/theory/att2/pr2.jpg)
 ![тоинф вариант 3](../../../images/1-sem/toinf/theory/att2/pr3.jpg)
 ![тоинф вариант 4](../../../images/1-sem/toinf/theory/att2/pr4.jpg)
