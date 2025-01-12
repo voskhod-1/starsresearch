@@ -111,6 +111,7 @@
 + Аттестация №1
   + [Теоретический материал](../subjects/1-sem/hist/hist-att-1/hist-att-1-theory.md)
   + [Фактические варианты](../subjects/1-sem/hist/hist-att-1/hist-att-1-fact.md)
+  + [Прорешанные варианты](../subjects/1-sem/hist/hist-att-1/hist-att-1-resh.md)
   + [Воспоминания очевидцев](../subjects/1-sem/hist/hist-att-1/hist-att-1-memories.md)
 
 + Аттестация №2
