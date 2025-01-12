@@ -5,11 +5,12 @@
 
 ![тоинф вариант 2](../../../images/1-sem/toinf/theory/att2/pr2.jpg)
 ![тоинф вариант 3](../../../images/1-sem/toinf/theory/att2/pr3.jpg)
+***
+### Формула для предыдущего задания
+![telegram-cloud-photo-size-2-5197586503713286912-x](https://github.com/user-attachments/assets/5d9c73ba-4353-4c13-b42c-180ab52d8b61)
+
 ![тоинф вариант 4](../../../images/1-sem/toinf/theory/att2/pr4.jpg)
-![тоинф вариант 5](../../../images/1-sem/toinf/theory/att2/pr5.jpg)
-![тоинф вариант 6](../../../images/1-sem/toinf/theory/att2/pr6.jpg)
 ![тоинф вариант 7](../../../images/1-sem/toinf/theory/att2/pr7.jpg)
-![тоинф вариант 8](../../../images/1-sem/toinf/theory/att2/pr8.jpg)
 ![тоинф вариант 9](../../../images/1-sem/toinf/theory/att2/pr9.jpg)
 ![тоинф вариант 10](../../../images/1-sem/toinf/theory/att2/pr10.jpg)
 ![telegram-cloud-photo-size-2-5332805422949721384-y](https://github.com/user-attachments/assets/cb9e5602-a976-48c2-9541-c72997affbae)
