@@ -26,5 +26,5 @@
 + [Экономика и финансовая грамотность](subjects/economy/economy.md)
 
 ***
-[Также попробуйте MoodleFaqer]{../MoodleFaqer}
+[Также попробуйте MoodleFaqer](../MoodleFaqer)
 [Методички из "космонавтов"](https://drive.google.com/drive/folders/1U4WVkXh-JffJi9KkCasMFLKMocuq4OXt?usp=sharing)
