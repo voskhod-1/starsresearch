@@ -10,7 +10,7 @@
 ## Предметы:
 + [Алгебра и геометрия](subjects/algem/algem.md)
 + [Алгоритмы и структуры данных](subjects/aisd/aisd.md)
-+ [Введение в программирование](subjects/enter-prog/enter-prog.md)
++ [Введение в программирование](subjects/vvp/vvp.md)
 + [Веб-программирование](subjects/web/web.md)
 + [Деловое общение и культура речи](subjects/russian/russian.md)
 + [Дискретная математика](subjects/dm/dm.md)
