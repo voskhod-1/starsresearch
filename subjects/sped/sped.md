@@ -7,4 +7,6 @@
 ### Практика
 + Задания спокойно решаются по [методичкам](sped-metodichki.md)
 ### Зачет
-+ [Варианты](sped-zachet-fact.md)
++ [Вопросы](sped-zachet-fact.md)
+### Экзамен
++ [Вопросы](sped-exam-fact.md)
