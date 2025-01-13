@@ -1,4 +1,4 @@
-[назад](../../README.md)
+[назад](economy.md)
 ***
 ![экономика вариант 1 часть 1](../../images/economy/att1/ec1.jpg)
 ![экономика вариант 1 часть 2](../../images/economy/att1/ec2.jpg)
