@@ -1,6 +1,11 @@
 [назад](vvp.md)
 ***
 ## 2024
+![telegram-cloud-photo-size-2-5431863088375784925-w](https://github.com/user-attachments/assets/d23f266c-797d-4156-b9b0-52d6523b3669)
+![telegram-cloud-photo-size-2-5431863088375784926-w](https://github.com/user-attachments/assets/dd10821f-2640-4062-915d-955c571b4d61)
+![telegram-cloud-photo-size-2-5431863088375784922-w](https://github.com/user-attachments/assets/9825eb9d-31a8-4d9b-9c09-fe1c47cfeb30)
+![telegram-cloud-photo-size-2-5431863088375784923-w](https://github.com/user-attachments/assets/34f7dea6-7578-4970-a3b7-f8ab8b4f06e7)
+![telegram-cloud-photo-size-2-5431863088375784924-w](https://github.com/user-attachments/assets/c5b37366-ea5e-4b0e-b19e-dd45379cb5de)
 <img width="936" alt="Screenshot 2025-01-12 at 16 33 44" src="https://github.com/user-attachments/assets/2254b96c-43ff-49c7-a5a8-dabdd69f783d" />
 <img width="794" alt="Screenshot 2025-01-12 at 16 34 00" src="https://github.com/user-attachments/assets/e6ea9a6e-0eae-45af-942e-92efaccd414e" />
 <img width="808" alt="Screenshot 2025-01-12 at 16 34 11" src="https://github.com/user-attachments/assets/9f939188-3df6-4823-945f-853484e044d6" />
