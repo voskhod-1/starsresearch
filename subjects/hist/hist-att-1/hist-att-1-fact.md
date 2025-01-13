@@ -1,4 +1,4 @@
-[назад](../../../README.md)
+[назад](hist.md)
 ***
 ![вариант номер 1](../../../images/history/att1/hist1.jpg)
 ![вариант номер 2](../../../images/history/att1/hist2.jpg)
