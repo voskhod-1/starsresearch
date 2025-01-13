@@ -1,11 +1,16 @@
 [назад](vvp.md)
 ***
 ## 2024
-![telegram-cloud-photo-size-2-5431863088375784925-w](https://github.com/user-attachments/assets/d23f266c-797d-4156-b9b0-52d6523b3669)
-![telegram-cloud-photo-size-2-5431863088375784926-w](https://github.com/user-attachments/assets/dd10821f-2640-4062-915d-955c571b4d61)
-![telegram-cloud-photo-size-2-5431863088375784922-w](https://github.com/user-attachments/assets/9825eb9d-31a8-4d9b-9c09-fe1c47cfeb30)
-![telegram-cloud-photo-size-2-5431863088375784923-w](https://github.com/user-attachments/assets/34f7dea6-7578-4970-a3b7-f8ab8b4f06e7)
-![telegram-cloud-photo-size-2-5431863088375784924-w](https://github.com/user-attachments/assets/c5b37366-ea5e-4b0e-b19e-dd45379cb5de)
+![image](https://github.com/user-attachments/assets/d43b5967-2a94-4a44-bb20-1d8899c35316)
+![image](https://github.com/user-attachments/assets/101cf538-254c-4ba9-a494-592a9373b49d)
+![image](https://github.com/user-attachments/assets/9e5bcd9b-f9cd-4f1b-a4e5-0ff68af1d054)
+![image](https://github.com/user-attachments/assets/bd34fa35-23df-417d-9a1c-94427aa82982)
+![image](https://github.com/user-attachments/assets/c75b2f14-2d86-4d85-8d4a-89be736bc0ca)
+![image](https://github.com/user-attachments/assets/353bb135-5827-4d57-9cba-2a88f4bcecf3)
+![image](https://github.com/user-attachments/assets/36b27db7-32a3-421f-b9d9-e29797529fbe)
+![image](https://github.com/user-attachments/assets/2731fffc-1701-424d-9fbd-7282c4101810)
+![image](https://github.com/user-attachments/assets/fc6cadef-99b1-4571-935c-9eaaca221e8e)
+
 ## Задания прошлых лет
 ![введение в программирование задание 1](../../images/vvp/att1/pr1.jpg)
 ![введение в программирование задание 2](../../images/vvp/att1/pr2.jpg)
