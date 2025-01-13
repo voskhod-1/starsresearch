@@ -1,4 +1,4 @@
-[назад](../../../README.md)
+[назад](enter-prog.md)
 ***
 ## 2024
 <img width="936" alt="Screenshot 2025-01-12 at 16 33 44" src="https://github.com/user-attachments/assets/2254b96c-43ff-49c7-a5a8-dabdd69f783d" />

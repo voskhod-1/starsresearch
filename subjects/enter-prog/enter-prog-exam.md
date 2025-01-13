@@ -1,4 +1,4 @@
-[назад](../../../README.md)
+[назад](enter-prog.md)
 ***  
 ![введение в программирование задание 1](../../../images/1-sem//enter%20prog/exam/ex1.jpg)
 ![введение в программирование задание 2](../../../images/1-sem//enter%20prog/exam/ex2.jpg)

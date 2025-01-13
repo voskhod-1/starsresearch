@@ -1,4 +1,4 @@
-[назад](../../../README.md)
+[назад](enter-prog.md)
 ***
 ## 2024
 ![telegram-cloud-photo-size-2-5431863088375784925-w](https://github.com/user-attachments/assets/d23f266c-797d-4156-b9b0-52d6523b3669)
