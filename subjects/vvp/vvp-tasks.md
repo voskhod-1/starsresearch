@@ -1,7 +1,7 @@
 [Назад](vvp.md)
 ***
 # Таски для практики ВВП
-***
+
 ## Аттестация №1
 + [Таск 1](https://github.com/user-attachments/files/18401495/Task.01.pdf)
 
