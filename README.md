@@ -13,7 +13,7 @@
 + [Алгоритмы и структуры данных](subjects/aisd/aisd.md)
 + [Введение в программирование](subjects/vvp/vvp.md)
 + [Веб-программирование](subjects/web/web.md)
-+ [Деловое общение и культура речи](subjects/russian/russian.md)
++ [Деловое общение и культура речи/Русский язык](subjects/russian/russian.md)
 + [Дискретная математика](subjects/dm/dm.md)
 + [История России](subjects/hist/hist.md)
 + [Линейная Алгебра](subjects/lin-alg/lin-alg.md)
