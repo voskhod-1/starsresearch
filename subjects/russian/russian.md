@@ -27,4 +27,6 @@
 + [Аттестация №2](russian-att-2-fact.md)
 + [Аттестация №3](russian-att-3-fact.md)
 
-#### [Зачет](russian-final-test.md)
+#### Зачет
++[Зачетный тест](russian-final-test.md)
++[Материал для подготовки к зачету](russian-theory.md)
