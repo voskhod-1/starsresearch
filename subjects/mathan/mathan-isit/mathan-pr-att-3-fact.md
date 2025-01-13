@@ -4,10 +4,15 @@
 ***
 ## 2024
 <img width="299" alt="Screenshot 2025-01-14 at 01 33 21" src="https://github.com/user-attachments/assets/9f976baa-2c09-4114-8ede-3ab3ae5059ee" />
+
 <img width="281" alt="Screenshot 2025-01-14 at 01 33 28" src="https://github.com/user-attachments/assets/de5c7523-a759-46df-862e-7723a74e8ef1" />
+
 <img width="324" alt="Screenshot 2025-01-14 at 01 33 36" src="https://github.com/user-attachments/assets/e92a6055-f7b7-474c-a954-c4f6c39e3d11" />
+
 <img width="323" alt="Screenshot 2025-01-14 at 01 33 48" src="https://github.com/user-attachments/assets/660804cb-4c7e-4ba9-88c4-f6817f345085" />
+
 ## Задания прошлых лет
+
 ![матанализ практика вариант номер 1](../../../images/mathan/sem-1/practice/att3/math-isit-pr3/pr1.jpg)
 ![матанализ практика вариант номер 2](../../../images/mathan/sem-1/practice/att3/math-isit-pr3/pr2.jpg)
 ![матанализ практика вариант номер 3](../../../images/mathan/sem-1/practice/att3/math-isit-pr3/pr3.jpg)
