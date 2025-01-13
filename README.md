@@ -7,12 +7,22 @@
 
 [Связь с владельцем](https://t.me/pavapepegimabody)
 ***
-## Направления:
+## Предметы:
++ [Алгебра и геометрия](/subjects/algem/algem.md)
++ [Алгоритмы и структуры данных](/subjects/aisd/aisd.md)
++ [Введение в программирование](/subjects/enter-prog/enter-prog.md)
++ [Веб-программирование](/subjects/web/web.md)
++ [Деловое общение и культура речи](/subjects/russian/russian.md)
++ [Дискретная математика](/subjects/dm/dm.md)
++ [История России](/subjects/hist/hist.md)
++ [Линейная Алгебра](/subjects/lin-alg/lin-alg.md)
++ [Математический анализ](/subjects/mathan/mathan.md)
++ [Основы российской государственности](/subjects/org/org.md)
++ [Программная инженерия](/subjects/pi/pi.md)
++ [Система подготовки электронных документов](/subjects/sped/sped.md)
++ [Теоретические основы информатики](/subjects/toinf/toinf.md)
++ [Теория функций комплексного переменного](/subjects/tfkp/tfkp.md)
++ [Экономика и финансовая грамотность](/subjects/economy/economy.md)
 
-+ [Информационные системы и технологии](isit/isit.md#Информационные-системы-и-технологии)
-+ [Математика и компьютерные науки](mkn/mkn.md#Математика-и-компьютерные-науки)
-+ [Программная инженерия](preng/preng.md#Программная-инженерия)
-+ [Прикладная информатика](pi/pi.md#Прикладная-информатика)
-+ [Информационная безопасность](ib/ib.md#Информационная-безопасность)
 ***
 [Методички](https://drive.google.com/drive/folders/1U4WVkXh-JffJi9KkCasMFLKMocuq4OXt?usp=sharing)
