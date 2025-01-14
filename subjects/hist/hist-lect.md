@@ -1,7 +1,7 @@
 [Назад](hist.md)
 ***
 # Записи лекций история
-### Ссылки могут не работать, уже работаем над этим
+### Ссылки могут не работать, уже чиним
 ## 1 семестр
 + [Лекция 1](https://bbb.edu.vsu.ru/playback/presentation/2.3/b0cc3685c86fecedf820ff5b6ea439877debb325-1725883593447)
 + [Лекция 2](https://bbb.edu.vsu.ru/playback/presentation/2.3/b0cc3685c86fecedf820ff5b6ea439877debb325-1726488399936)
