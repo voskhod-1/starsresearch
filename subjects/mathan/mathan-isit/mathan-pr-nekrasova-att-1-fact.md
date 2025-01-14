@@ -1,4 +1,4 @@
-[назад](../../../isit/isit-1-1.md#Математический-анализ)
+[назад](../mathan.md)
 ***
 ![матанализ практика вариант номер 1](../../../images/mathan/sem-1/practice/att1/math-isit-pr1/pr1.jpg)
 ![матанализ практика вариант номер 2](../../../images/mathan/sem-1/practice/att1/math-isit-pr1/pr2.jpg)
