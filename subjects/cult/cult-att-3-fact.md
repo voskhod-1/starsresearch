@@ -1,4 +1,4 @@
-[назад](../../README.md)
+[назад](cult.md)
 ***
 ![культура атта 3](../../images/cult/att3/th1.jpg)
 ![культура атта 3](../../images/cult/att3/th2.jpg)
