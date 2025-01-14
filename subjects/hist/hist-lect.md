@@ -3,6 +3,8 @@
 # Записи лекций история
 ### Ссылки могут не работать, уже чиним
 ## 1 семестр
+### [Конспект](https://github.com/user-attachments/files/18409809/default.docx)
+
 + [Лекция 1](https://bbb.edu.vsu.ru/playback/presentation/2.3/b0cc3685c86fecedf820ff5b6ea439877debb325-1725883593447)
 + [Лекция 2](https://bbb.edu.vsu.ru/playback/presentation/2.3/b0cc3685c86fecedf820ff5b6ea439877debb325-1726488399936)
 + [Лекция 3](https://bbb.edu.vsu.ru/playback/presentation/2.3/b0cc3685c86fecedf820ff5b6ea439877debb325-1727093051352)
