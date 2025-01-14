@@ -21,7 +21,7 @@
 + [Математический анализ](subjects/mathan/mathan.md)
 + [Основы российской государственности](subjects/org/org.md)
 + [Система подготовки электронных документов](subjects/sped/sped.md)
-+ [Теоретические основы информатики](subjects/toinf/toinf.md)
++ [Теоретические основы информатики/информатика](subjects/toinf/toinf.md)
 + [Теория функций комплексного переменного](subjects/tfkp/tfkp.md)
 + [Экономика и финансовая грамотность](subjects/economy/economy.md)
 
