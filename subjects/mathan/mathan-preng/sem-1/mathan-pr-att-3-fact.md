@@ -1,4 +1,4 @@
- [назад](../../../README.md)
+ [назад](../../mathan.md)
 ***
 ![матанализ практика вариант номер 1](../../../../images/mathan/sem-1//practice/att3/math-preng-pr3/pr1.jpg)
 ![матанализ практика вариант номер 2](../../../../images/mathan/sem-1//practice/att3/math-preng-pr3/pr2.jpg)
