@@ -1,4 +1,4 @@
-[назад](../../README.md)
+[назад](aisd.md)
 ***
 ![аисд атта 1](../../images/aisd/att1/th1.jpg)
 ![аисд атта 1](../../images/aisd/att1/th2.jpg)
