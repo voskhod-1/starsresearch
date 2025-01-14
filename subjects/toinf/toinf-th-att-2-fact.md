@@ -1,4 +1,4 @@
-[назад](../../README.md)
+[назад](toinf.md)
 ***
 ![тоинф вариант 1](../../images/toinf/theory/att2/pr1.jpg)
 <img width="680" alt="Screenshot 2025-01-13 at 01 48 43" src="https://github.com/user-attachments/assets/88fbdb29-32db-49fb-b325-2dfd0f136893" />
