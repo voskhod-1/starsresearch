@@ -1,4 +1,4 @@
-[назад](../../../README.md)
+[назад](../mathan.md)
 ***
 ## Варианты с 1 по 4(выложены по порядку)
 ![Messenger Image](https://github.com/user-attachments/assets/1bccdebf-4725-49a8-b624-2a6800e14994)
