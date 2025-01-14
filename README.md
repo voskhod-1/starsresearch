@@ -17,6 +17,7 @@
 + [Деловое общение и культура речи/Русский язык](subjects/russian/russian.md)
 + [Дискретная математика](subjects/dm/dm.md)
 + [История России](subjects/hist/hist.md)
++ [Культурология](subjects/cult/cult.md)
 + [Линейная Алгебра](subjects/lin-alg/lin-alg.md)
 + [Математический анализ](subjects/mathan/mathan.md)
 + [Основы российской государственности](subjects/org/org.md)
