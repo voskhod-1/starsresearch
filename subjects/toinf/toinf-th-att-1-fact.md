@@ -1,4 +1,4 @@
-[назад](../../README.md)
+[назад](toinf.md)
 ***
 ![тоинф вариант 1](../../images/toinf/theory/att1/th1.jpg)
 ![тоинф вариант 1](../../images/toinf/theory/att1/th2.jpg)
