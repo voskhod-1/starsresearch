@@ -1,4 +1,4 @@
-[назад](../../README.md)
+[назад](web.md)
 ***
 ![web вариант 1](../../images/web/att2/pr1.jpg)
 ![web вариант 2](../../images/web/att2/pr2.jpg)
