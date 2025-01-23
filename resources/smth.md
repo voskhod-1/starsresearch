@@ -2,6 +2,10 @@
 ***
 # Полезные ресурсы для учебы
 
+## Методички
+
+[Методички из "космонавтов"](https://drive.google.com/drive/folders/1U4WVkXh-JffJi9KkCasMFLKMocuq4OXt?usp=sharing)
+
 ## Нейросети
 
 [Самый лучший сайт с множеством нейросетей для всего](https://lmarena.ai/)
@@ -24,4 +28,9 @@
 [Группа ВК факультета](https://vk.com/cs_vsu)
 
 [Группа ВК профкома(матпомощь, путевки и прочая халява)](https://vk.com/profcom_vsu)
+
+## Прикладной софт
+
+[MoodleFaqer](https://github.com/voskhod-1/MoodleFaqer)
+
 ## Досье(скоро)
