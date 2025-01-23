@@ -1,6 +1,8 @@
 [назад](vvp.md)
 ***
 ## 2024
+![Сливы 2024](https://github.com/user-attachments/assets/240a2811-9115-4e05-bee9-5d801e877221)
+
 ![Задание 1 2024](https://github.com/user-attachments/assets/a0575fc8-fb6b-4768-bf3a-cfabc31c4bfc)
 
 ![Задание 2 2024](https://github.com/user-attachments/assets/40b3a6e5-9f73-4ee2-9e98-f98fc3502783)
