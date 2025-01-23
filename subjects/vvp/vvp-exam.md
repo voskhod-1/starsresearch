@@ -1,7 +1,6 @@
 [назад](vvp.md)
 ***
 ## 2024
-![Сливы 2024](https://github.com/user-attachments/assets/240a2811-9115-4e05-bee9-5d801e877221)
 
 ![Задание 1 2024](https://github.com/user-attachments/assets/a0575fc8-fb6b-4768-bf3a-cfabc31c4bfc)
 
@@ -81,6 +80,12 @@
 ![Задание 38 2024](https://github.com/user-attachments/assets/52334740-38fa-4401-8213-8b7a5d8cc1ca)
 
 ![Задание 39 2024](https://github.com/user-attachments/assets/73613ba7-35ed-46a0-9a16-1dffcde9e666)
+
+![Задание 40 2024](https://github.com/user-attachments/assets/b0e88311-3c8b-4d16-abd1-acb25e61cb30)
+
+![Задание 41 2024](https://github.com/user-attachments/assets/fad619d6-b6d7-4cdb-8c70-1850e7e888e1)
+
+![Задание 42 2024](https://github.com/user-attachments/assets/dc8bc281-37dc-48f0-9a73-b634b02d7fee)
 
 ## Задания прошлых лет
 ![введение в программирование задание 1](../../images//vvp/exam/ex1.jpg)
