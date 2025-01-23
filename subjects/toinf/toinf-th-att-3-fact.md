@@ -24,7 +24,7 @@
 ### Формула для предыдущего задания
 ![формула](https://github.com/user-attachments/assets/8589e8a0-7abf-43be-8cf8-d62f67fc5c06)
 
-<img width="947" alt="Screenshot 2025-01-13 at 01 19 00" src="https://github.com/user-attachments/assets/d963db6b-53ac-46c0-96ad-d61879e8ac07" />
+![Screenshot 2025-01-13 at 01 19 00](https://github.com/user-attachments/assets/d963db6b-53ac-46c0-96ad-d61879e8ac07)
 
 ![telegram-cloud-photo-size-2-5433599101271926347-y](https://github.com/user-attachments/assets/633ab792-cc12-402a-af8a-1ced6acf3d48)
 
