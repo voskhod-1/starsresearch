@@ -15,7 +15,7 @@
 
 ![Задание 6 2024](https://github.com/user-attachments/assets/de10dfc6-bc99-4e41-9252-f54eddacda55)
 
-![Задание 7 2024](https://github.com/user-attachments/assets/92acd31a-b6e1-4cad-b559-ad1922337334)
+
 
 ![Задание 8 2024](https://github.com/user-attachments/assets/397a9a2f-d0f2-4a2a-aba2-400584d95190)
 
