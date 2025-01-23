@@ -15,7 +15,7 @@
 [ChatGPT(если есть аккаунт – еще лучше)](https://chatgpt.com/)
 
 ## Ресурсы вуза и факультета
-[Сайт ВГЛТУ](https://vsltu.ru)
+[Сайт ВГЛТУ](https://vgltu.ru)
 
 [БРС](https://cs.vsu.ru/brs)
 
