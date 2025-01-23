@@ -7,15 +7,31 @@
 
 ![Задание 2 2024](https://github.com/user-attachments/assets/40b3a6e5-9f73-4ee2-9e98-f98fc3502783)
 
+![Задание 10 2024](https://github.com/user-attachments/assets/a949ee48-7d35-48ca-ae13-a7bb0f1cdeca)
+
+![Задание 15 2024](https://github.com/user-attachments/assets/3c693505-feb7-45b2-b1c1-7cf674ce8f63)
+
 ![Задание 3 2024](https://github.com/user-attachments/assets/505f7018-a8d2-4bbf-9984-cb966e464cb8)
+
+![Задание 12 2024](https://github.com/user-attachments/assets/7952a2d8-dd3d-45c1-be3b-5abf471516b0)
 
 ![Задание 4 2024](https://github.com/user-attachments/assets/6dc27546-64cc-4a0a-86d9-25b6bd2d0c25)
 
 ![Задание 5 2024](https://github.com/user-attachments/assets/cf5f6105-0c63-4299-8abd-920a732c0f34)
 
+![Задание 17 2024](https://github.com/user-attachments/assets/7443b3d1-97d4-4360-b52e-ac8682063d38)
+
 ![Задание 6 2024](https://github.com/user-attachments/assets/de10dfc6-bc99-4e41-9252-f54eddacda55)
 
+![Задание 14 2024](https://github.com/user-attachments/assets/ed070e50-94cf-4211-bbbd-6674679a2bd4)
 
+![Задание 13 2024](https://github.com/user-attachments/assets/27bbcaed-0b07-40c4-9574-255ce74566d9)
+
+![Задание 16 2024](https://github.com/user-attachments/assets/9cd2d5c8-d5a4-446c-97df-240d91380713)
+
+![Задание 7 2024](https://github.com/user-attachments/assets/4f1b7c6f-0969-4961-a812-06f490ccd1d6)
+
+![Задание 11 2024](https://github.com/user-attachments/assets/3067fff5-eeda-4635-b9bc-b57ecaf961d9)
 
 ![Задание 8 2024](https://github.com/user-attachments/assets/397a9a2f-d0f2-4a2a-aba2-400584d95190)
 
