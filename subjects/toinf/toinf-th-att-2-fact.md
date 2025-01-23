@@ -1,7 +1,7 @@
 [назад](toinf.md)
 ***
 ![тоинф вариант 1](../../images/toinf/theory/att2/pr1.jpg)
-<img width="680" alt="Screenshot 2025-01-13 at 01 48 43" src="https://github.com/user-attachments/assets/88fbdb29-32db-49fb-b325-2dfd0f136893" />
+![Screenshot 2025-01-13 at 01 48 43](https://github.com/user-attachments/assets/88fbdb29-32db-49fb-b325-2dfd0f136893)
 
 ![тоинф вариант 2](../../images/toinf/theory/att2/pr2.jpg)
 ![тоинф вариант 3](../../images/toinf/theory/att2/pr3.jpg)
