@@ -6,12 +6,12 @@
 ![telegram-cloud-photo-size-2-5431863088375784922-w](https://github.com/user-attachments/assets/9825eb9d-31a8-4d9b-9c09-fe1c47cfeb30)
 ![telegram-cloud-photo-size-2-5431863088375784923-w](https://github.com/user-attachments/assets/34f7dea6-7578-4970-a3b7-f8ab8b4f06e7)
 ![telegram-cloud-photo-size-2-5431863088375784924-w](https://github.com/user-attachments/assets/c5b37366-ea5e-4b0e-b19e-dd45379cb5de)
-<img width="936" alt="Screenshot 2025-01-12 at 16 33 44" src="https://github.com/user-attachments/assets/2254b96c-43ff-49c7-a5a8-dabdd69f783d" />
-<img width="794" alt="Screenshot 2025-01-12 at 16 34 00" src="https://github.com/user-attachments/assets/e6ea9a6e-0eae-45af-942e-92efaccd414e" />
-<img width="808" alt="Screenshot 2025-01-12 at 16 34 11" src="https://github.com/user-attachments/assets/9f939188-3df6-4823-945f-853484e044d6" />
-<img width="786" alt="Screenshot 2025-01-12 at 16 34 24" src="https://github.com/user-attachments/assets/05b8acc6-f2b0-44ef-953a-a4d8540e99d9" />
-<img width="820" alt="Screenshot 2025-01-12 at 16 34 59" src="https://github.com/user-attachments/assets/71ccec9a-8a46-43dc-80a2-37c75bcaeb2f" />
-<img width="525" alt="Screenshot 2025-01-12 at 16 35 07" src="https://github.com/user-attachments/assets/c6606c57-103c-4187-97fe-7e037b57ca34" />
+![Screenshot 2025-01-12 at 16 33 44](https://github.com/user-attachments/assets/2254b96c-43ff-49c7-a5a8-dabdd69f783d)
+![Screenshot 2025-01-12 at 16 34 00](https://github.com/user-attachments/assets/e6ea9a6e-0eae-45af-942e-92efaccd414e)
+![Screenshot 2025-01-12 at 16 34 11](https://github.com/user-attachments/assets/9f939188-3df6-4823-945f-853484e044d6)
+![Screenshot 2025-01-12 at 16 34 24](https://github.com/user-attachments/assets/05b8acc6-f2b0-44ef-953a-a4d8540e99d9)
+![Screenshot 2025-01-12 at 16 34 59](https://github.com/user-attachments/assets/71ccec9a-8a46-43dc-80a2-37c75bcaeb2f)
+![Screenshot 2025-01-12 at 16 35 07](https://github.com/user-attachments/assets/c6606c57-103c-4187-97fe-7e037b57ca34)
 
 
 ## Задания прошлых лет
