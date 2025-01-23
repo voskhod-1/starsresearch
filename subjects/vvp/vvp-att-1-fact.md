@@ -1,15 +1,15 @@
 [назад](vvp.md)
 ***
 ## 2024
-![image](https://github.com/user-attachments/assets/d43b5967-2a94-4a44-bb20-1d8899c35316)
-![image](https://github.com/user-attachments/assets/101cf538-254c-4ba9-a494-592a9373b49d)
-![image](https://github.com/user-attachments/assets/9e5bcd9b-f9cd-4f1b-a4e5-0ff68af1d054)
-![image](https://github.com/user-attachments/assets/bd34fa35-23df-417d-9a1c-94427aa82982)
-![image](https://github.com/user-attachments/assets/c75b2f14-2d86-4d85-8d4a-89be736bc0ca)
-![image](https://github.com/user-attachments/assets/353bb135-5827-4d57-9cba-2a88f4bcecf3)
-![image](https://github.com/user-attachments/assets/36b27db7-32a3-421f-b9d9-e29797529fbe)
-![image](https://github.com/user-attachments/assets/2731fffc-1701-424d-9fbd-7282c4101810)
-![image](https://github.com/user-attachments/assets/fc6cadef-99b1-4571-935c-9eaaca221e8e)
+![ВВП1](https://github.com/user-attachments/assets/d43b5967-2a94-4a44-bb20-1d8899c35316)
+![ВВП2](https://github.com/user-attachments/assets/101cf538-254c-4ba9-a494-592a9373b49d)
+![ВВП3](https://github.com/user-attachments/assets/9e5bcd9b-f9cd-4f1b-a4e5-0ff68af1d054)
+![ВВП4](https://github.com/user-attachments/assets/bd34fa35-23df-417d-9a1c-94427aa82982)
+![ВВП5](https://github.com/user-attachments/assets/c75b2f14-2d86-4d85-8d4a-89be736bc0ca)
+![ВВП6](https://github.com/user-attachments/assets/353bb135-5827-4d57-9cba-2a88f4bcecf3)
+![ВВП7](https://github.com/user-attachments/assets/36b27db7-32a3-421f-b9d9-e29797529fbe)
+![ВВП8](https://github.com/user-attachments/assets/2731fffc-1701-424d-9fbd-7282c4101810)
+![ВВП9](https://github.com/user-attachments/assets/fc6cadef-99b1-4571-935c-9eaaca221e8e)
 
 ## Задания прошлых лет
 ![введение в программирование задание 1](../../images/vvp/att1/pr1.jpg)
