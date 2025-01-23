@@ -28,8 +28,4 @@
 + [Экономика и финансовая грамотность](subjects/economy/economy.md)
 
 ***
-[Отличные нейросети(не реклама)](lmarena.ai)
-
-[Также попробуйте MoodleFaqer](https://github.com/voskhod-1/MoodleFaqer)
-
-[Методички из "космонавтов"](https://drive.google.com/drive/folders/1U4WVkXh-JffJi9KkCasMFLKMocuq4OXt?usp=sharing)
+[Полезные ресурсы](resources/smth.md)
