@@ -74,7 +74,6 @@
 
 ![Задание 35 2024](https://github.com/user-attachments/assets/08b7ee2b-c400-436e-a6fa-b75a17bab830)
 
-
 ![Задание 36 2024](https://github.com/user-attachments/assets/94b9d955-ee6d-4964-8ce5-bfddb6e8201b)
 
 ![Задание 37 2024](https://github.com/user-attachments/assets/0b72914a-f35b-44f8-957c-97645b01c699)
