@@ -28,7 +28,8 @@
 
 ### Экзамен
 #### ИСиТ
-+ [Билеты](mathan-isit/mathan-th-exam-tick.md)
++ [Воспоминания потерпевших](mathan-isit/mathan-exam-memories.md)
++ [Билеты](mathan-isit/mathan-exam-tick.md)
 #### ПрИнж
 + [Лекция](mathan-preng/sem-1/mathan-th-exam.md)
 + [Практика](mathan-preng/sem-1/mathan-pr-exam.md)
