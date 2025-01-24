@@ -29,3 +29,4 @@
 
 ***
 [Полезные ресурсы](smth/resources.md)
+[Виды стипендий](smth/stipendia.md)
