@@ -28,4 +28,4 @@
 + [Экономика и финансовая грамотность](subjects/economy/economy.md)
 
 ***
-[Полезные ресурсы](resources/smth.md)
+[Полезные ресурсы](smth/resources.md)
