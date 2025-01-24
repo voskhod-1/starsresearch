@@ -1,4 +1,4 @@
-[Назад](../../../README.md)
+[Назад](../mathan.md)
 ***
 # Воспоминания потерпевших матанализ
 ![Матан 1](https://github.com/user-attachments/assets/ac8d120e-3a55-481f-9f5c-b76cca9abc54)
