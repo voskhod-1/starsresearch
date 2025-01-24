@@ -87,6 +87,13 @@
 
 ![Задание 42 2024](https://github.com/user-attachments/assets/dc8bc281-37dc-48f0-9a73-b634b02d7fee)
 
+![Задание 43 2024](https://github.com/user-attachments/assets/639b4fc4-22fb-4567-9872-e4986b348bea)
+
+![Задание 44 2024](https://github.com/user-attachments/assets/2ed0d429-4e01-4eeb-ab43-9e32bbcbb574)
+
+![Задание 45 2024](https://github.com/user-attachments/assets/1cae1ca3-1649-4d0f-9d86-a32a9028d9ec)
+
+
 ## Задания прошлых лет
 ![введение в программирование задание 1](../../images//vvp/exam/ex1.jpg)
 ![введение в программирование задание 2](../../images//vvp/exam/ex2.jpg)
