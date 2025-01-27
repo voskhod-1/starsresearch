@@ -33,6 +33,6 @@
 
 ## Прикладной софт
 
-[MoodleFaqer](https://github.com/voskhod-1/MoodleFaqer)
+[MoodleHelper](https://github.com/voskhod-1/MoodleFaqer)
 
 ## Досье(скоро)
