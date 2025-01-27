@@ -14,6 +14,8 @@
 
 [ChatGPT(если есть аккаунт – еще лучше)](https://chatgpt.com/)
 
+[Claude(Рекомендуем только 3.5 Sonnet)](https://claude.ai/)
+
 ## Ресурсы вуза и факультета
 [Сайт ВГЛТУ](https://vgltu.ru)
 
