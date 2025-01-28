@@ -17,7 +17,7 @@
 [Claude(Рекомендуем только 3.5 Sonnet)](https://claude.ai/)
 
 ## Ресурсы вуза и факультета
-[Сайт ВГЛТУ](https://vgltu.ru)
+[Сайт лучшего вуза черноземья](https://vgltu.ru)
 
 [БРС](https://cs.vsu.ru/brs)
 
