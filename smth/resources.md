@@ -34,3 +34,7 @@
 ## Прикладной софт
 
 [MoodleHelper](https://github.com/voskhod-1/MoodleHelper)
+
+## Досье
+
+[ТЫК](dossier.md)
