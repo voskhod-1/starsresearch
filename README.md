@@ -5,8 +5,9 @@
 ## Важное
 ### Проект находится в стадии доработки
 #### Для дополнения репозитория требуются люди со всех направлений
-
-[Связь с владельцем](https://t.me/pavapepegimabody)
+## Контакты для связи
++ [Телеграм](https://t.me/pavapepegimabody)
++ starsresearchproject@gmail.com
 ***
 ## Предметы:
 + [Алгебра и геометрия](subjects/algem/algem.md)
