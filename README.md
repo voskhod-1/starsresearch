@@ -7,7 +7,7 @@
 #### Для дополнения репозитория требуются люди со всех направлений
 ## Контакты для связи
 + [Телеграм](https://t.me/pavapepegimabody)
-+ [Почта](starsresearchproject@gmail.com)
++ starsresearchproject@gmail.com
 ***
 ## Предметы:
 + [Алгебра и геометрия](subjects/algem/algem.md)
