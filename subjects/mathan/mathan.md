@@ -36,6 +36,9 @@
 + [Практика](mathan-preng/sem-1/mathan-pr-exam.md)
 ## 2 семестр
 ### Практика
+#### ИСиТ
++ Некрасова
+  + Скоро
 #### ПрИнж
 + [Аттестация №1](mathan-preng/sem-2/mathan-pr-att-1-fact.md)
 + [Аттестация №2](mathan-preng/sem-2/mathan-pr-att-2-fact.md)
