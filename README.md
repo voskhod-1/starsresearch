@@ -13,6 +13,7 @@
 ## Предметы:
 + [Алгебра и геометрия](subjects/algem/algem.md)
 + [Алгоритмы и структуры данных](subjects/aisd/aisd.md)
++ [Архитектура ЭВМ](subjects/archevm/archevm.md)
 + [Введение в прикладную информатику](subjects/pi/pi.md)
 + [Введение в программирование](subjects/vvp/vvp.md)
 + [Веб-программирование](subjects/web/web.md)
