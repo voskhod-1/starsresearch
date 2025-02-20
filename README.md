@@ -27,7 +27,7 @@
 + [Система подготовки электронных документов](subjects/sped/sped.md)
 + [Теоретические основы информатики](subjects/toinf/toinf.md)
 + [Теория функций комплексного переменного](subjects/tfkp/tfkp.md)
-+ [Физичская культура](subjects/phys-edu/phys-edu.md)
++ [Физическая культура](subjects/phys-edu/phys-edu.md)
 + [Экономика и финансовая грамотность](subjects/economy/economy.md)
 
 ***
