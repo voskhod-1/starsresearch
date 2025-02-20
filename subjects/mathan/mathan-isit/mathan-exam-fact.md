@@ -16,6 +16,7 @@
 
 Во втором варианте только один пример удалось узнать:
 -Найти производную: ln[ln(ln2x)]
+
 ![Пересдача 1 матан](https://github.com/user-attachments/assets/663d2be1-e4ac-4a4c-98c5-0911aa9771c1)
 
 ![Пересдача 2 матан](https://github.com/user-attachments/assets/2878409e-cc2e-4e8f-9d19-56d5e3b06e15)
