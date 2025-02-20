@@ -16,7 +16,7 @@
 + [Архитектура ЭВМ](subjects/archevm/archevm.md)
 + [Введение в прикладную информатику](subjects/pi/pi.md)
 + [Введение в программирование](subjects/vvp/vvp.md)
-+ [Веб-программирование](subjects/web/web.md)
++ [Веб-технологии](subjects/web/web.md)
 + [Деловое общение и культура речи/Русский язык](subjects/russian/russian.md)
 + [Дискретная математика](subjects/dm/dm.md)
 + [История России](subjects/hist/hist.md)
