@@ -8,7 +8,7 @@
 ### Лекция
 
 #### Гаршин
-+ Материалы отсутствуют
++ [Учебник](https://github.com/user-attachments/files/18893686/default.pdf)
 
 ### Практика
 
