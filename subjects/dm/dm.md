@@ -15,8 +15,9 @@
   + [Аттестация №2](dm-pi/dm-pr-att-2-fact.md)
   + [Аттестация №3](dm-pi/dm-pr-att-3-fact.md)
 ### Экзамен
-+ [ПИ Билеты](dm-pi/dm-exam-fact.md)
-+ [ПИ Практическая часть](dm-pi/dm-pr-exam-fact.md)
++ ПИ
+  + [Билеты](dm-pi/dm-exam-fact.md)
+  + [Практическая часть](dm-pi/dm-pr-exam-fact.md)
 ## 2 Семестр
 ### Лекция
 + ИБ
