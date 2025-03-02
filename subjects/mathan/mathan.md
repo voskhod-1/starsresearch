@@ -3,6 +3,7 @@
 # Математический анализ
 ## 1 семестр
 ### Лекция
+#### ИСиТ
 + [Аттестация №1](th-sirota/mathan-th-att-1-fact.md)
 + [Аттестация №2](th-sirota/mathan-th-att-2-fact.md)
 ### Практика
@@ -35,6 +36,9 @@
 + [Лекция](mathan-preng/sem-1/mathan-th-exam.md)
 + [Практика](mathan-preng/sem-1/mathan-pr-exam.md)
 ## 2 семестр
+### Лекция
+#### ИСиТ
+  + [Аттестация №1](https://boosty.to/starsresearch/)
 ### Практика
 #### ИСиТ
 + Некрасова
