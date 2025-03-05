@@ -3,6 +3,12 @@
 # Архитектура ЭВМ
 ## 2 семестр
 ### Толстобров
++ [Аттестация №1]()
+
++ [Аттестация №2]()
+
++ [Аттестация №3]()
+
 + [SyncShare](https://syncshare.naloaty.me/)
 
 + [Практика](https://github.com/AlexEreh/ComputerHardware)
