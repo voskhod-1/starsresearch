@@ -7,4 +7,4 @@
 
 + [Практика](https://github.com/AlexEreh/ComputerHardware)
 
-+ [Учебник](https://github.com/user-attachments/files/18893215/-._.2004.-.-.libgen.li.2.pdf)
++ [Учебник Толстоброва](https://github.com/user-attachments/files/18893215/-._.2004.-.-.libgen.li.2.pdf)
