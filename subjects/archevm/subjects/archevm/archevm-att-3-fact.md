@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d2bebe28-e475-4dd8-868c-06f5c721f653)[Назад](archevm.md)
+[Назад](archevm.md)
 ***
 ## 12.1 Ввод-вывод по опросу готовности устройства
 
@@ -576,12 +576,6 @@
 ![image](https://github.com/user-attachments/assets/979e0aa2-9235-400e-a250-12407f6a934f)
 
 + Множественный  
-
-**Рисунок иллюстрирует:**  
-
-![image](https://github.com/user-attachments/assets/44a51f14-88e3-443d-bad9-0329692ccdd0)
-
-+ Последовательность микроопераций, составляющих машинную команду  
 
 **Рисунок иллюстрирует принцип повышения производительности путем:**
 
