@@ -9,7 +9,9 @@
 ## Контакты для связи
 + [Телеграм](https://t.me/pavapepegimabody)
 + starsresearchproject@gmail.com
+
 ***
+
 ## Предметы:
 + [Алгебра и геометрия](subjects/algem/algem.md)
 + [Алгоритмы и структуры данных](subjects/aisd/aisd.md)
