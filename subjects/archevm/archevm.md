@@ -2,7 +2,8 @@
 ***
 # Архитектура ЭВМ
 ## 2 семестр
-### Толстобров
+### Лекции
+#### Толстобров
 + [Аттестация №1](archevm-att-1-fact.md)
 
 + [Аттестация №2](archevm-att-2-fact.md)
@@ -10,10 +11,12 @@
 + [Аттестация №3](archevm-att-3-fact.md)
 
 + [SyncShare](https://syncshare.naloaty.me/)
++ 
++ [Учебник Толстоброва](https://github.com/user-attachments/files/18893215/-._.2004.-.-.libgen.li.2.pdf)
+
+### Практика
 
 + [Практика](https://github.com/AlexEreh/ComputerHardware)
-
-+ [Учебник Толстоброва](https://github.com/user-attachments/files/18893215/-._.2004.-.-.libgen.li.2.pdf)
 
 + [Методичка практика 1](https://github.com/user-attachments/files/19096694/Methodics_on_practice.pdf)
 
