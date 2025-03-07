@@ -11,7 +11,7 @@
 + [Аттестация №3](archevm-att-3-fact.md)
 
 + [SyncShare](https://syncshare.naloaty.me/)
-+ 
+  
 + [Учебник Толстоброва](https://github.com/user-attachments/files/18893215/-._.2004.-.-.libgen.li.2.pdf)
 
 ### Практика
