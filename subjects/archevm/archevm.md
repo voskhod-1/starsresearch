@@ -16,7 +16,7 @@
 
 ### Практика
 
-+ [Практика](https://github.com/AlexEreh/ComputerHardware)
++ [Задания](https://github.com/AlexEreh/ComputerHardware)
 
 + [Методичка практика 1](https://github.com/user-attachments/files/19096694/Methodics_on_practice.pdf)
 
