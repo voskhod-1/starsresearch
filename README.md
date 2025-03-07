@@ -37,6 +37,4 @@ ___
 ***
 [Полезные ресурсы](smth/resources.md)
 
-[Канцелярия](smth/canzelaria.md)
-
 [Виды стипендий](smth/stipendia.md)
