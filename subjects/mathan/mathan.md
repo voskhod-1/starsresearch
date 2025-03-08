@@ -42,7 +42,7 @@
 ### Практика
 #### ИСиТ
 + Некрасова
-  + [Аттестация №1](mathan-isit/mathan-2-pr-nekrasova-att-1-fact.md)
+  + [Аттестация №1](mathan-isit/mathan-2-isit-pr-nekrasova-att-1-fact.md)
   + [Учебник](https://github.com/user-attachments/files/18893956/default.pdf)
 #### ПрИнж
 + [Аттестация №1](mathan-preng/sem-2/mathan-pr-att-1-fact.md)
