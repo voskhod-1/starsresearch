@@ -33,6 +33,7 @@ ___
 + [Теория функций комплексного переменного](subjects/tfkp/tfkp.md)
 + [Физическая культура](subjects/phys-edu/phys-edu.md)
 + [Экономика и финансовая грамотность](subjects/economy/economy.md)
++ [Язык Си](subjects/clang/clang.md)
 
 ***
 [Полезные ресурсы](smth/resources.md)
