@@ -9,8 +9,9 @@ ___
 #### Если вам есть, что дополнить – пишите в телегу. Анонимность гарантируем.
 ***
 ## Контакты для связи
-+ [Телеграм](https://t.me/pavapepegimabody)
++ [Телеграм(могу не увидеть)](https://t.me/pavapepegimabody)
 + starsresearchproject@gmail.com
++ Pull request
 
 ***
 
