@@ -11,7 +11,5 @@
   + [Учебник Проскурякова](https://github.com/user-attachments/files/18893932/Proskuryakov_Sbornik_zadach_po_lin_algebre.pdf)
   + [Гайд по алгему](https://boosty.to/starsresearch/)
 
-
-+ Материалы отсутствуют
 ### Экзамен
 + [Фактические варианты](algem-exam-fact.md)
