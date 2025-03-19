@@ -1,5 +1,6 @@
 [назад](algem.md)
 ***
+![telegram-cloud-photo-size-2-5393097903268032527-y](https://github.com/user-attachments/assets/f984fb6e-8859-4b09-b38c-cd634594bac2)
 ![2025-03-15 22 15 15](https://github.com/user-attachments/assets/222fc040-4d5c-4bbc-8ddd-1f226a35cd83)
 ![2025-03-15 22 15 12](https://github.com/user-attachments/assets/45cc8d37-5eb3-4a4e-bcab-f14b7ba6bc8f)
 ![2025-03-15 22 15 08](https://github.com/user-attachments/assets/2e37b837-318b-4930-b9b0-5bd22e2bc2ac)
