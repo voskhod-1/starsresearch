@@ -4,11 +4,11 @@
 ## 2 семестр
 ### Лекции
 #### Толстобров
-+ [Аттестация №1](archevm-att-1-fact.md)
++ [Аттестация №1](archevm-th-att-1-fact.md)
 
-+ [Аттестация №2](archevm-att-2-fact.md)
++ [Аттестация №2](archevm-th-att-2-fact.md)
 
-+ [Аттестация №3](archevm-att-3-fact.md)
++ [Аттестация №3](archevm-th-att-3-fact.md)
 
 + [SyncShare](https://syncshare.naloaty.me/)
   
