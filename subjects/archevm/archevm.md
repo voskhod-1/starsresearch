@@ -26,4 +26,4 @@
 
 ### Экзамен
 
-+ [Фактические варианты](archevm-exam-fact.md)
++ [Пересдача](archevm-exam-fact.md)
