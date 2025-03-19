@@ -1,2 +1,11 @@
 [Назад](../dm.md)
 ***
+![telegram-cloud-photo-size-2-5359509042810187966-y](https://github.com/user-attachments/assets/fddf9873-4209-444c-ba1e-3089022f68ca)
+![telegram-cloud-photo-size-2-5359509042810187963-y](https://github.com/user-attachments/assets/bcf14627-b593-4390-943d-18a06c5f4d84)
+![telegram-cloud-photo-size-2-5359509042810187962-y](https://github.com/user-attachments/assets/1d56b082-cf92-413f-b71c-2fb19ecaa29c)
+![telegram-cloud-photo-size-2-5359509042810187961-y](https://github.com/user-attachments/assets/ece36d80-e917-430b-bc05-6b2b70b03c5d)
+![telegram-cloud-photo-size-2-5359509042810187960-x](https://github.com/user-attachments/assets/b28358c9-b621-44d6-8a35-bb9ad2eceeed)
+![telegram-cloud-photo-size-2-5359509042810187958-y](https://github.com/user-attachments/assets/b34f35e9-558d-4dfd-a1c9-603508d98f80)
+![telegram-cloud-photo-size-2-5359509042810187957-y](https://github.com/user-attachments/assets/32091008-3ad8-435e-8ed2-45e436ee94a9)
+![telegram-cloud-photo-size-2-5390924864564621778-y](https://github.com/user-attachments/assets/80d0eb41-a763-457a-bada-8d9b2b2a055a)
+![telegram-cloud-photo-size-2-5390924864564621779-y](https://github.com/user-attachments/assets/60b326fe-b318-445c-8e25-436da642b66f)
