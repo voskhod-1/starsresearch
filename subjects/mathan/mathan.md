@@ -4,18 +4,18 @@
 ## 1 семестр
 ### Лекция
 #### ИСиТ
-+ [Аттестация №1](th-sirota/mathan-th-att-1-fact.md)
-+ [Аттестация №2](th-sirota/mathan-th-att-2-fact.md)
++ [Аттестация №1](th-sirota/mathan-1-th-att-1-fact.md)
++ [Аттестация №2](th-sirota/mathan-1-th-att-2-fact.md)
 ### Практика
 #### ИСиТ
 + Чуракова
-  +  [Аттестация №1](mathan-isit/mathan-pr-churakova-att-1-fact.md)
-  +  [Аттестация №2](mathan-isit/mathan-pr-att-2-fact.md)
-  +  [Аттестация №3](mathan-isit/mathan-pr-att-3-fact.md)
+  +  [Аттестация №1](mathan-isit/mathan-1-pr-churakova-att-1-fact.md)
+  +  [Аттестация №2](mathan-isit/mathan-1-pr-att-2-fact.md)
+  +  [Аттестация №3](mathan-isit/mathan-1-pr-att-3-fact.md)
 + Некрасова
-  + [Аттестация №1](mathan-isit/mathan-pr-nekrasova-att-1-fact.md)
-  + [Аттестация №2](mathan-isit/mathan-pr-att-2-fact.md)
-  + [Аттестация №3](mathan-isit/mathan-pr-att-3-fact.md)
+  + [Аттестация №1](mathan-isit/mathan-1-pr-nekrasova-att-1-fact.md)
+  + [Аттестация №2](mathan-isit/mathan-1-pr-att-2-fact.md)
+  + [Аттестация №3](mathan-isit/mathan-1-pr-att-3-fact.md)
 + Некипелов
   + Материалы отсутствуют
 #### МКН
