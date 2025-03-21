@@ -1,6 +1,7 @@
 [назад](vvp.md)
 ***
 ## 2024
+![1000000503](https://github.com/user-attachments/assets/0e97284d-5ca3-40d5-9c3f-c8ab86b67014)
 
 ![Задание 1 2024](https://github.com/user-attachments/assets/a0575fc8-fb6b-4768-bf3a-cfabc31c4bfc)
 
