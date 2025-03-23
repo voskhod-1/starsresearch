@@ -38,7 +38,7 @@ ___
 ***
 [Полезные ресурсы](smth/resources.md)
 
-[Minecraft](smth/Minecraft.md)
+[Minecraft](smth/Minecraft.md)✨новое✨
 
 [Виды стипендий](smth/stipendia.md)
 ## Для участников сообщества:
