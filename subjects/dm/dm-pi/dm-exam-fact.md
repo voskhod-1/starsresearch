@@ -1,6 +1,6 @@
 [назад](../dm.md)
 ***
-Авторы (БДСМ – party):
+Авторы:
 + https://www.twitch.tv/parklegaming
 + inst: @lee_gzu
 + inst: @unknw.name
