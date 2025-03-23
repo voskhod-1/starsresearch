@@ -18,7 +18,7 @@
 
 + [Задания](https://github.com/AlexEreh/ComputerHardware)
 
-+ [Аттестация №1](archevm-pr-att-1-fact.md)
++ [Аттестация №1](archevm-pr-att-1-fact.md)✨новое✨
 
 + [Методичка практика 1](https://github.com/user-attachments/files/19096694/Methodics_on_practice.pdf)
 
