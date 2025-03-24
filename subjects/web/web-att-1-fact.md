@@ -156,16 +156,17 @@ ping - **утилита для проверки целостности и кач
 - [ ] IP-адрес является 128-битным  
 
 ***
-![web вариант 1](../../images/web/att1/pr1.jpg)
+![web вариант 1](https://github.com/user-attachments/assets/b79cc6af-4f52-42a9-9f10-c4cf950a028f)
 
-![web вариант 2](../../images/web/att1/pr2.jpg)
+![web вариант 2](https://github.com/user-attachments/assets/bd4bbe8b-0463-4ff4-a9a9-6f05e4559d72)
 
-![web вариант 3](../../images/web/att1/pr3.jpg)
+![web вариант 3](https://github.com/user-attachments/assets/b8b38134-6b3f-414f-a689-00cd908cb731)
 
-![web вариант 4](../../images/web/att1/pr4.jpg)
+![web вариант 4](https://github.com/user-attachments/assets/4f4a10bd-a470-49cc-9fbf-65f08b3e6cac)
 
-![web вариант 5](../../images/web/att1/pr5.jpg)
+![web вариант 5](https://github.com/user-attachments/assets/7b737771-6cdc-4b05-b89b-8afae89e4410)
 
-![web вариант 6](../../images/web/att1/pr6.jpg)
+![web вариант 6](https://github.com/user-attachments/assets/646ebab3-c41f-4974-8d81-9f8f81723b0f)
 
-![web вариант 7](../../images/web/att1/pr7.jpg)
+![web вариант 7](https://github.com/user-attachments/assets/68b5b7ab-9c52-4a38-943b-479ce74fb89b)
+
