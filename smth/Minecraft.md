@@ -39,4 +39,5 @@ portablemc start fabric:1.20.1
 portablemc start forge:1.20.1-latest
 portablemc start forge:1.20.1-recommended
 # Запустить NeoForge для 1.20.1
-portablemc start neoforge:1.20.1```
+portablemc start neoforge:1.20.1
+```
