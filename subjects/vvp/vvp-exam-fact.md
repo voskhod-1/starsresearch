@@ -96,10 +96,16 @@
 
 
 ## Задания прошлых лет
-![введение в программирование задание 1](../../images//vvp/exam/ex1.jpg)
-![введение в программирование задание 2](../../images//vvp/exam/ex2.jpg)
-![введение в программирование задание 3](../../images//vvp/exam/ex3.jpg)
-![введение в программирование задание 4](../../images//vvp/exam/ex4.jpg)
-![введение в программирование задание 5](../../images//vvp/exam/ex5.jpg)
-![введение в программирование задание 6](../../images//vvp/exam/ex6.jpg)
-![введение в программирование задание 7](../../images/vvp/exam/ex7.jpg)
+![введение в программирование задание 1](https://github.com/user-attachments/assets/aa90400d-5796-43e4-b154-1e473bc914a1)
+
+![введение в программирование задание 2](https://github.com/user-attachments/assets/b4636a14-ca60-4520-ad8b-10ff96d2f515)
+
+![введение в программирование задание 3](https://github.com/user-attachments/assets/b4fa802c-50eb-411e-9f65-1b879b7a84f7)
+
+![введение в программирование задание 4](https://github.com/user-attachments/assets/ac7e370a-cad8-45d7-9afc-2c6ab48f87c9)
+
+![введение в программирование задание 5](https://github.com/user-attachments/assets/cf1d38ff-742a-4742-9753-bd992feed298)
+
+![введение в программирование задание 6](https://github.com/user-attachments/assets/6cdd4fd3-ae9f-4d82-91cf-9dcb9e4143d2)
+
+![введение в программирование задание 7](https://github.com/user-attachments/assets/9e8fca90-0304-435c-9395-2a82daa7c0fe)
