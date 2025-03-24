@@ -23,7 +23,7 @@
 
 
 7. Используя определение предела числовой последовательности, доказать, что
-![матан вариант 2 задание 7](../../../images/mathan/sem-1/theory/att1/sirota/2.jpg)
+![матан вариант 2 задание 7](https://github.com/user-attachments/assets/08c8c0bb-6192-4861-917a-c34cc800b8b4)
 
 
 ## Вариант 1:
@@ -50,12 +50,12 @@
 7. Используя определение предела числовой последовательности, доказать, что число
 1 является пределом последовательности
 
-![матан вариант 1 задание 7](../../../images/mathan/sem-1//theory/att1/sirota/1.1.jpg)
+![матан вариант 1 задание 7](https://github.com/user-attachments/assets/1f81b9e7-e140-4e1b-a22c-820ee021b9fd)
 
-![матан вариант 3.1](../../../images/mathan/sem-1//theory/att1/sirota/3.1.jpg)
+![матан вариант 3.1](https://github.com/user-attachments/assets/f17c900c-c08a-4358-8b9b-e138e83cb3cd)
 
-![матан вариант 3.2](../../../images/mathan/sem-1//theory/att1/sirota/3.2.jpg)
+![матан вариант 3.2](https://github.com/user-attachments/assets/940b4a48-d400-457d-8066-2f0820201697)
 
-![матан вариант 4.1](../../../images/mathan/sem-1//theory/att1/sirota/4.1.jpg)
+![матан вариант 4.1](https://github.com/user-attachments/assets/67a0d9f9-6a0e-438f-a507-8ebf4f7f8caf)
 
-![матан вариант 4.2](../../../images/mathan/sem-1//theory/att1/sirota/4.2.jpg)
+![матан вариант 4.2](https://github.com/user-attachments/assets/4deb59a3-0ce1-4c51-8e2d-e89d82fbd8c3)
