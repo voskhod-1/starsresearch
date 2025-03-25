@@ -18,9 +18,9 @@
 
 ```bash
 # Запустить с логином в аккаунт
-portablemc -l <почта_или_никнейм>
+portablemc login <почта_или_никнейм>
 # Запустить со своим ником(пиратка)
-portablemc -u <Никнейм>
+portablemc start -u <Никнейм>
 # Запустить последнюю версию
 portablemc start
 portablemc start release
