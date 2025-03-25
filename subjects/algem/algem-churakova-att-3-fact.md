@@ -1,3 +1,3 @@
 [назад](algem.md)
 ***
-![алгем атта 3](https://github.com/user-attachments/assets/9e24b4e7-9938-48ee-a01b-c094de6f743a)
+![Algebra Retake June 3 2022](https://github.com/user-attachments/assets/e812f43d-d75e-49ca-9c62-c1c9579b44d6)
