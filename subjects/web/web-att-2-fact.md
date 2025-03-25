@@ -1,6 +1,16 @@
 [назад](web.md)
 ***
-![Схема](https://github.com/user-attachments/assets/3d70bc5d-662f-4bf9-b767-657355153912)
+```mermaid
+graph TD;
+  Window-->Location;
+  Window-->Document;
+  Document-->Location;
+  Document-->Image;
+  Document-->Form;
+  Form-->Element;
+  Document-->Link;
+  Window-->Navigator;
+```
 ***
 #### Выберите верные утверждения, относящиеся к ASP:
 - [ ] ASP получает доступ к интерфейсу программирования приложений Internet Information Server с помощью языка сценариев Perl
