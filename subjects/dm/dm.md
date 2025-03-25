@@ -30,6 +30,7 @@
 ### Практика
 + Попов
   + [Аттестация №1](dm-preng/dm-pr-att-1-fact.md)
+  + [Аттестация №3](dm-preng/dm-pr-att-3-fact.md)
 + Стукалова
   + [Аттестация №1](dm-isit/dm-pr-att-1-fact.md)
 + ИБ
