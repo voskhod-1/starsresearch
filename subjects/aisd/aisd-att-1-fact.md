@@ -15,3 +15,9 @@
 ![аисд атта 1](https://github.com/user-attachments/assets/1e2dc17b-c43c-4587-9eae-9de8f21efe36)
 
 ![аисд атта 1](https://github.com/user-attachments/assets/ea71a2be-728b-49fb-abbc-d54d48e19f31)
+
+![image](https://github.com/user-attachments/assets/28622bc9-b4aa-4414-ac59-f9ba8454b278)
+
+![image](https://github.com/user-attachments/assets/0d259c39-b064-4a5b-b35d-431e32003474)
+
+![image](https://github.com/user-attachments/assets/4736a20e-2345-4ca5-aba1-0881987f0d88)
