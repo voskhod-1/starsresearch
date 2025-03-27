@@ -1,4 +1,4 @@
-![telegram-cloud-photo-size-2-5415665959248719969-y](https://github.com/user-attachments/assets/112c9bae-73e4-4bf1-908c-3b50a1795ae8)[назад](hist.md)
+[назад](hist.md)
 ***
 ![вариант номер 1](https://github.com/user-attachments/assets/26543a0c-d272-4bba-817b-743147c6e194)
 
