@@ -10,9 +10,9 @@
 
 ![алгем атта 1](https://github.com/user-attachments/assets/2e37b837-318b-4930-b9b0-5bd22e2bc2ac)
 
-![алгем атта 1](https://github.com/user-attachments/assets/47db03f1-93dc-43fc-b2b2-8f653fd8d8d0)
+![telegram-cloud-photo-size-2-5458674000814267394-y](https://github.com/user-attachments/assets/9d3a18f2-ce87-4061-96ea-0a9cd3f4d686)
 
-![алгем атта 1](https://github.com/user-attachments/assets/18e01c47-d53d-4ff0-92b3-2dd9cdc2f60c)
+![telegram-cloud-photo-size-2-5458674000814267399-y](https://github.com/user-attachments/assets/d6747f61-9916-4088-946d-33c942bcf8d7)
 
 ![алгем атта 1](https://github.com/user-attachments/assets/b4da9f6d-da6d-47d0-ac4d-f8bec9cf52c9)
 
