@@ -28,10 +28,10 @@
 + [Аттестация №3](mathan-preng/sem-1/mathan-pr-att-3-fact.md)
 
 ### Экзамен
-#### ИСиТ
+#### Сиро́та
 + [Воспоминания потерпевших](mathan-isit/mathan-exam-memories.md)
-+ [Билеты](mathan-isit/mathan-exam-tick.md)
-+ [Фактические варианты](mathan-isit/mathan-exam-fact.md)
++ [Билеты](th-sirota/mathan-1-exam-tick.md)
++ [Фактические варианты](th-sirota/mathan-exam-fact.md)
 #### ПрИнж
 + [Лекция](mathan-preng/sem-1/mathan-th-exam.md)
 + [Практика](mathan-preng/sem-1/mathan-pr-exam.md)
