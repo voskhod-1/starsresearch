@@ -29,7 +29,7 @@
 
 ### Экзамен
 #### Сиро́та
-+ [Воспоминания потерпевших](mathan-isit/mathan-exam-memories.md)
++ [Воспоминания потерпевших](th-sirota/mathan-exam-memories.md)
 + [Билеты](th-sirota/mathan-1-exam-tick.md)
 + [Фактические варианты](th-sirota/mathan-exam-fact.md)
 #### ПрИнж
