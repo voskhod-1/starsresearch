@@ -29,9 +29,9 @@
 
 ### Экзамен
 #### Сиро́та
-+ [Воспоминания потерпевших](th-sirota/mathan-exam-memories.md)
++ [Воспоминания потерпевших](th-sirota/mathan-1-exam-memories.md)
 + [Билеты](th-sirota/mathan-1-exam-tick.md)
-+ [Фактические варианты](th-sirota/mathan-exam-fact.md)
++ [Фактические варианты](th-sirota/mathan-1-exam-fact.md)
 #### ПрИнж
 + [Лекция](mathan-preng/sem-1/mathan-th-exam.md)
 + [Практика](mathan-preng/sem-1/mathan-pr-exam.md)
