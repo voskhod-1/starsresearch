@@ -1,4 +1,4 @@
-[назад](hist.md)
+![telegram-cloud-photo-size-2-5415665959248719969-y](https://github.com/user-attachments/assets/112c9bae-73e4-4bf1-908c-3b50a1795ae8)[назад](hist.md)
 ***
 ![вариант номер 1](https://github.com/user-attachments/assets/26543a0c-d272-4bba-817b-743147c6e194)
 
@@ -17,3 +17,8 @@
 ![вариант номер 11](https://github.com/user-attachments/assets/811923f4-878b-450c-8243-1fbf7dd12db9)
 
 ![вариант номер 13](https://github.com/user-attachments/assets/94314864-0a09-4f7d-92bb-24281acf50a2)
+
+![вариант номер 14](https://github.com/user-attachments/assets/57e81762-72fe-42dc-a201-404f5a520640)
+
+![telegram-cloud-photo-size-2-5415665959248719970-y](https://github.com/user-attachments/assets/30bd492f-15e3-445d-abbb-2cafd1fda718)
+
