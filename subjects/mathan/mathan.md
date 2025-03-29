@@ -37,8 +37,8 @@
 + [Практика](mathan-preng/sem-1/mathan-pr-exam.md)
 ## 2 семестр
 ### Лекция
-#### ИСиТ
-  + [Аттестация №1](https://boosty.to/starsresearch/)
+#### Сиро́та
+  + [Аттестация №1](th-sirota/mathan-2-th-att-1-fact.md)
 ### Практика
 #### ИСиТ
 + Некрасова
