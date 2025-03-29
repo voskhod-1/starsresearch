@@ -20,5 +20,7 @@
 
 ![вариант номер 14](https://github.com/user-attachments/assets/57e81762-72fe-42dc-a201-404f5a520640)
 
+![тайный вариант](https://github.com/user-attachments/assets/9215500f-e81c-46a4-bbcb-30d75a21ea67)
+
 ![telegram-cloud-photo-size-2-5415665959248719970-y](https://github.com/user-attachments/assets/30bd492f-15e3-445d-abbb-2cafd1fda718)
 
