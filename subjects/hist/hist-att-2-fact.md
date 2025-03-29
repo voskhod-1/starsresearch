@@ -98,10 +98,6 @@ Cs 2.3
 
 ![](https://github.com/user-attachments/assets/f2366f46-7ae9-4994-90a1-67d29e5e071c)
 
-![telegram-cloud-photo-size-2-5402554403346570188-y](https://github.com/user-attachments/assets/b3658ffd-a716-4d54-a9da-7112de50ad81)
-
-![](https://github.com/user-attachments/assets/40db1e50-9160-4bdc-846b-ec9d3c62ef52)
-
 ![telegram-cloud-photo-size-2-5415665959248719972-y](https://github.com/user-attachments/assets/8cb2c786-56a3-4e36-81ad-fa3092667ba1)
 
 ![telegram-cloud-photo-size-2-5415665959248719973-y](https://github.com/user-attachments/assets/5dac4640-494d-497e-b000-6d24c46adb4a)
