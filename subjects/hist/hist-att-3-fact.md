@@ -217,3 +217,7 @@ a) 1945
 ![telegram-cloud-photo-size-2-5402554403346570176-y](https://github.com/user-attachments/assets/e078335e-061e-44be-b8f8-17261b3536fc)
 
 ![telegram-cloud-photo-size-2-5402554403346570175-y](https://github.com/user-attachments/assets/1967c50e-5e0f-4378-986c-1903c7baee56)
+
+![telegram-cloud-photo-size-2-5402554403346570188-y](https://github.com/user-attachments/assets/b3658ffd-a716-4d54-a9da-7112de50ad81)
+
+![](https://github.com/user-attachments/assets/40db1e50-9160-4bdc-846b-ec9d3c62ef52)
