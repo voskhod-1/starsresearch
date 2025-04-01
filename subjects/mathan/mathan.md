@@ -39,7 +39,7 @@
 ### Лекция
 #### Сиро́та
   + [Аттестация №1](th-sirota/mathan-2-th-att-1-fact.md)
-  + [Аттестация №2](th-sirota/mathan-2-th-att-2-fact.md)
+  + [Аттестация №2](th-sirota/mathan-2-th-att-2-fact.md) ✨новое✨
 ### Практика
 #### ИСиТ
 + Некрасова
