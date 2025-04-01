@@ -117,6 +117,7 @@ Cs 2.3
 
 ![telegram-cloud-photo-size-2-5415665959248719979-y](https://github.com/user-attachments/assets/4f2ed20c-ce21-4092-be90-4cd1b1ff0c3d)
 
-![Uploading telegram-cloud-photo-size-2-5431727212790411274-y.jpg…]()
+![telegram-cloud-photo-size-2-5431727212790411274-y](https://github.com/user-attachments/assets/3130fc9b-e538-49cc-a80b-7f8f8128f68e)
+
 
 
