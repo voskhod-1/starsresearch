@@ -1,17 +1,13 @@
 # Проект "Звездочет"
 #### Студенты дуреют с этой прикормки
 [Автор идеи](https://github.com/callmeyura)
+
+# [Наш бот](https://t.me/AstronStarBot)
 ___
 ## Важное
 ### Просьба пройти короткий [опрос](https://forms.gle/BKqQA874LuyNTjdg8) для развития проекта
 ### Также ставьте звездочки репозиторию, чтобы проект был выше в поисковике
 ### С недавнего времени у проекта появился дублирующий веб-сайт [Ссылка](https://voskhod-1.github.io/starsresearch)
-***
-## Контакты для связи
-+ [Наш бот](https://t.me/AstronStarBot)
-+ starsresearchproject@gmail.com
-+ Pull request
-
 ***
 
 ## Предметы:
