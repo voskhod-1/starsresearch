@@ -8,7 +8,7 @@ ___
 ### С недавнего времени у проекта появился дублирующий веб-сайт [Ссылка](https://voskhod-1.github.io/starsresearch)
 ***
 ## Контакты для связи
-+ [Наш бот](https://t.me/feedbackVSU_bot)
++ [Наш бот](https://t.me/AstronStarBot)
 + starsresearchproject@gmail.com
 + Pull request
 
