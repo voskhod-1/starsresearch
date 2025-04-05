@@ -12,4 +12,4 @@
 
 ![матанализ практика вариант номер 6](https://github.com/user-attachments/assets/732af237-aac5-4d6d-9f8a-1fb92625f63b)
 
-![матанализ практика вариант номер 7](https://github.com/user-attachments/assets/b0ddca80-a348-4fe4-9c7e-9c3bfb61db87)
+![матанализ практика вариант номер 7](https://github.com/user-attachments/assets/64fbb8ad-c742-4bcb-b24e-9b7a3f1c50db)
