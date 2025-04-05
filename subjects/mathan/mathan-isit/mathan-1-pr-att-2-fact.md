@@ -16,6 +16,8 @@
 
 ![матанализ практика вариант номер 1](https://github.com/user-attachments/assets/82c6cc0b-8d36-4ee8-9475-fab23433c47c)
 
+## Задания прошлых лет
+
 ![матанализ практика вариант номер 1](https://github.com/user-attachments/assets/298dffd3-9092-4b75-91a1-e0b3606f4109)
 
 ![матанализ практика вариант номер 2](https://github.com/user-attachments/assets/62c4ef69-fa61-491e-b953-d520d9a5d887)
