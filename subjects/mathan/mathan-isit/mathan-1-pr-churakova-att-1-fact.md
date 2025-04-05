@@ -3,6 +3,8 @@
 ### Важное уточнение: в 2024 году Чуракова давала в самостоятельных работах задания, которые уже решали на практике
 ***
 ## 2024
+![telegram-cloud-photo-size-2-5444876031828815180-y](https://github.com/user-attachments/assets/f7412243-df70-4610-a70d-47b061487313)
+
 ![Screenshot 2025-01-14 at 01 34 04](https://github.com/user-attachments/assets/6a19db06-fa69-460f-aed5-2b5659c2654c)
 
 ![Screenshot 2025-01-14 at 01 34 14](https://github.com/user-attachments/assets/0958186d-8d32-4310-8518-c174b15fc4b4)
