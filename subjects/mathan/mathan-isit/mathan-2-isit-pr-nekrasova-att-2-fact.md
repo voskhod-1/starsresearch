@@ -2,8 +2,6 @@
 ***
 ![](https://github.com/user-attachments/assets/f9db805e-2d7a-4d12-9e77-851c60e1db04)
 
-![telegram-cloud-photo-size-2-5402554403346570188-y](https://github.com/user-attachments/assets/677f84c2-9379-4f9f-8b52-2fe4c118ce14)
-
 ![](https://github.com/user-attachments/assets/de330cf0-85fd-4ee8-b744-53db247831e0)
 
 ![](https://github.com/user-attachments/assets/76bd4b63-8d56-47cd-be96-5b503ebec3d1)
