@@ -212,6 +212,8 @@ a) 1945
 
 10. перестройка
 ***
+![telegram-cloud-photo-size-2-5402554403346570188-y](https://github.com/user-attachments/assets/677f84c2-9379-4f9f-8b52-2fe4c118ce14)
+
 ![telegram-cloud-photo-size-2-5402554403346570177-y](https://github.com/user-attachments/assets/45bb2e89-0cdf-4f09-8254-8206099bb648)
 
 ![telegram-cloud-photo-size-2-5402554403346570176-y](https://github.com/user-attachments/assets/e078335e-061e-44be-b8f8-17261b3536fc)
