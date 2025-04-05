@@ -19,5 +19,5 @@
 
 ### Экзамен
 + Сычев
- + [Фактические варианты](toinf-th-exam-fact.md)
- + [Готовые билеты](toinf-th-exam-tickets.md)
+  + [Фактические варианты](toinf-th-exam-fact.md)
+  + [Готовые билеты](toinf-th-exam-tickets.md)
