@@ -6,8 +6,6 @@
 
 ![матанализ практика вариант номер 3](https://github.com/user-attachments/assets/01d48135-624f-479e-b04a-f5858e19be0c)
 
-![матанализ практика вариант номер 4](https://github.com/user-attachments/assets/18d5d6b7-24b7-4388-9bd4-db18780cdeae)
-
 ![матанализ практика вариант номер 5](https://github.com/user-attachments/assets/23c0286c-48a3-4123-86b8-18b3e0929714)
 
 ![матанализ практика вариант номер 6](https://github.com/user-attachments/assets/732af237-aac5-4d6d-9f8a-1fb92625f63b)
