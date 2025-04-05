@@ -3,8 +3,6 @@
 ### Важное уточнение: в 2024 году Чуракова давала в самостоятельных работах задания, которые уже решали на практике
 ***
 ## 2024
-![telegram-cloud-photo-size-2-5444876031828815180-y](https://github.com/user-attachments/assets/f7412243-df70-4610-a70d-47b061487313)
-
 ![Screenshot 2025-01-14 at 01 34 04](https://github.com/user-attachments/assets/6a19db06-fa69-460f-aed5-2b5659c2654c)
 
 ![Screenshot 2025-01-14 at 01 34 14](https://github.com/user-attachments/assets/0958186d-8d32-4310-8518-c174b15fc4b4)
@@ -23,16 +21,14 @@
 
 ## Задания прошлых лет
 
-![матанализ практика вариант номер 1](../../../images/mathan/sem-1/practice/att1/math-isit-pr1/pr1.jpg)
+![матанализ практика вариант номер 1](https://github.com/user-attachments/assets/84528865-a6d4-4f5b-a5b4-6891802aebd1)
 
-![матанализ практика вариант номер 2](../../../images/mathan/sem-1/practice/att1/math-isit-pr1/pr2.jpg)
+![матанализ практика вариант номер 2](https://github.com/user-attachments/assets/6cbf54b4-513c-4e76-bbc4-01688d7b6eb6)
 
-![матанализ практика вариант номер 3](../../../images/mathan/sem-1/practice/att1/math-isit-pr1/pr3.jpg)
+![матанализ практика вариант номер 3](https://github.com/user-attachments/assets/a8605f41-a19c-4bc8-ad7f-77c4db1b74fe)
 
-![матанализ практика вариант номер 4](../../../images/mathan/sem-1/practice/att1/math-isit-pr1/pr4.jpg)
+![матанализ практика вариант номер 4](https://github.com/user-attachments/assets/7573aa39-8f0a-4f50-a574-54b835a4d40d)
 
-![матанализ практика вариант номер 5](../../../images/mathan/sem-1/practice/att1/math-isit-pr1/pr5.jpg)
+![матанализ практика вариант номер 5](https://github.com/user-attachments/assets/f25f2db9-4b1d-4b9e-bb2c-d8b713bbac4c)
 
-![матанализ практика вариант номер 6](../../../images/mathan/sem-1/practice/att1/math-isit-pr1/pr6.jpg)
-
-![матанализ практика вариант номер 7](../../../images/mathan/sem-1/practice/att1/math-isit-pr1/pr7.jpg)
+![матанализ практика вариант номер 6](https://github.com/user-attachments/assets/38187f98-f3bf-4a21-9996-4610375a59e4)
