@@ -24,6 +24,9 @@
 ![Пересдача 2 матан](https://github.com/user-attachments/assets/2878409e-cc2e-4e8f-9d19-56d5e3b06e15)
 
 ![Пересдача 3 матан](https://github.com/user-attachments/assets/3191c454-d87e-405c-a142-77b5a5305301)
-## Пересдача с комиссией
+## Комиссия
+![telegram-cloud-photo-size-2-5447187505918114461-y](https://github.com/user-attachments/assets/49737413-e5be-4d2b-a857-c569ba807ca0)
+
+![telegram-cloud-photo-size-2-5447187505918114463-y](https://github.com/user-attachments/assets/c005af33-6d70-4135-ac9d-40a4782c792e)
 
 ![Комиссия матан](https://github.com/user-attachments/assets/d7d25f1c-cfd8-42b0-abfa-38ddb9d4f531)
