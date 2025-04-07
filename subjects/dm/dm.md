@@ -29,7 +29,8 @@
   + [Учебник](https://github.com/user-attachments/files/18893356/_._._._._._._Python_2_._.2.pdf)
 ### Практика
 + Попов
-  + [Аттестация №1](dm-preng/dm-pr-att-1-fact.md)✨новое✨
+  + [Аттестация №1](dm-preng/dm-pr-att-1-fact.md) ✨новое✨
+  + [Аттестация №2](dm-preng/dm-pr-att-2-fact.md) ✨новое✨
   + [Аттестация №3](dm-preng/dm-pr-att-3-fact.md)
 + Стукалова
   + [Аттестация №1](dm-isit/dm-pr-att-1-fact.md)
