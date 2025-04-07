@@ -62,48 +62,23 @@ Cs 2.3
 
 Какая страна воевала на стороне Антанты во время 1 мировой  (8 вопрос)
 ***
+![хз](https://github.com/user-attachments/assets/835aa49d-eb9d-458d-87ae-4dc0c60907c6)
 
-![1](https://github.com/user-attachments/assets/af286a3e-512f-458b-9810-e36bfde5c55c)
+![2.1](https://github.com/user-attachments/assets/f2366f46-7ae9-4994-90a1-67d29e5e071c)
 
-![2](https://github.com/user-attachments/assets/c209fa05-12ad-4009-b00d-fc1af556bdf1)
+![2.2](https://github.com/user-attachments/assets/58991b23-8b2b-488f-bb7a-17faa2d56f19)
 
-![3](https://github.com/user-attachments/assets/2e4c255d-dbc6-4d5a-9e13-5e5b9ba173ee)
+![2.2New](https://github.com/user-attachments/assets/93085a23-1d6f-430f-ae7e-cb01644ee024)
 
-![4](https://github.com/user-attachments/assets/58991b23-8b2b-488f-bb7a-17faa2d56f19)
+![2.3](https://github.com/user-attachments/assets/3130fc9b-e538-49cc-a80b-7f8f8128f68e)
 
-![5](https://github.com/user-attachments/assets/bccb721c-5b1e-42ae-8c77-6c8b5f8b64c7)
+![2.4](https://github.com/user-attachments/assets/d201f01a-47c2-441f-9a29-dab63549296c)
 
-![6](https://github.com/user-attachments/assets/ad4bd739-b657-4b9d-b527-a9b29bd92d23)
+![2.5](https://github.com/user-attachments/assets/1e515408-bdab-42c8-a45d-c9b4af808ed7)
 
-![7](https://github.com/user-attachments/assets/893e3c06-b41d-45e1-b440-fde4cb81c94e)
-
-![8](https://github.com/user-attachments/assets/9d43ba4d-9f98-41f3-995d-a4b63dee8bc6)
-
-![9](https://github.com/user-attachments/assets/f98435f8-e23c-4855-914d-cb57165f40cf)
-
-![10](https://github.com/user-attachments/assets/93085a23-1d6f-430f-ae7e-cb01644ee024)
-
-![11](https://github.com/user-attachments/assets/835aa49d-eb9d-458d-87ae-4dc0c60907c6)
-
-![12](https://github.com/user-attachments/assets/69fb69ed-7a19-4502-a8cc-e5e529f1705e)
-
-![13](https://github.com/user-attachments/assets/7ef04013-020a-4e44-b2a2-4b4ebf83b76a)
-
-![14](https://github.com/user-attachments/assets/1e515408-bdab-42c8-a45d-c9b4af808ed7)
-
-![15](https://github.com/user-attachments/assets/a9724c64-3d24-42fc-ba06-0aaf7ba228db)
-
-![telegram-cloud-photo-size-2-5213306272995203582-y](https://github.com/user-attachments/assets/e0edcb31-bd14-4527-bcc1-46a1e6f35965)
-
-![](https://github.com/user-attachments/assets/e8192094-1495-47f6-ac3f-edb4e690a993)
-
-![](https://github.com/user-attachments/assets/01eb38f5-5850-4502-9d5b-385f027307c3)
-
-![telegram-cloud-photo-size-2-5213306272995203587-y](https://github.com/user-attachments/assets/8cffe287-b391-4c07-9de5-2e103d8b0aa8)
-
-![](https://github.com/user-attachments/assets/f2366f46-7ae9-4994-90a1-67d29e5e071c)
-
-![telegram-cloud-photo-size-2-5431727212790411274-y](https://github.com/user-attachments/assets/3130fc9b-e538-49cc-a80b-7f8f8128f68e)
+![2.6](https://github.com/user-attachments/assets/e8192094-1495-47f6-ac3f-edb4e690a993)
+***
+## Рукописи
 
 ![telegram-cloud-photo-size-2-5415665959248719972-y](https://github.com/user-attachments/assets/8cb2c786-56a3-4e36-81ad-fa3092667ba1)
 
