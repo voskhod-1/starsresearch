@@ -29,4 +29,3 @@
 
 ![telegram-cloud-photo-size-2-5447187505918114463-y](https://github.com/user-attachments/assets/c005af33-6d70-4135-ac9d-40a4782c792e)
 
-![Комиссия матан](https://github.com/user-attachments/assets/d7d25f1c-cfd8-42b0-abfa-38ddb9d4f531)
