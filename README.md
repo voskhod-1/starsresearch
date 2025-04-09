@@ -27,7 +27,6 @@
 + [Теоретические основы информатики](subjects/toinf/toinf.md)
 + [Теория вероятностей и математическая статистика](subjects/terver/terver.md) ✨новый предмет✨
 + [Теория функций комплексного переменного](subjects/tfkp/tfkp.md) ✨новый предмет✨
-+ [Физическая культура](subjects/phys-edu/phys-edu.md)
 + [Экономика и финансовая грамотность](subjects/economy/economy.md)
 + [Язык Си](subjects/clang/clang.md)
 
