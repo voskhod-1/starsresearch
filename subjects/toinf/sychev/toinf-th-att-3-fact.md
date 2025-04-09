@@ -1,4 +1,4 @@
-[назад](toinf.md)
+[назад](../toinf.md)
 ***
 ![тоинф вариант 1](https://github.com/user-attachments/assets/3b5dacf2-a914-4506-b1d7-57e6de21f39f)
 
