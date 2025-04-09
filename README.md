@@ -18,6 +18,7 @@
 + [Веб-технологии](subjects/web/web.md)
 + [Деловое общение и культура речи/Русский язык](subjects/russian/russian.md)
 + [Дискретная математика](subjects/dm/dm.md)
++ [Дифференциальные уравнения](subjects/diffur/diffur.md)
 + [История России](subjects/hist/hist.md)
 + [Линейная Алгебра](subjects/lin-alg/lin-alg.md)
 + [Математический анализ](subjects/mathan/mathan.md)
