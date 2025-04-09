@@ -1,4 +1,4 @@
-[назад](../../mathan.md)
+[назад](../mathan.md)
 ***
 ![матанализ атта 11](https://github.com/user-attachments/assets/360cdcac-ad4f-4631-9ad0-248d6e6271d2)
 
