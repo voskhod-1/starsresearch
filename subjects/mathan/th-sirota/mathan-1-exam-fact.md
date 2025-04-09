@@ -25,6 +25,9 @@
 
 ![Пересдача 3 матан](https://github.com/user-attachments/assets/3191c454-d87e-405c-a142-77b5a5305301)
 ## Комиссия
+1. Теорема Вейерштрасса для монотонных последовательностей
+2. Математическая индукция
+***
 ![telegram-cloud-photo-size-2-5447187505918114461-y](https://github.com/user-attachments/assets/49737413-e5be-4d2b-a857-c569ba807ca0)
 
 ![telegram-cloud-photo-size-2-5447187505918114463-y](https://github.com/user-attachments/assets/c005af33-6d70-4135-ac9d-40a4782c792e)
