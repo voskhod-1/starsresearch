@@ -7,6 +7,8 @@
   + [Аттестация №1](tfkp-att-1-theory.md)
 ### Практика
 + Чуракова
-  + [Аттестация №1](tfkp-att-1-pract.md)
+  + [Аттестация №1](tfkp-churakova-att-1-pract.md)
++ Попов
+  + [Аттестация №1](tfkp-popov-att-1-pract.md)
 ### Экзамен
 + Материалы отсутствуют
