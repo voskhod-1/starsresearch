@@ -1,4 +1,4 @@
-[назад](../../mathan.md)
+[назад](../mathan.md)
 ***
 ![матанализ практика вариант номер 1](https://github.com/user-attachments/assets/44a40490-7a48-432a-8cb2-46130912b1cd)
 
