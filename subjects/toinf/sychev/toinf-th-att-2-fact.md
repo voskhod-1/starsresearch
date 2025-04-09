@@ -1,4 +1,4 @@
-  [назад](toinf.md)
+[назад](../toinf.md)
 ***
 ![тоинф теория вариант 1](https://github.com/user-attachments/assets/ea29255b-d5b6-4f60-86f0-ef8ef6016301)
 
