@@ -3,9 +3,10 @@
 # Теоретические основы информатики
 ## 1 Семестр
 ### Лекция
-+ [Аттестация №1](sychev/toinf-th-att-1-fact.md)
-+ [Аттестация №2](sychev/toinf-th-att-2-fact.md)
-+ [Аттестация №3](sychev/toinf-th-att-3-fact.md)
++ Сычев
+  + [Аттестация №1](sychev/toinf-th-att-1-fact.md)
+  + [Аттестация №2](sychev/toinf-th-att-2-fact.md)
+  + [Аттестация №3](sychev/toinf-th-att-3-fact.md)
 ### Практика
 + Попова
   + [Аттестация №1](popova/toinf-pr-att-1-fact.md)
