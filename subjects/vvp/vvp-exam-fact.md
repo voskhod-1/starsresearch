@@ -94,6 +94,8 @@
 
 ![Задание 45 2024](https://github.com/user-attachments/assets/1cae1ca3-1649-4d0f-9d86-a32a9028d9ec)
 
+## Комиссия
+![telegram-cloud-photo-size-2-5453876857352088541-y](https://github.com/user-attachments/assets/a61fd5f0-dcb3-42c3-a8d4-4b85b37ba2e0)
 
 ## Задания прошлых лет
 ![введение в программирование задание 1](https://github.com/user-attachments/assets/aa90400d-5796-43e4-b154-1e473bc914a1)
