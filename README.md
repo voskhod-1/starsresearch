@@ -25,7 +25,7 @@
 + [Основы российской государственности](subjects/org/org.md)
 + [Система подготовки электронных документов](subjects/sped/sped.md)
 + [Теоретические основы информатики](subjects/toinf/toinf.md)
-+ [Теория функций комплексного переменного](subjects/tfkp/tfkp.md)
++ [Теория функций комплексного переменного](subjects/tfkp/tfkp.md) ✨теперь и для 2 семестра✨
 + [Физическая культура](subjects/phys-edu/phys-edu.md)
 + [Экономика и финансовая грамотность](subjects/economy/economy.md)
 + [Язык Си](subjects/clang/clang.md)
