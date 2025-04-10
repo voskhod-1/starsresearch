@@ -37,6 +37,39 @@ int main() {
 ```
 ```cpp
 #include <iostream>
+using namespace std;
+
+void removeEverySecondTriad(char* input) {
+    char* p = input;
+    char* q = input;
+
+    while (*q != '\0') {
+        int i = 0;
+        while (i < 3 && *q != '\0') {
+            *p = *q;
+            p++;
+            q++;
+            i++;
+        }
+    
+        if (*q != '\0') {
+            q += 3;
+        }
+    }
+    *p = '\0';
+}
+
+int main() {
+    setlocale(LC_ALL, "Russian");
+    char input[] = "abcdefgh"; 
+    cout << "Исходная строка: " << input << endl;  
+    removeEverySecondTriad(input);   
+    cout << "Результирующая строка: " << input << endl;
+    return 0;
+}
+```
+```cpp
+#include <iostream>
 #include <cstring>
 
 void duplicateCharsWithCharArray(char* input) {
