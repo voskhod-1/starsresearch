@@ -1,5 +1,6 @@
 [Назад](../dm.md)
 ***
+## Тут все вперемешку, так что думайте сами
 ![telegram-cloud-photo-size-2-5447187505918114335-x](https://github.com/user-attachments/assets/e81d9c40-cee3-4e81-ab26-4df03d84761d)
 
 ![telegram-cloud-photo-size-2-5447187505918114336-y](https://github.com/user-attachments/assets/5faf6b1b-07f7-4dbf-a4bd-7c59b6745923)
