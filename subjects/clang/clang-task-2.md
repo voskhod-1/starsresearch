@@ -97,3 +97,45 @@ int main() {
     return 0;
 }
 ```
+```cpp
+#include <iostream>
+#include <cstring>
+#include <locale>
+using namespace std;
+
+int main() {
+    locale::global(locale("")); // Системная локаль
+    wcout.imbue(locale());      // Для широкого вывода (если нужно)
+
+    char input[256];  // Буфер для ввода
+    char output[512]; // Выходной буфер (вдвое больше, т.к. дублируем символы)
+
+    cout << "Введите строку: ";
+    cin.getline(input, sizeof(input)); // Читаем строку с пробелами
+
+    const char* src = input;  // Указатель на input
+    char* dst = output;       // Указатель на output
+
+    while (*src != '\0') {
+        const char* triplet_start = src; // Запоминаем начало тройки
+
+        // Копируем 3 символа (или меньше)
+        for (int i = 0; i < 3 && *src != '\0'; ++i) {
+            *dst++ = *src++; // Копируем и двигаем указатели
+        }
+
+        src = triplet_start; // Возвращаемся к началу тройки
+
+        // Дублируем те же 3 символа
+        for (int i = 0; i < 3 && *src != '\0'; ++i) {
+            *dst++ = *src++; // Копируем ещё раз
+        }
+    }
+
+    *dst = '\0'; // Завершаем строку
+
+    cout << output << endl;
+
+    return 0;
+}
+```
