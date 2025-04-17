@@ -1,5 +1,7 @@
 [Назад](../dm.md)
 ***
+![telegram-cloud-document-2-5474233490050414437](https://github.com/user-attachments/assets/0517d01b-89d7-40a8-b404-a3ed49fa9b05)
+
 ![telegram-cloud-document-2-5474233490050414435](https://github.com/user-attachments/assets/411b2f90-cdbc-43df-b6ba-bdd0e7203f71)
 
 ![telegram-cloud-photo-size-2-5359509042810187966-y](https://github.com/user-attachments/assets/fddf9873-4209-444c-ba1e-3089022f68ca)
