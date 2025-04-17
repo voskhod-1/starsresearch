@@ -45,6 +45,7 @@
 + Некрасова
   + [Аттестация №1](nekrasova/mathan-2-isit-pr-att-1-fact.md)
   + [Аттестация №2](nekrasova/mathan-2-isit-pr-att-2-fact.md) ✨новое✨
+  + [Аттестация №3](nekrasova/mathan-2-isit-pr-att-3-fact.md) ✨новое✨
   + [Учебник](https://github.com/user-attachments/files/18893956/default.pdf)
 #### ПрИнж
 + [Аттестация №1](mathan-preng/mathan-2-pr-att-1-fact.md)
