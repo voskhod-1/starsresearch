@@ -23,9 +23,10 @@
 + [Аттестация №2](mathan-mkn/mathan-pr-att-2-fact.md)
 + [Аттестация №3](mathan-mkn/mathan-pr-att-3-fact.md)
 #### ПрИнж
-+ [Аттестация №1](mathan-preng/mathan-1-pr-att-1-fact.md)
-+ [Аттестация №2](mathan-preng/mathan-1-pr-att-2-fact.md)
-+ [Аттестация №3](mathan-preng/mathan-1-pr-att-3-fact.md)
++ Пашкевич
+  + [Аттестация №1](paskevic/mathan-1-pr-att-1-fact.md)
+  + [Аттестация №2](paskevic/mathan-1-pr-att-2-fact.md)
+  + [Аттестация №3](paskevic/mathan-1-pr-att-3-fact.md)
 
 ### Экзамен
 #### Сиро́та
@@ -33,8 +34,8 @@
 + [Билеты](sirota/mathan-1-exam-tick.md)
 + [Фактические варианты](sirota/mathan-1-exam-fact.md)
 #### ПрИнж
-+ [Лекция](mathan-preng/mathan-1-th-exam.md)
-+ [Практика](mathan-preng/mathan-1-pr-exam.md)
++ [Лекция](paskevic/mathan-1-th-exam.md)
++ [Практика](paskevic/mathan-1-pr-exam.md)
 ## 2 семестр
 ### Лекция
 #### Сиро́та
@@ -48,6 +49,7 @@
   + [Аттестация №3](nekrasova/mathan-2-isit-pr-att-3-fact.md) ✨новое✨
   + [Учебник](https://github.com/user-attachments/files/18893956/default.pdf)
 #### ПрИнж
-+ [Аттестация №1](mathan-preng/mathan-2-pr-att-1-fact.md)
-+ [Аттестация №2](mathan-preng/mathan-2-pr-att-2-fact.md)
-+ [Аттестация №3](mathan-preng/mathan-2-pr-att-3-fact.md)
++ Пашкевич
+  + [Аттестация №1](paskevic/mathan-2-pr-att-1-fact.md)
+  + [Аттестация №2](paskevic/mathan-2-pr-att-2-fact.md)
+  + [Аттестация №3](paskevic/mathan-2-pr-att-3-fact.md)
