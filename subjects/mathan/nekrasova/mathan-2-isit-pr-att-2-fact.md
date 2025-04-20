@@ -1,4 +1,4 @@
-[Назад](../dm.md)
+[Назад](../mathan.md)
 ***
 
 ![Вариант 5](https://github.com/user-attachments/assets/b5916b51-0254-4c8c-97bc-f7c1fb131ebd)
