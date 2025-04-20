@@ -24,6 +24,9 @@
 ![Пересдача 2 матан](https://github.com/user-attachments/assets/2878409e-cc2e-4e8f-9d19-56d5e3b06e15)
 
 ![Пересдача 3 матан](https://github.com/user-attachments/assets/3191c454-d87e-405c-a142-77b5a5305301)
+
+![Пересдача 4 матан](https://github.com/user-attachments/assets/e9fe1ef0-3c5a-48cd-af6f-69960ca3f1b6)
+
 ## Комиссия
 1. Теорема Вейерштрасса для монотонных последовательностей
 2. Математическая индукция
