@@ -1,6 +1,7 @@
 [Назад](../mathan.md)
 ***
-
+Добавили прорешанные варианты на [бусти](https://boosty.to/starsresearch)
+***
 ![Вариант 5](https://github.com/user-attachments/assets/b5916b51-0254-4c8c-97bc-f7c1fb131ebd)
 
 ![Вариант 7](https://github.com/user-attachments/assets/0e714ff0-5f6e-49f0-90c3-2e956d4b7e14)
