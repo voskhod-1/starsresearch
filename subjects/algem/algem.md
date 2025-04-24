@@ -3,7 +3,8 @@
 # Алгебра и геометрия
 ## 2 Семестр
 ### Практика
-+ [Гайд по алгему](algem-guide.md)
++ [Гайд по алгему ч.1](algem-guide.md)
++ [Гайд по алгему ч.2](https://boosty.to/starsresearch)
 + Чуракова
   + [Аттестация №1](churakova/algem-att-1-fact.md)
   + [Аттестация №2](churakova/algem-att-2-fact.md)
