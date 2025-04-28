@@ -24,6 +24,8 @@
 
 + [Методичка практика 2](https://github.com/user-attachments/files/19096696/Methodics_on_practice_var_2.pdf)
 
++ [Как запустить эмулятор на MacOS](archevm-mac.md)
+
 ### Экзамен
 
 + [Пересдача](archevm-exam-fact.md)✨новое✨
