@@ -53,3 +53,8 @@
   + [Аттестация №1](paskevic/mathan-2-pr-att-1-fact.md)
   + [Аттестация №2](paskevic/mathan-2-pr-att-2-fact.md)
   + [Аттестация №3](paskevic/mathan-2-pr-att-3-fact.md)
+#### ПрИнф
++ Толкачев
+  + [Аттестация №1](tolkachev/mathan-2-pr-att-1-fact.md)
+  + [Аттестация №2](tolkachev/mathan-2-pr-att-2-fact.md)
+  + [Аттестация №3](tolkachev/mathan-2-pr-att-3-fact.md)
