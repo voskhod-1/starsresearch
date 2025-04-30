@@ -38,6 +38,8 @@
 + [Культурология](archive/subjects/cult/cult.md)
 
 ***
+[Boosty](https://boosty.to/starsresearch)
+
 [Полезные ресурсы](smth/resources.md)
 
 [Minecraft](smth/Minecraft.md)✨новое✨
