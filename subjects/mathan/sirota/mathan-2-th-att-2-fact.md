@@ -18,6 +18,20 @@
 
 7. Тоже самое что и в другом варианте
 ***
-![telegram-cloud-photo-size-2-5431727212790411292-y](https://github.com/user-attachments/assets/2732c1cf-bd85-465b-a1e8-eec8713bdde1)
+![Вариант 2.1](https://github.com/user-attachments/assets/2732c1cf-bd85-465b-a1e8-eec8713bdde1)
 
-![telegram-cloud-photo-size-2-5431727212790411293-y](https://github.com/user-attachments/assets/e61e731d-5d0d-4fdb-ad19-e5ffc5590679)
+![Вариант 2.2](https://github.com/user-attachments/assets/e61e731d-5d0d-4fdb-ad19-e5ffc5590679)
+***
+![Вариант 3.1](https://github.com/user-attachments/assets/f8432f7d-0833-45b2-9cd2-52d0eeffa4a9)
+
+![Вариант 3.2](https://github.com/user-attachments/assets/3a2f707d-fca1-463f-ae56-89eeb9a3ede7)
+
+***
+4 вариант:
+1. определение интегральной суммы 
+2. определение первообразной с примером 
+3. основные классы интегрируемых функций 
+4. теорема и доказательство интегрируемости непрерывной функции
+5. интеграл из 2 варианта
+6. теорема и доказательство интегрируемости монотонной функции
+7. dx/(sin²x cos²x)
