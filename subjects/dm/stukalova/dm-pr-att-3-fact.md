@@ -1,11 +1,10 @@
 [Назад](../dm.md)
 ***
 ## Тут все вперемешку, так что думайте сами
-![telegram-cloud-photo-size-2-5447187505918114335-x](https://github.com/user-attachments/assets/e81d9c40-cee3-4e81-ab26-4df03d84761d)
+![Атта 2 отношение](https://github.com/user-attachments/assets/e81d9c40-cee3-4e81-ab26-4df03d84761d)
 
-![telegram-cloud-photo-size-2-5447187505918114336-y](https://github.com/user-attachments/assets/5faf6b1b-07f7-4dbf-a4bd-7c59b6745923)
+![Атта 3](https://github.com/user-attachments/assets/5faf6b1b-07f7-4dbf-a4bd-7c59b6745923)
 
-![telegram-cloud-photo-size-2-5447187505918114337-y](https://github.com/user-attachments/assets/f55bfcbb-bf6a-4b70-a978-7b3c9c26d002)
 
 ![telegram-cloud-photo-size-2-5447187505918114337-y](https://github.com/user-attachments/assets/c5be89e5-5085-4d67-a041-dc3e608e88a0)
 
