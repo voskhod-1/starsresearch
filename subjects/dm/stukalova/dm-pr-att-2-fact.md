@@ -8,7 +8,8 @@
 
 ![-5238020498363904812_121](https://github.com/user-attachments/assets/74ad07f1-d03a-420a-8680-cf64b2d249f3)
 
-![Задание 2](https://github.com/user-attachments/assets/0558792c-4cd6-4a2a-8b86-2a27e58dc406)
+![Задание 2](https://github.com/user-attachments/assets/44d60ca6-e1f8-471d-9c9f-23cbb1c66668)
+
 
 ![-5238020498363904851_120](https://github.com/user-attachments/assets/3a80af55-36e5-46b1-bc65-0ed1adf57c67)
 
