@@ -1,6 +1,7 @@
 [Назад](../mathan.md)
 ***
-![image](https://github.com/user-attachments/assets/cc360a51-fcbe-4c45-9ed3-638d7b015a57)
+![image](https://github.com/user-attachments/assets/a14dd619-f00a-4047-8dff-4ad03bc1dff3)
+
 
 ![image](https://github.com/user-attachments/assets/83f46826-1c91-4d2d-aa47-c741d865e087)
 ***
