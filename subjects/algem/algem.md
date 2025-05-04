@@ -4,7 +4,7 @@
 ## 2 Семестр
 ### Практика
 + [Гайд по алгему атт.1](algem-guide-1.md)
-+ [Гайд по алгему атт.2](algem-guide-2.md)
++ [Гайд по алгему атт.2](algem-guide-2.pdf)
 + Чуракова
   + [Аттестация №1](churakova/algem-att-1-fact.md)
   + [Аттестация №2](churakova/algem-att-2-fact.md)
