@@ -1,6 +1,13 @@
 [Назад](../mathan.md)
 ***
-Добавили прорешанные варианты на [бусти](https://boosty.to/starsresearch)
+![1,5,9,13 вариант](https://github.com/user-attachments/assets/fbc67eb9-1cfa-4a8f-839a-070dcb77f6fc)
+
+![2,6,10,14 вариант](https://github.com/user-attachments/assets/a95b8873-7ba4-4f3e-a93b-4271973b68a4)
+
+![3,7,11,15 вариант](https://github.com/user-attachments/assets/dd7f0638-ebb2-4c4a-82bf-a6d0b293a14d)
+
+![4,8,12,16 вариант](https://github.com/user-attachments/assets/feee9d4e-98a4-4543-b30c-4c9896192230)
+
 ***
 ![Вариант 5](https://github.com/user-attachments/assets/b5916b51-0254-4c8c-97bc-f7c1fb131ebd)
 
