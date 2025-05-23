@@ -3,62 +3,68 @@
 Как правило в заданиях требовалось каким-либо образом изменить массив
 ```cpp
 #include <iostream>
+#include <cstring>
 using namespace std;
 
-void reverse_rows(int** matrix, int rows, int cols) {
-    for (int i = 0; i < rows; i++) {
-        int* start = matrix[i];          
-        int* end = matrix[i] + cols - 1; 
-        
-        while (start < end) {
-            int temp = *start;
-            *start = *end;
-            *end = temp;
-            
-            start++;
-            end--;
+
+void deleteArray(int** arr) {
+    delete[] * arr;
+    delete[] arr;
+}
+void printArray(int** arr, int ROW, int COL) {
+    for (int i = 0; i < ROW; i++) {
+        for (int j = 0; j < COL; j++) {
+            cout << *(*(arr + i) + j) << "\t";
         }
+        cout << endl;
     }
 }
+int** removeOddRows(int** arr, int row, int col, int newRowCount) {
+    int* newLine = new int[newRowCount * col];
+    int** newArr = new int* [newRowCount];
 
-int main() {
-    const int rows = 4;
-    const int cols = 3;
-    
-    int** matrix = new int*[rows];
-    for (int i = 0; i < rows; i++) {
-        matrix[i] = new int[cols];
-    }
-    
-    for (int i = 0; i < rows; i++) {
-        for (int j = 0; j < cols; j++) {
-            matrix[i][j] = i * cols + j;
+    int newIndex = 0;
+    for (int i = 1; i < row; i += 2) {
+        for (int j = 0; j < col; j++) {
+            *(newLine + newIndex * col + j) = *(*(arr + i) + j);
         }
+        *(newArr + newIndex) = newLine + newIndex * col;
+        newIndex++;
     }
-    
-    cout << "матрица до:\n";
-    for (int i = 0; i < rows; i++) {
-        for (int j = 0; j < cols; j++) {
-            cout << matrix[i][j] << " ";
-        }
-        cout << endl;
+
+    return newArr;
+}
+int** createArr(int row, int col) {
+    int* line = new int[row * col];
+    for (int i = 0; i < row * col; i++) {
+        *(line + i) = rand() % 99;
     }
-    
-    reverse_rows(matrix, rows, cols);
-    
-    cout << "\nматрица после:\n";
-    for (int i = 0; i < rows; i++) {
-        for (int j = 0; j < cols; j++) {
-            cout << matrix[i][j] << " ";
-        }
-        cout << endl;
+    int** arr = new int* [row];
+    for (int i = 0; i < row; i++) {
+        *(arr + i) = line + col * i;
     }
-    
-    for (int i = 0; i < rows; i++) {
-        delete[] matrix[i];
-    }
-    delete[] matrix;
-    
+    return arr;
+}
+int main()
+{
+    int row = 4, col = 4;
+    int** arr = createArr(row, col);
+    cout << "Original array " << endl;
+    printArray(arr, row, col);
+
+
+    int newRowCount = row / 2;
+    int** secondArr = removeOddRows(arr, row, col, newRowCount);
+
+    cout << "\nArray after removing odd rows " << endl;
+     printArray(secondArr, newRowCount, col);
+
+    deleteArray(arr);
+    deleteArray(secondArr);
+
     return 0;
+
+    return 0;
+
 }
 ```
