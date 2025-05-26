@@ -40,12 +40,12 @@
 ### Лекция
 #### Сиро́та
   + [Аттестация №1](sirota/mathan-2-th-att-1-fact.md)
-  + [Аттестация №2](sirota/mathan-2-th-att-2-fact.md) ✨новое✨
+  + [Аттестация №2](sirota/mathan-2-th-att-2-fact.md)
 ### Практика
 #### ИСиТ
 + Некрасова
   + [Аттестация №1](nekrasova/mathan-2-isit-pr-att-1-fact.md)
-  + [Аттестация №2](nekrasova/mathan-2-isit-pr-att-2-fact.md) ✨новое✨
+  + [Аттестация №2](nekrasova/mathan-2-isit-pr-att-2-fact.md)
   + [Аттестация №3](nekrasova/mathan-2-isit-pr-att-3-fact.md) ✨новое✨
   + [Учебник](https://github.com/user-attachments/files/18893956/default.pdf)
 #### ПрИнж
@@ -58,3 +58,6 @@
   + [Аттестация №1](tolkachev/mathan-2-pr-att-1-fact.md)
   + [Аттестация №2](tolkachev/mathan-2-pr-att-2-fact.md)
   + [Аттестация №3](tolkachev/mathan-2-pr-att-3-fact.md)
+### Экзамен
+#### Сиро́та
++ [Билеты](sirota/mathan-2-exam-tick.md) ✨новое✨
