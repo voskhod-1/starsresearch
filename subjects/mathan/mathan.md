@@ -32,7 +32,7 @@
 #### Сиро́та
 + [Воспоминания потерпевших](sirota/mathan-1-exam-memories.md)
 + [Билеты](sirota/mathan-1-exam-tick.md)
-+ [Фактические варианты](sirota/mathan-1-exam-fact.md)
++ [Пересдачи](sirota/mathan-1-exam-fact.md)
 #### ПрИнж
 + [Лекция](paskevic/mathan-1-th-exam.md)
 + [Практика](paskevic/mathan-1-pr-exam.md)
