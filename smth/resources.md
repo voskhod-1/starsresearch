@@ -38,9 +38,8 @@
 + [Группа ВК профкома(матпомощь, путевки и прочая халява)](https://vk.com/profcom_vsu)
 
 ## Прикладной софт
-+ [Инструкция](https://github.com/voskhod-1/VSU_MoodleFix) по фиксу мудла(медленная загрузка и т.д.)
 
-+ [MoodleHelper](https://github.com/voskhod-1/MoodleHelper)
++ [Инструкция](https://github.com/voskhod-1/VSU_MoodleFix) по фиксу мудла(медленная загрузка и т.д.)
 
 ## Досье
 
