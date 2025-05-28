@@ -16,7 +16,7 @@
 
 ### Практика
 
-+ [Задания](https://github.com/AlexEreh/ComputerHardware)
++ [Решения](https://github.com/AlexEreh/ComputerHardware)
 
 + [Аттестация №1](archevm-pr-att-1-fact.md)
 
