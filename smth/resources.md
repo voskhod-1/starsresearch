@@ -41,6 +41,12 @@
 
 + [Инструкция](https://github.com/voskhod-1/VSU_MoodleFix) по фиксу мудла(медленная загрузка и т.д.)
 
++ [Расширение для разблокировки интересных сайтов](https://censortracker.org/)
+
++ [Копировать текст с тестов мудла](https://allowcopyplus.pidevex.com/?utm_source=pidevex-ws)
+
++ [SyncShare](https://syncshare.naloaty.me)
+
 ## Досье
 
 + [ТЫК](dossier.md)
