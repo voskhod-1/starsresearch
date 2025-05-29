@@ -37,6 +37,8 @@
 + [Культурология](archive/subjects/cult/cult.md)
 
 ***
+[Интересные расширения👀](../../smth/resources.md#Прикладной-софт)
+
 [Boosty](https://boosty.to/starsresearch)
 
 [Полезные ресурсы](smth/resources.md)
