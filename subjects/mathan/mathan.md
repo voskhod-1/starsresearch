@@ -24,9 +24,9 @@
 + [Аттестация №3](mathan-mkn/mathan-pr-att-3-fact.md)
 #### ПрИнж
 + Пашкевич
-  + [Аттестация №1](paskevic/mathan-1-pr-att-1-fact.md)
-  + [Аттестация №2](paskevic/mathan-1-pr-att-2-fact.md)
-  + [Аттестация №3](paskevic/mathan-1-pr-att-3-fact.md)
+  + [Аттестация №1](paszkiewicz/mathan-1-pr-att-1-fact.md)
+  + [Аттестация №2](paszkiewicz/mathan-1-pr-att-2-fact.md)
+  + [Аттестация №3](paszkiewicz/mathan-1-pr-att-3-fact.md)
 
 ### Экзамен
 #### Сиро́та
@@ -34,8 +34,8 @@
 + [Билеты](sirota/mathan-1-exam-tick.md)
 + [Пересдачи](sirota/mathan-1-exam-fact.md)
 #### ПрИнж
-+ [Лекция](paskevic/mathan-1-th-exam.md)
-+ [Практика](paskevic/mathan-1-pr-exam.md)
++ [Лекция](paszkiewicz/mathan-1-th-exam.md)
++ [Практика](paszkiewicz/mathan-1-pr-exam.md)
 ## 2 семестр
 ### Лекция
 #### Сиро́та
@@ -50,9 +50,9 @@
   + [Учебник](https://github.com/user-attachments/files/18893956/default.pdf)
 #### ПрИнж
 + Пашкевич
-  + [Аттестация №1](paskevic/mathan-2-pr-att-1-fact.md)
-  + [Аттестация №2](paskevic/mathan-2-pr-att-2-fact.md)
-  + [Аттестация №3](paskevic/mathan-2-pr-att-3-fact.md)
+  + [Аттестация №1](paszkiewicz/mathan-2-pr-att-1-fact.md)
+  + [Аттестация №2](paszkiewicz/mathan-2-pr-att-2-fact.md)
+  + [Аттестация №3](paszkiewicz/mathan-2-pr-att-3-fact.md)
 #### ПрИнф
 + Толкачев
   + [Аттестация №1](tolkachev/mathan-2-pr-att-1-fact.md)
