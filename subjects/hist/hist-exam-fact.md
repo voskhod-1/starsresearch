@@ -1,6 +1,9 @@
 [Назад](hist.md)
 ***
-![telegram-cloud-photo-size-2-5415665959248719918-y](https://github.com/user-attachments/assets/ef3e249d-6a0d-46bb-bc81-4cce42735d00)
+
+
+![image](https://github.com/user-attachments/assets/b4cd4c1e-72be-4b78-9a68-edd0fdd9d879)
+
 
 ![telegram-cloud-photo-size-2-5415665959248719918-y](https://github.com/user-attachments/assets/42b12d88-45af-4713-a7ce-3ad87d60f590)
 
