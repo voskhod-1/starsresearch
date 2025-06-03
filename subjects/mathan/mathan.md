@@ -61,3 +61,4 @@
 ### Экзамен
 #### Сиро́та
 + [Билеты](sirota/mathan-2-exam-tick.md) ✨новое✨
++ [Практика](sirota/mathan-2-exam-pr.md) ✨новое✨
