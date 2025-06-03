@@ -1,5 +1,9 @@
 [назад](algem.md)
 ***
+![Вариант 2](https://github.com/user-attachments/assets/0775c83d-4c5c-45f4-ac5a-ad2ad74d4090)
+
+![image](https://github.com/user-attachments/assets/923099ac-42aa-4a70-823f-3298cc8db2ce)
+
 ![алгем экз](https://github.com/user-attachments/assets/83053cc0-6aa4-41a6-bcd4-ccfeb6074e88)
 
 ![алгем экз](https://github.com/user-attachments/assets/e6823b2a-3435-4705-8e5c-b05c03e26997)
