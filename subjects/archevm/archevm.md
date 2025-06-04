@@ -31,4 +31,4 @@
 
 ### Экзамен
 
-+ [Пересдача](archevm-exam-fact.md)✨новое✨
++ [Пересдача](archevm-exam-after-fact.md)✨новое✨
