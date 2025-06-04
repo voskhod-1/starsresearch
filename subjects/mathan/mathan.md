@@ -42,7 +42,7 @@
   + [Аттестация №1](sirota/mathan-2-th-att-1-fact.md)
   + [Аттестация №2](sirota/mathan-2-th-att-2-fact.md)
 #### Канищева
-  + [Лекции](kanischeva/mathan-lectures.md)
+  + [Лекции](https://drive.google.com/drive/folders/14dJQPGpA6jE8DMfey5T5fm6fAnZPFlBH?usp=sharing)
 ### Практика
 #### ИСиТ
 + Некрасова
