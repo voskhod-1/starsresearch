@@ -1,0 +1,5338 @@
+<!DOCTYPE html>
+<!-- saved from url=(0080)https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&quizId=1152370 -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <title>SyncShare</title>
+    <link href="./АрхЭВМ Бров_files/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link rel="stylesheet" href="./АрхЭВМ Бров_files/materialdesignicons.min.css">
+    <link rel="stylesheet" href="./АрхЭВМ Бров_files/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer">
+    <link rel="stylesheet" href="./АрхЭВМ Бров_files/default.css">
+    <link rel="stylesheet" href="./АрхЭВМ Бров_files/monokai.min.css">
+    <link rel="stylesheet" href="./АрхЭВМ Бров_files/highlightjs-copy.min.css">
+    <link href="./АрхЭВМ Бров_files/css" rel="stylesheet">
+    <link rel="stylesheet" href="./АрхЭВМ Бров_files/docs.css">
+
+    <style>
+        .card-header .fa {
+          transition: .3s transform ease-in-out;
+        }
+        .card-header .collapsed .fa {
+          transform: rotate(90deg);
+        }
+        .bg-blue-300 {
+            background-color: #6ea8fe;
+        }
+        pre > code {
+            font-family: 'JetBrains Mono';font-size: 12px;
+        }
+    </style>
+    <style>
+        tr > td.hljs-ln-line {
+          padding-left: 5px;
+        }
+
+        .hljs-ln-numbers {
+          text-align: right;
+        }
+
+        .hljs-ln-line.hljs-ln-n {
+          padding-right: 5px;
+        }
+    </style>
+<style type="text/css">.CtxtMenu_InfoClose {  top:.2em; right:.2em;}
+.CtxtMenu_InfoContent {  overflow:auto; text-align:left; font-size:80%;  padding:.4em .6em; border:1px inset; margin:1em 0px;  max-height:20em; max-width:30em; background-color:#EEEEEE;  white-space:normal;}
+.CtxtMenu_Info.CtxtMenu_MousePost {outline:none;}
+.CtxtMenu_Info {  position:fixed; left:50%; width:auto; text-align:center;  border:3px outset; padding:1em 2em; background-color:#DDDDDD;  color:black;  cursor:default; font-family:message-box; font-size:120%;  font-style:normal; text-indent:0; text-transform:none;  line-height:normal; letter-spacing:normal; word-spacing:normal;  word-wrap:normal; white-space:nowrap; float:none; z-index:201;  border-radius: 15px;                     /* Opera 10.5 and IE9 */  -webkit-border-radius:15px;               /* Safari and Chrome */  -moz-border-radius:15px;                  /* Firefox */  -khtml-border-radius:15px;                /* Konqueror */  box-shadow:0px 10px 20px #808080;         /* Opera 10.5 and IE9 */  -webkit-box-shadow:0px 10px 20px #808080; /* Safari 3 & Chrome */  -moz-box-shadow:0px 10px 20px #808080;    /* Forefox 3.5 */  -khtml-box-shadow:0px 10px 20px #808080;  /* Konqueror */  filter:progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color="gray", Positive="true"); /* IE */}
+</style><style type="text/css">.CtxtMenu_MenuClose {  position:absolute;  cursor:pointer;  display:inline-block;  border:2px solid #AAA;  border-radius:18px;  -webkit-border-radius: 18px;             /* Safari and Chrome */  -moz-border-radius: 18px;                /* Firefox */  -khtml-border-radius: 18px;              /* Konqueror */  font-family: "Courier New", Courier;  font-size:24px;  color:#F0F0F0}
+.CtxtMenu_MenuClose span {  display:block; background-color:#AAA; border:1.5px solid;  border-radius:18px;  -webkit-border-radius: 18px;             /* Safari and Chrome */  -moz-border-radius: 18px;                /* Firefox */  -khtml-border-radius: 18px;              /* Konqueror */  line-height:0;  padding:8px 0 6px     /* may need to be browser-specific */}
+.CtxtMenu_MenuClose:hover {  color:white!important;  border:2px solid #CCC!important}
+.CtxtMenu_MenuClose:hover span {  background-color:#CCC!important}
+.CtxtMenu_MenuClose:hover:focus {  outline:none}
+</style><style type="text/css">.CtxtMenu_Menu {  position:absolute;  background-color:white;  color:black;  width:auto; padding:5px 0px;  border:1px solid #CCCCCC; margin:0; cursor:default;  font: menu; text-align:left; text-indent:0; text-transform:none;  line-height:normal; letter-spacing:normal; word-spacing:normal;  word-wrap:normal; white-space:nowrap; float:none; z-index:201;  border-radius: 5px;                     /* Opera 10.5 and IE9 */  -webkit-border-radius: 5px;             /* Safari and Chrome */  -moz-border-radius: 5px;                /* Firefox */  -khtml-border-radius: 5px;              /* Konqueror */  box-shadow:0px 10px 20px #808080;         /* Opera 10.5 and IE9 */  -webkit-box-shadow:0px 10px 20px #808080; /* Safari 3 & Chrome */  -moz-box-shadow:0px 10px 20px #808080;    /* Forefox 3.5 */  -khtml-box-shadow:0px 10px 20px #808080;  /* Konqueror */}
+.CtxtMenu_MenuItem {  padding: 1px 2em;  background:transparent;}
+.CtxtMenu_MenuArrow {  position:absolute; right:.5em; padding-top:.25em; color:#666666;  font-family: null; font-size: .75em}
+.CtxtMenu_MenuActive .CtxtMenu_MenuArrow {color:white}
+.CtxtMenu_MenuArrow.CtxtMenu_RTL {left:.5em; right:auto}
+.CtxtMenu_MenuCheck {  position:absolute; left:.7em;  font-family: null}
+.CtxtMenu_MenuCheck.CtxtMenu_RTL { right:.7em; left:auto }
+.CtxtMenu_MenuRadioCheck {  position:absolute; left: .7em;}
+.CtxtMenu_MenuRadioCheck.CtxtMenu_RTL {  right: .7em; left:auto}
+.CtxtMenu_MenuInputBox {  padding-left: 1em; right:.5em; color:#666666;  font-family: null;}
+.CtxtMenu_MenuInputBox.CtxtMenu_RTL {  left: .1em;}
+.CtxtMenu_MenuComboBox {  left:.1em; padding-bottom:.5em;}
+.CtxtMenu_MenuSlider {  left: .1em;}
+.CtxtMenu_SliderValue {  position:absolute; right:.1em; padding-top:.25em; color:#333333;  font-size: .75em}
+.CtxtMenu_SliderBar {  outline: none; background: #d3d3d3}
+.CtxtMenu_MenuLabel {  padding: 1px 2em 3px 1.33em;  font-style:italic}
+.CtxtMenu_MenuRule {  border-top: 1px solid #DDDDDD;  margin: 4px 3px;}
+.CtxtMenu_MenuDisabled {  color:GrayText}
+.CtxtMenu_MenuActive {  background-color: #606872;  color: white;}
+.CtxtMenu_MenuDisabled:focus {  background-color: #E8E8E8}
+.CtxtMenu_MenuLabel:focus {  background-color: #E8E8E8}
+.CtxtMenu_ContextMenu:focus {  outline:none}
+.CtxtMenu_ContextMenu .CtxtMenu_MenuItem:focus {  outline:none}
+.CtxtMenu_SelectionMenu {  position:relative; float:left;  border-bottom: none; -webkit-box-shadow:none; -webkit-border-radius:0px; }
+.CtxtMenu_SelectionItem {  padding-right: 1em;}
+.CtxtMenu_Selection {  right: 40%; width:50%; }
+.CtxtMenu_SelectionBox {  padding: 0em; max-height:20em; max-width: none;  background-color:#FFFFFF;}
+.CtxtMenu_SelectionDivider {  clear: both; border-top: 2px solid #000000;}
+.CtxtMenu_Menu .CtxtMenu_MenuClose {  top:-10px; left:-10px}
+</style><style type="text/css">.hljs-ln{border-collapse:collapse}.hljs-ln td{padding:0}.hljs-ln-n:before{content:attr(data-line-number)}</style><style id="MJX-CHTML-styles">
+mjx-container[jax="CHTML"] {
+  line-height: 0;
+}
+
+mjx-container [space="1"] {
+  margin-left: .111em;
+}
+
+mjx-container [space="2"] {
+  margin-left: .167em;
+}
+
+mjx-container [space="3"] {
+  margin-left: .222em;
+}
+
+mjx-container [space="4"] {
+  margin-left: .278em;
+}
+
+mjx-container [space="5"] {
+  margin-left: .333em;
+}
+
+mjx-container [rspace="1"] {
+  margin-right: .111em;
+}
+
+mjx-container [rspace="2"] {
+  margin-right: .167em;
+}
+
+mjx-container [rspace="3"] {
+  margin-right: .222em;
+}
+
+mjx-container [rspace="4"] {
+  margin-right: .278em;
+}
+
+mjx-container [rspace="5"] {
+  margin-right: .333em;
+}
+
+mjx-container [size="s"] {
+  font-size: 70.7%;
+}
+
+mjx-container [size="ss"] {
+  font-size: 50%;
+}
+
+mjx-container [size="Tn"] {
+  font-size: 60%;
+}
+
+mjx-container [size="sm"] {
+  font-size: 85%;
+}
+
+mjx-container [size="lg"] {
+  font-size: 120%;
+}
+
+mjx-container [size="Lg"] {
+  font-size: 144%;
+}
+
+mjx-container [size="LG"] {
+  font-size: 173%;
+}
+
+mjx-container [size="hg"] {
+  font-size: 207%;
+}
+
+mjx-container [size="HG"] {
+  font-size: 249%;
+}
+
+mjx-container [width="full"] {
+  width: 100%;
+}
+
+mjx-box {
+  display: inline-block;
+}
+
+mjx-block {
+  display: block;
+}
+
+mjx-itable {
+  display: inline-table;
+}
+
+mjx-row {
+  display: table-row;
+}
+
+mjx-row > * {
+  display: table-cell;
+}
+
+mjx-mtext {
+  display: inline-block;
+}
+
+mjx-mstyle {
+  display: inline-block;
+}
+
+mjx-merror {
+  display: inline-block;
+  color: red;
+  background-color: yellow;
+}
+
+mjx-mphantom {
+  visibility: hidden;
+}
+
+_::-webkit-full-page-media, _:future, :root mjx-container {
+  will-change: opacity;
+}
+
+mjx-assistive-mml {
+  position: absolute !important;
+  top: 0px;
+  left: 0px;
+  clip: rect(1px, 1px, 1px, 1px);
+  padding: 1px 0px 0px 0px !important;
+  border: 0px !important;
+  display: block !important;
+  width: auto !important;
+  overflow: hidden !important;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+mjx-assistive-mml[display="block"] {
+  width: 100% !important;
+}
+
+mjx-c::before {
+  display: block;
+  width: 0;
+}
+
+.MJX-TEX {
+  font-family: MJXZERO, MJXTEX;
+}
+
+.TEX-B {
+  font-family: MJXZERO, MJXTEX-B;
+}
+
+.TEX-I {
+  font-family: MJXZERO, MJXTEX-I;
+}
+
+.TEX-MI {
+  font-family: MJXZERO, MJXTEX-MI;
+}
+
+.TEX-BI {
+  font-family: MJXZERO, MJXTEX-BI;
+}
+
+.TEX-S1 {
+  font-family: MJXZERO, MJXTEX-S1;
+}
+
+.TEX-S2 {
+  font-family: MJXZERO, MJXTEX-S2;
+}
+
+.TEX-S3 {
+  font-family: MJXZERO, MJXTEX-S3;
+}
+
+.TEX-S4 {
+  font-family: MJXZERO, MJXTEX-S4;
+}
+
+.TEX-A {
+  font-family: MJXZERO, MJXTEX-A;
+}
+
+.TEX-C {
+  font-family: MJXZERO, MJXTEX-C;
+}
+
+.TEX-CB {
+  font-family: MJXZERO, MJXTEX-CB;
+}
+
+.TEX-FR {
+  font-family: MJXZERO, MJXTEX-FR;
+}
+
+.TEX-FRB {
+  font-family: MJXZERO, MJXTEX-FRB;
+}
+
+.TEX-SS {
+  font-family: MJXZERO, MJXTEX-SS;
+}
+
+.TEX-SSB {
+  font-family: MJXZERO, MJXTEX-SSB;
+}
+
+.TEX-SSI {
+  font-family: MJXZERO, MJXTEX-SSI;
+}
+
+.TEX-SC {
+  font-family: MJXZERO, MJXTEX-SC;
+}
+
+.TEX-T {
+  font-family: MJXZERO, MJXTEX-T;
+}
+
+.TEX-V {
+  font-family: MJXZERO, MJXTEX-V;
+}
+
+.TEX-VB {
+  font-family: MJXZERO, MJXTEX-VB;
+}
+
+mjx-stretchy-v mjx-c, mjx-stretchy-h mjx-c {
+  font-family: MJXZERO, MJXTEX-S1, MJXTEX-S4, MJXTEX, MJXTEX-A ! important;
+}
+
+@font-face /* 0 */ {
+  font-family: MJXZERO;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Zero.woff") format("woff");
+}
+
+@font-face /* 1 */ {
+  font-family: MJXTEX;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Main-Regular.woff") format("woff");
+}
+
+@font-face /* 2 */ {
+  font-family: MJXTEX-B;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Main-Bold.woff") format("woff");
+}
+
+@font-face /* 3 */ {
+  font-family: MJXTEX-I;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Math-Italic.woff") format("woff");
+}
+
+@font-face /* 4 */ {
+  font-family: MJXTEX-MI;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Main-Italic.woff") format("woff");
+}
+
+@font-face /* 5 */ {
+  font-family: MJXTEX-BI;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Math-BoldItalic.woff") format("woff");
+}
+
+@font-face /* 6 */ {
+  font-family: MJXTEX-S1;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Size1-Regular.woff") format("woff");
+}
+
+@font-face /* 7 */ {
+  font-family: MJXTEX-S2;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Size2-Regular.woff") format("woff");
+}
+
+@font-face /* 8 */ {
+  font-family: MJXTEX-S3;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Size3-Regular.woff") format("woff");
+}
+
+@font-face /* 9 */ {
+  font-family: MJXTEX-S4;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Size4-Regular.woff") format("woff");
+}
+
+@font-face /* 10 */ {
+  font-family: MJXTEX-A;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_AMS-Regular.woff") format("woff");
+}
+
+@font-face /* 11 */ {
+  font-family: MJXTEX-C;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Calligraphic-Regular.woff") format("woff");
+}
+
+@font-face /* 12 */ {
+  font-family: MJXTEX-CB;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Calligraphic-Bold.woff") format("woff");
+}
+
+@font-face /* 13 */ {
+  font-family: MJXTEX-FR;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Fraktur-Regular.woff") format("woff");
+}
+
+@font-face /* 14 */ {
+  font-family: MJXTEX-FRB;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Fraktur-Bold.woff") format("woff");
+}
+
+@font-face /* 15 */ {
+  font-family: MJXTEX-SS;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_SansSerif-Regular.woff") format("woff");
+}
+
+@font-face /* 16 */ {
+  font-family: MJXTEX-SSB;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_SansSerif-Bold.woff") format("woff");
+}
+
+@font-face /* 17 */ {
+  font-family: MJXTEX-SSI;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_SansSerif-Italic.woff") format("woff");
+}
+
+@font-face /* 18 */ {
+  font-family: MJXTEX-SC;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Script-Regular.woff") format("woff");
+}
+
+@font-face /* 19 */ {
+  font-family: MJXTEX-T;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Typewriter-Regular.woff") format("woff");
+}
+
+@font-face /* 20 */ {
+  font-family: MJXTEX-V;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Vector-Regular.woff") format("woff");
+}
+
+@font-face /* 21 */ {
+  font-family: MJXTEX-VB;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Vector-Bold.woff") format("woff");
+}
+</style></head>
+<body>
+<div id="content" class="main-container">
+    <div id="quiz-container">
+        <h1 class="text-center mb-5">Экзамен 2024</h1>
+
+        
+        
+            <div class="row">
+                
+
+<div id="q1" class="card col-md-7 mb-4 mx-auto px-0">
+    <div class="card-header">
+        <h5 class="card-title">
+            Вопрос 1
+            <a class="anchor-link" aria-label="Anchor" href="https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&amp;quizId=1152370#q1">
+                
+            </a>
+        </h5>
+    </div>
+    <div class="card-body">
+        
+            <p>Автоинкрементный метод адресации</p>
+            
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            При интерпретации команды содержимое указанного в команде регистра вначале уменьшается на 2, после чего уменьшенное содержимое регистра интерпретируется процессором как адрес ячейки памяти, в которой находится адрес операнда
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            Содержимое указанного в команде регистра интерпретируется процессором как адрес ячейки памяти, в которой находится операнд, и после выборки операнда содержимое регистра увеличивается на 1 или 2 таким образом, чтобы указывать на адрес следующей по порядку ячейки памяти
+        </strong>
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Во втором слове команды, т.е. в следующей за кодом команды ячейке памяти, указывается адрес операнда
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Во втором слове команды указывается относительный адрес операнда, т.е. величина смещения адреса операнда относительно адреса самой команды (текущего содержимого регистра-счетчика команд процессора)
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Операнд указывается непосредственно в команде, после кода операции. Процессор получает в этом случае адрес операнда непосредственно из своего регистра-счетчика команд
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Содержимое указанного в команде регистра интерпретируется процессором как адрес ячейки памяти, в которой находится операнд
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Содержимое указанного в команде регистра интерпретируется процессором как операнд
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Содержимое указанного в команде регистра интерпретируется процессором как адрес ячейки памяти, в которой находится адрес операнда, и после выборки операнда содержимое регистра (адрес адреса) увеличивается таким образом, чтобы указывать на адрес следующей по порядку ячейки
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            В дополнительном слове команды указывается так называемое смещение (индексное слово). Исполнительный адрес операнда определяется как сумма содержимого указанного в команде регистра и смещения (индексного слова)
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            При интерпретации команды содержимое указанного в команде регистра вначале уменьшается на 1 или 2, после чего уменьшенное содержимое регистра интерпретируется процессором как адрес ячейки памяти, в которой находится операнд
+        
+    <br>
+
+
+<p>Статистика: </p>
+
+
+    <table class="table table-bordered table-striped">
+    
+    <thead>
+    <tr>
+      <th>Вариант ответа</th>
+      <th style="text-align:right;">За</th>
+      <th style="text-align:right;">Против</th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    
+    <tr>
+      <td>При интерпретации команды содержимое указанного в команде регистра вначале уменьшается на 2, после чего уменьшенное содержимое регистра интерпретируется процессором как адрес ячейки памяти, в которой находится адрес операнда</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">289</td>
+    </tr>
+    
+    <tr>
+      <td>Содержимое указанного в команде регистра интерпретируется процессором как адрес ячейки памяти, в которой находится операнд, и после выборки операнда содержимое регистра увеличивается на 1 или 2 таким образом, чтобы указывать на адрес следующей по порядку ячейки памяти</td>
+      <td style="text-align:right;">281</td>
+      <td style="text-align:right;">9</td>
+    </tr>
+    
+    <tr>
+      <td>Во втором слове команды, т.е. в следующей за кодом команды ячейке памяти, указывается адрес операнда</td>
+      <td style="text-align:right;">1</td>
+      <td style="text-align:right;">288</td>
+    </tr>
+    
+    <tr>
+      <td>Во втором слове команды указывается относительный адрес операнда, т.е. величина смещения адреса операнда относительно адреса самой команды (текущего содержимого регистра-счетчика команд процессора)</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">289</td>
+    </tr>
+    
+    <tr>
+      <td>Операнд указывается непосредственно в команде, после кода операции. Процессор получает в этом случае адрес операнда непосредственно из своего регистра-счетчика команд</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">289</td>
+    </tr>
+    
+    <tr>
+      <td>Содержимое указанного в команде регистра интерпретируется процессором как адрес ячейки памяти, в которой находится операнд</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">289</td>
+    </tr>
+    
+    <tr>
+      <td>Содержимое указанного в команде регистра интерпретируется процессором как операнд</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">289</td>
+    </tr>
+    
+    <tr>
+      <td>Содержимое указанного в команде регистра интерпретируется процессором как адрес ячейки памяти, в которой находится адрес операнда, и после выборки операнда содержимое регистра (адрес адреса) увеличивается таким образом, чтобы указывать на адрес следующей по порядку ячейки</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">289</td>
+    </tr>
+    
+    <tr>
+      <td>В дополнительном слове команды указывается так называемое смещение (индексное слово). Исполнительный адрес операнда определяется как сумма содержимого указанного в команде регистра и смещения (индексного слова)</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">289</td>
+    </tr>
+    
+    <tr>
+      <td>При интерпретации команды содержимое указанного в команде регистра вначале уменьшается на 1 или 2, после чего уменьшенное содержимое регистра интерпретируется процессором как адрес ячейки памяти, в которой находится операнд</td>
+      <td style="text-align:right;">1</td>
+      <td style="text-align:right;">288</td>
+    </tr>
+    
+    </tbody>
+    
+    </table>
+
+        
+    </div>
+
+</div>
+            </div>
+
+        
+            <div class="row">
+                
+
+<div id="q2" class="card col-md-7 mb-4 mx-auto px-0">
+    <div class="card-header">
+        <h5 class="card-title">
+            Вопрос 2
+            <a class="anchor-link" aria-label="Anchor" href="https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&amp;quizId=1152370#q2">
+                
+            </a>
+        </h5>
+    </div>
+    <div class="card-body">
+        
+            <p>Косвенно-регистровый метод адресации</p>
+            
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            При интерпретации команды содержимое указанного в команде регистра вначале уменьшается на 1 или 2, после чего уменьшенное содержимое регистра интерпретируется процессором как адрес ячейки памяти, в которой находится операнд
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Содержимое указанного в команде регистра интерпретируется процессором как адрес ячейки памяти, в которой находится адрес операнда, и после выборки операнда содержимое регистра (адрес адреса) увеличивается таким образом, чтобы указывать на адрес следующей по порядку ячейки
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Операнд указывается непосредственно в команде, после кода операции. Процессор получает в этом случае адрес операнда непосредственно из своего регистра-счетчика команд
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Во втором слове команды указывается относительный адрес операнда, т.е. величина смещения адреса операнда относительно адреса самой команды (текущего содержимого регистра-счетчика команд процессора)
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            При интерпретации команды содержимое указанного в команде регистра вначале уменьшается на 2, после чего уменьшенное содержимое регистра интерпретируется процессором как адрес ячейки памяти, в которой находится адрес операнда
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Содержимое указанного в команде регистра интерпретируется процессором как адрес ячейки памяти, в которой находится операнд, но после выборки операнда содержимое регистра увеличивается на 1 или 2, таким образом, чтобы указывать на адрес следующей по порядку ячейки памяти
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Содержимое указанного в команде регистра интерпретируется процессором как операнд
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            В дополнительном слове команды указывается так называемое смещение (индексное слово). Исполнительный адрес операнда определяется как сумма содержимого указанного в команде регистра и смещения (индексного слова)
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            Содержимое указанного в команде регистра интерпретируется процессором как адрес операнда
+        </strong>
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Во втором слове команды, т.е. в следующей за кодом команды ячейке памяти, указывается адрес операнда
+        
+    <br>
+
+
+<p>Статистика: </p>
+
+
+    <table class="table table-bordered table-striped">
+    
+    <thead>
+    <tr>
+      <th>Вариант ответа</th>
+      <th style="text-align:right;">За</th>
+      <th style="text-align:right;">Против</th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    
+    <tr>
+      <td>При интерпретации команды содержимое указанного в команде регистра вначале уменьшается на 1 или 2, после чего уменьшенное содержимое регистра интерпретируется процессором как адрес ячейки памяти, в которой находится операнд</td>
+      <td style="text-align:right;">1</td>
+      <td style="text-align:right;">362</td>
+    </tr>
+    
+    <tr>
+      <td>Содержимое указанного в команде регистра интерпретируется процессором как адрес ячейки памяти, в которой находится адрес операнда, и после выборки операнда содержимое регистра (адрес адреса) увеличивается таким образом, чтобы указывать на адрес следующей по порядку ячейки</td>
+      <td style="text-align:right;">1</td>
+      <td style="text-align:right;">362</td>
+    </tr>
+    
+    <tr>
+      <td>Операнд указывается непосредственно в команде, после кода операции. Процессор получает в этом случае адрес операнда непосредственно из своего регистра-счетчика команд</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">363</td>
+    </tr>
+    
+    <tr>
+      <td>Во втором слове команды указывается относительный адрес операнда, т.е. величина смещения адреса операнда относительно адреса самой команды (текущего содержимого регистра-счетчика команд процессора)</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">363</td>
+    </tr>
+    
+    <tr>
+      <td>При интерпретации команды содержимое указанного в команде регистра вначале уменьшается на 2, после чего уменьшенное содержимое регистра интерпретируется процессором как адрес ячейки памяти, в которой находится адрес операнда</td>
+      <td style="text-align:right;">1</td>
+      <td style="text-align:right;">362</td>
+    </tr>
+    
+    <tr>
+      <td>Содержимое указанного в команде регистра интерпретируется процессором как адрес ячейки памяти, в которой находится операнд, но после выборки операнда содержимое регистра увеличивается на 1 или 2, таким образом, чтобы указывать на адрес следующей по порядку ячейки памяти</td>
+      <td style="text-align:right;">1</td>
+      <td style="text-align:right;">362</td>
+    </tr>
+    
+    <tr>
+      <td>Содержимое указанного в команде регистра интерпретируется процессором как операнд</td>
+      <td style="text-align:right;">2</td>
+      <td style="text-align:right;">361</td>
+    </tr>
+    
+    <tr>
+      <td>В дополнительном слове команды указывается так называемое смещение (индексное слово). Исполнительный адрес операнда определяется как сумма содержимого указанного в команде регистра и смещения (индексного слова)</td>
+      <td style="text-align:right;">1</td>
+      <td style="text-align:right;">362</td>
+    </tr>
+    
+    <tr>
+      <td>Содержимое указанного в команде регистра интерпретируется процессором как адрес операнда</td>
+      <td style="text-align:right;">352</td>
+      <td style="text-align:right;">13</td>
+    </tr>
+    
+    <tr>
+      <td>Во втором слове команды, т.е. в следующей за кодом команды ячейке памяти, указывается адрес операнда</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">363</td>
+    </tr>
+    
+    </tbody>
+    
+    </table>
+
+        
+    </div>
+
+</div>
+            </div>
+
+        
+            <div class="row">
+                
+
+<div id="q3" class="card col-md-7 mb-4 mx-auto px-0">
+    <div class="card-header">
+        <h5 class="card-title">
+            Вопрос 3
+            <a class="anchor-link" aria-label="Anchor" href="https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&amp;quizId=1152370#q3">
+                
+            </a>
+        </h5>
+    </div>
+    <div class="card-body">
+        
+            <p>Какой метод адресации следует использовать в перемещаемой программе для адресации данных, расположенных в теле программы?</p>
+            
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            абсолютный метод адресации
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            регистровый метод адресации
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            непосредственный метод адресации
+        </strong>
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            косвенно-индексный метод адресации
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            косвенно-автоинкрементный метод адресации
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            относительный метод адресации
+        </strong>
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            автодекрементный метод адресации
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            косвенно-автодекрементный метод адресации
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            косвенно-регистровый метод адресации
+        
+    <br>
+
+
+<p>Статистика: </p>
+
+
+    <table class="table table-bordered table-striped">
+    
+    <thead>
+    <tr>
+      <th>Вариант ответа</th>
+      <th style="text-align:right;">За</th>
+      <th style="text-align:right;">Против</th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    
+    <tr>
+      <td>абсолютный метод адресации</td>
+      <td style="text-align:right;">2</td>
+      <td style="text-align:right;">434</td>
+    </tr>
+    
+    <tr>
+      <td>регистровый метод адресации</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">436</td>
+    </tr>
+    
+    <tr>
+      <td>непосредственный метод адресации</td>
+      <td style="text-align:right;">413</td>
+      <td style="text-align:right;">24</td>
+    </tr>
+    
+    <tr>
+      <td>косвенно-индексный метод адресации</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">436</td>
+    </tr>
+    
+    <tr>
+      <td>косвенно-автоинкрементный метод адресации</td>
+      <td style="text-align:right;">1</td>
+      <td style="text-align:right;">435</td>
+    </tr>
+    
+    <tr>
+      <td>относительный метод адресации</td>
+      <td style="text-align:right;">426</td>
+      <td style="text-align:right;">11</td>
+    </tr>
+    
+    <tr>
+      <td>автодекрементный метод адресации</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">436</td>
+    </tr>
+    
+    <tr>
+      <td>косвенно-автодекрементный метод адресации</td>
+      <td style="text-align:right;">1</td>
+      <td style="text-align:right;">435</td>
+    </tr>
+    
+    <tr>
+      <td>косвенно-регистровый метод адресации</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">436</td>
+    </tr>
+    
+    </tbody>
+    
+    </table>
+
+        
+    </div>
+
+</div>
+            </div>
+
+        
+            <div class="row">
+                
+
+<div id="q4" class="card col-md-7 mb-4 mx-auto px-0">
+    <div class="card-header">
+        <h5 class="card-title">
+            Вопрос 4
+            <a class="anchor-link" aria-label="Anchor" href="https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&amp;quizId=1152370#q4">
+                
+            </a>
+        </h5>
+    </div>
+    <div class="card-body">
+        
+            <p>Для запоминающего устройства, организованного в виде стека, имеет место следующее<br></p>
+            
+    
+        <input type="checkbox" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            Для доступа к данным не надо указывать адрес ячейки памяти
+        </strong>
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Для доступа к данным надо указать адрес ячейки памяти
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            В каждый момент времени для чтения доступна только ячейка памяти, являющаяся вершиной стека
+        </strong>
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            В каждый момент времени для чтения доступно любая ячейка независимо от ее расположения
+        
+    <br>
+
+
+<p>Статистика: </p>
+
+
+    <table class="table table-bordered table-striped">
+    
+    <thead>
+    <tr>
+      <th>Вариант ответа</th>
+      <th style="text-align:right;">За</th>
+      <th style="text-align:right;">Против</th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    
+    <tr>
+      <td>Для доступа к данным не надо указывать адрес ячейки памяти</td>
+      <td style="text-align:right;">293</td>
+      <td style="text-align:right;">7</td>
+    </tr>
+    
+    <tr>
+      <td>Для доступа к данным надо указать адрес ячейки памяти</td>
+      <td style="text-align:right;">2</td>
+      <td style="text-align:right;">296</td>
+    </tr>
+    
+    <tr>
+      <td>В каждый момент времени для чтения доступна только ячейка памяти, являющаяся вершиной стека</td>
+      <td style="text-align:right;">297</td>
+      <td style="text-align:right;">3</td>
+    </tr>
+    
+    <tr>
+      <td>В каждый момент времени для чтения доступно любая ячейка независимо от ее расположения</td>
+      <td style="text-align:right;">1</td>
+      <td style="text-align:right;">297</td>
+    </tr>
+    
+    </tbody>
+    
+    </table>
+
+        
+    </div>
+
+</div>
+            </div>
+
+        
+            <div class="row">
+                
+
+<div id="q5" class="card col-md-7 mb-4 mx-auto px-0">
+    <div class="card-header">
+        <h5 class="card-title">
+            Вопрос 5
+            <a class="anchor-link" aria-label="Anchor" href="https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&amp;quizId=1152370#q5">
+                
+            </a>
+        </h5>
+    </div>
+    <div class="card-body">
+        
+            <p>Адрес возврата из подпрограммы [https://edu.vsu.ru/mod/scorm/view.php?id=16477] запоминается</p>
+            
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            в регистре состояния процессора
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            в регистре-счетчике команд
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            в векторе прерывания
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            в регистре общего назначения
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            в специально отведенной для этого ячейке памяти
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            в регистре состояния внешнего устройства
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            в регистре команд
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            в регистре данных внешнего устройства
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            в стеке
+        </strong>
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            в регистре-указателе стека
+        
+    <br>
+
+
+<p>Статистика: </p>
+
+
+    <table class="table table-bordered table-striped">
+    
+    <thead>
+    <tr>
+      <th>Вариант ответа</th>
+      <th style="text-align:right;">Выбрали этот вариант</th>
+      <th>Правильность</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+    <tr>
+      <td>в стеке</td>
+      <td style="text-align:right;">434</td>
+      <td>верный ответ</td>
+    </tr>
+    
+    </tbody>
+    
+    </table>
+
+        
+    </div>
+
+</div>
+            </div>
+
+        
+            <div class="row">
+                
+
+<div id="q6" class="card col-md-7 mb-4 mx-auto px-0">
+    <div class="card-header">
+        <h5 class="card-title">
+            Вопрос 6
+            <a class="anchor-link" aria-label="Anchor" href="https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&amp;quizId=1152370#q6">
+                
+            </a>
+        </h5>
+    </div>
+    <div class="card-body">
+        
+            <p>Для возврата из подпрограммы</p>
+            
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            можно использовать команду условного перехода
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            нельзя использовать команду условного перехода
+        </strong>
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            зависит от того, вложенная это подпрограмма или нет
+        
+    <br>
+
+
+<p>Статистика: </p>
+
+
+    <table class="table table-bordered table-striped">
+    
+    <thead>
+    <tr>
+      <th>Вариант ответа</th>
+      <th style="text-align:right;">Выбрали этот вариант</th>
+      <th>Правильность</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+    <tr>
+      <td>нельзя использовать команду условного перехода</td>
+      <td style="text-align:right;">429</td>
+      <td>верный ответ</td>
+    </tr>
+    
+    <tr>
+      <td>можно использовать команду условного перехода</td>
+      <td style="text-align:right;">1</td>
+      <td>неверный ответ</td>
+    </tr>
+    
+    </tbody>
+    
+    </table>
+
+        
+    </div>
+
+</div>
+            </div>
+
+        
+            <div class="row">
+                
+
+<div id="q7" class="card col-md-7 mb-4 mx-auto px-0">
+    <div class="card-header">
+        <h5 class="card-title">
+            Вопрос 7
+            <a class="anchor-link" aria-label="Anchor" href="https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&amp;quizId=1152370#q7">
+                
+            </a>
+        </h5>
+    </div>
+    <div class="card-body">
+        
+            <p>При выполнении команды возврат из подпрограммы [https://edu.vsu.ru/mod/scorm/view.php?id=16477]</p>
+            
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            число из вершины стека помещается в регистр команд
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            задаваемый в команде адрес входа в подпрограмму помещается в регистр-счетчик команд
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            адрес возврата выталкивается из вершины стека и помещается в регистр состояния процессора
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            адрес возврата выталкивается из вершины стека и помещается в регистр адреса памяти
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            содержимое регистра-счетчика команд процессора пересылается в стек
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            адрес возврата выталкивается из вершины стека и помещается в регистр команд
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            содержимое регистра-счетчика команд процессора пересылается в один из регистров общего назначения
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            содержимое регистра-счетчика команд процессора пересылается в специально отведенную ячейку памяти
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            адрес возврата выталкивается из вершины стека и помещается в регистр-счетчик команд
+        </strong>
+        
+    <br>
+
+
+<p>Статистика: </p>
+
+
+    <table class="table table-bordered table-striped">
+    
+    <thead>
+    <tr>
+      <th>Вариант ответа</th>
+      <th style="text-align:right;">За</th>
+      <th style="text-align:right;">Против</th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    
+    <tr>
+      <td>число из вершины стека помещается в регистр команд</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">448</td>
+    </tr>
+    
+    <tr>
+      <td>задаваемый в команде адрес входа в подпрограмму помещается в регистр-счетчик команд</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">448</td>
+    </tr>
+    
+    <tr>
+      <td>адрес возврата выталкивается из вершины стека и помещается в регистр состояния процессора</td>
+      <td style="text-align:right;">2</td>
+      <td style="text-align:right;">446</td>
+    </tr>
+    
+    <tr>
+      <td>адрес возврата выталкивается из вершины стека и помещается в регистр адреса памяти</td>
+      <td style="text-align:right;">1</td>
+      <td style="text-align:right;">447</td>
+    </tr>
+    
+    <tr>
+      <td>содержимое регистра-счетчика команд процессора пересылается в стек</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">448</td>
+    </tr>
+    
+    <tr>
+      <td>адрес возврата выталкивается из вершины стека и помещается в регистр команд</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">448</td>
+    </tr>
+    
+    <tr>
+      <td>содержимое регистра-счетчика команд процессора пересылается в один из регистров общего назначения</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">448</td>
+    </tr>
+    
+    <tr>
+      <td>содержимое регистра-счетчика команд процессора пересылается в специально отведенную ячейку памяти</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">448</td>
+    </tr>
+    
+    <tr>
+      <td>адрес возврата выталкивается из вершины стека и помещается в регистр-счетчик команд</td>
+      <td style="text-align:right;">444</td>
+      <td style="text-align:right;">7</td>
+    </tr>
+    
+    </tbody>
+    
+    </table>
+
+        
+    </div>
+
+</div>
+            </div>
+
+        
+            <div class="row">
+                
+
+<div id="q8" class="card col-md-7 mb-4 mx-auto px-0">
+    <div class="card-header">
+        <h5 class="card-title">
+            Вопрос 8
+            <a class="anchor-link" aria-label="Anchor" href="https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&amp;quizId=1152370#q8">
+                
+            </a>
+        </h5>
+    </div>
+    <div class="card-body">
+        
+            <p>Для компьютера с CISC-архитектурой является характерным</p>
+            
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            Увеличенное число простых форматов команд
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            Небольшое число простых форматов команд
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            Небольшое число сложных форматов команд
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            Большое число сложных форматов команд
+        </strong>
+        
+    <br>
+
+
+<p>Статистика: </p>
+
+
+    <table class="table table-bordered table-striped">
+    
+    <thead>
+    <tr>
+      <th>Вариант ответа</th>
+      <th style="text-align:right;">Выбрали этот вариант</th>
+      <th>Правильность</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+    <tr>
+      <td>Большое число сложных форматов команд</td>
+      <td style="text-align:right;">280</td>
+      <td>верный ответ</td>
+    </tr>
+    
+    </tbody>
+    
+    </table>
+
+        
+    </div>
+
+</div>
+            </div>
+
+        
+            <div class="row">
+                
+
+<div id="q9" class="card col-md-7 mb-4 mx-auto px-0">
+    <div class="card-header">
+        <h5 class="card-title">
+            Вопрос 9
+            <a class="anchor-link" aria-label="Anchor" href="https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&amp;quizId=1152370#q9">
+                
+            </a>
+        </h5>
+    </div>
+    <div class="card-body">
+        
+            <p>Для компьютера с RISC-архитектурой является характерным</p>
+            
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Уменьшенное число регистров общего назначения
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Уменьшенное число специализированных регистров
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            Увеличенное число регистров общего назначения
+        </strong>
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Увеличенное число специализированных регистров
+        
+    <br>
+
+
+<p>Статистика: </p>
+
+
+    <table class="table table-bordered table-striped">
+    
+    <thead>
+    <tr>
+      <th>Вариант ответа</th>
+      <th style="text-align:right;">За</th>
+      <th style="text-align:right;">Против</th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    
+    <tr>
+      <td>Уменьшенное число регистров общего назначения</td>
+      <td style="text-align:right;">1</td>
+      <td style="text-align:right;">275</td>
+    </tr>
+    
+    <tr>
+      <td>Уменьшенное число специализированных регистров</td>
+      <td style="text-align:right;">1</td>
+      <td style="text-align:right;">275</td>
+    </tr>
+    
+    <tr>
+      <td>Увеличенное число регистров общего назначения</td>
+      <td style="text-align:right;">270</td>
+      <td style="text-align:right;">7</td>
+    </tr>
+    
+    <tr>
+      <td>Увеличенное число специализированных регистров</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">276</td>
+    </tr>
+    
+    </tbody>
+    
+    </table>
+
+        
+    </div>
+
+</div>
+            </div>
+
+        
+            <div class="row">
+                
+
+<div id="q10" class="card col-md-7 mb-4 mx-auto px-0">
+    <div class="card-header">
+        <h5 class="card-title">
+            Вопрос 10
+            <a class="anchor-link" aria-label="Anchor" href="https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&amp;quizId=1152370#q10">
+                
+            </a>
+        </h5>
+    </div>
+    <div class="card-body">
+        
+            <p>Каким образом в программным путем можно определить готовность внешнего устройства к обмену информацией?</p>
+            
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Проверяется состояние соответствующего разряда в регистре команд процессора
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Проверяется состояние соответствующего разряда в регистре данных внешнего устройства
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Проверяется состояние соответствующего разряда в регистре состояния процессора
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            Проверяется состояние соответствующего разряда в регистре состояния внешнего устройства
+        </strong>
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Посылается специальный запрос к интерфейсу внешнего устройства
+        
+    <br>
+
+
+<p>Статистика: </p>
+
+
+    <table class="table table-bordered table-striped">
+    
+    <thead>
+    <tr>
+      <th>Вариант ответа</th>
+      <th style="text-align:right;">За</th>
+      <th style="text-align:right;">Против</th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    
+    <tr>
+      <td>Проверяется состояние соответствующего разряда в регистре команд процессора</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">179</td>
+    </tr>
+    
+    <tr>
+      <td>Проверяется состояние соответствующего разряда в регистре данных внешнего устройства</td>
+      <td style="text-align:right;">1</td>
+      <td style="text-align:right;">178</td>
+    </tr>
+    
+    <tr>
+      <td>Проверяется состояние соответствующего разряда в регистре состояния процессора</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">179</td>
+    </tr>
+    
+    <tr>
+      <td>Проверяется состояние соответствующего разряда в регистре состояния внешнего устройства</td>
+      <td style="text-align:right;">177</td>
+      <td style="text-align:right;">4</td>
+    </tr>
+    
+    <tr>
+      <td>Посылается специальный запрос к интерфейсу внешнего устройства</td>
+      <td style="text-align:right;">2</td>
+      <td style="text-align:right;">177</td>
+    </tr>
+    
+    </tbody>
+    
+    </table>
+
+        
+    </div>
+
+</div>
+            </div>
+
+        
+            <div class="row">
+                
+
+<div id="q11" class="card col-md-7 mb-4 mx-auto px-0">
+    <div class="card-header">
+        <h5 class="card-title">
+            Вопрос 11
+            <a class="anchor-link" aria-label="Anchor" href="https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&amp;quizId=1152370#q11">
+                
+            </a>
+        </h5>
+    </div>
+    <div class="card-body">
+        
+            <p>Для программно-управляемого ввода/вывода по опросу флага готовности характерны:</p>
+            
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Высокая эффективность использования процессора
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Сложность аппаратной реализации
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            Низкая эффективность использования процессора
+        </strong>
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Сложность программирования
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            Простота программирования
+        </strong>
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            Простота аппаратной реализации
+        </strong>
+        
+    <br>
+
+
+<p>Статистика: </p>
+
+
+    <table class="table table-bordered table-striped">
+    
+    <thead>
+    <tr>
+      <th>Вариант ответа</th>
+      <th style="text-align:right;">За</th>
+      <th style="text-align:right;">Против</th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    
+    <tr>
+      <td>Высокая эффективность использования процессора</td>
+      <td style="text-align:right;">1</td>
+      <td style="text-align:right;">229</td>
+    </tr>
+    
+    <tr>
+      <td>Сложность аппаратной реализации</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">230</td>
+    </tr>
+    
+    <tr>
+      <td>Низкая эффективность использования процессора</td>
+      <td style="text-align:right;">226</td>
+      <td style="text-align:right;">5</td>
+    </tr>
+    
+    <tr>
+      <td>Сложность программирования</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">230</td>
+    </tr>
+    
+    <tr>
+      <td>Простота программирования</td>
+      <td style="text-align:right;">228</td>
+      <td style="text-align:right;">3</td>
+    </tr>
+    
+    <tr>
+      <td>Простота аппаратной реализации</td>
+      <td style="text-align:right;">227</td>
+      <td style="text-align:right;">4</td>
+    </tr>
+    
+    </tbody>
+    
+    </table>
+
+        
+    </div>
+
+</div>
+            </div>
+
+        
+            <div class="row">
+                
+
+<div id="q12" class="card col-md-7 mb-4 mx-auto px-0">
+    <div class="card-header">
+        <h5 class="card-title">
+            Вопрос 12
+            <a class="anchor-link" aria-label="Anchor" href="https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&amp;quizId=1152370#q12">
+                
+            </a>
+        </h5>
+    </div>
+    <div class="card-body">
+        
+            <p>Ввод-вывод данных в режиме прерывания осуществляется:</p>
+            
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            по инициативе выполняемой процессором программы
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            по запросу пользователя
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            под управлением выполняемой процессором программы
+        </strong>
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            под управлением  контроллера внешнего устройства
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            под управлением  внешнего устройства
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            под управлением  интерфейса внешнего устройства
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            по инициативе внешнего устройства
+        </strong>
+        
+    <br>
+
+
+<p>Статистика: </p>
+
+
+    <table class="table table-bordered table-striped">
+    
+    <thead>
+    <tr>
+      <th>Вариант ответа</th>
+      <th style="text-align:right;">За</th>
+      <th style="text-align:right;">Против</th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    
+    <tr>
+      <td>по инициативе выполняемой процессором программы</td>
+      <td style="text-align:right;">2</td>
+      <td style="text-align:right;">159</td>
+    </tr>
+    
+    <tr>
+      <td>по запросу пользователя</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">161</td>
+    </tr>
+    
+    <tr>
+      <td>под управлением выполняемой процессором программы</td>
+      <td style="text-align:right;">160</td>
+      <td style="text-align:right;">2</td>
+    </tr>
+    
+    <tr>
+      <td>под управлением  контроллера внешнего устройства</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">161</td>
+    </tr>
+    
+    <tr>
+      <td>под управлением  внешнего устройства</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">161</td>
+    </tr>
+    
+    <tr>
+      <td>под управлением  интерфейса внешнего устройства</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">161</td>
+    </tr>
+    
+    <tr>
+      <td>по инициативе внешнего устройства</td>
+      <td style="text-align:right;">159</td>
+      <td style="text-align:right;">3</td>
+    </tr>
+    
+    </tbody>
+    
+    </table>
+
+        
+    </div>
+
+</div>
+            </div>
+
+        
+            <div class="row">
+                
+
+<div id="q13" class="card col-md-7 mb-4 mx-auto px-0">
+    <div class="card-header">
+        <h5 class="card-title">
+            Вопрос 13
+            <a class="anchor-link" aria-label="Anchor" href="https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&amp;quizId=1152370#q13">
+                
+            </a>
+        </h5>
+    </div>
+    <div class="card-body">
+        
+            <p>Каким образом процессор узнает адрес, по которому в памяти ЭВМ находится программа обслуживания внешнего устройства, затребовавшего прерывание?</p>
+            
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Считывает этот адрес из стека
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Считывает этот адрес из регистра данных внешнего устройства
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Считывает этот адрес из второй ячейки вектора прерывания внешнего устройства
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Этот адрес передает ему внешнее устройство
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Считывает этот адрес из своего регистра счетчика команд
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            Считывает этот адрес из первой ячейки вектора прерывания внешнего устройства
+        </strong>
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Считывает этот адрес из регистра состояния внешнего устройства
+        
+    <br>
+
+
+<p>Статистика: </p>
+
+
+    <table class="table table-bordered table-striped">
+    
+    <thead>
+    <tr>
+      <th>Вариант ответа</th>
+      <th style="text-align:right;">За</th>
+      <th style="text-align:right;">Против</th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    
+    <tr>
+      <td>Считывает этот адрес из стека</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">163</td>
+    </tr>
+    
+    <tr>
+      <td>Считывает этот адрес из регистра данных внешнего устройства</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">163</td>
+    </tr>
+    
+    <tr>
+      <td>Считывает этот адрес из второй ячейки вектора прерывания внешнего устройства</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">163</td>
+    </tr>
+    
+    <tr>
+      <td>Этот адрес передает ему внешнее устройство</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">163</td>
+    </tr>
+    
+    <tr>
+      <td>Считывает этот адрес из своего регистра счетчика команд</td>
+      <td style="text-align:right;">1</td>
+      <td style="text-align:right;">162</td>
+    </tr>
+    
+    <tr>
+      <td>Считывает этот адрес из первой ячейки вектора прерывания внешнего устройства</td>
+      <td style="text-align:right;">163</td>
+      <td style="text-align:right;">2</td>
+    </tr>
+    
+    <tr>
+      <td>Считывает этот адрес из регистра состояния внешнего устройства</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">163</td>
+    </tr>
+    
+    </tbody>
+    
+    </table>
+
+        
+    </div>
+
+</div>
+            </div>
+
+        
+            <div class="row">
+                
+
+<div id="q14" class="card col-md-7 mb-4 mx-auto px-0">
+    <div class="card-header">
+        <h5 class="card-title">
+            Вопрос 14
+            <a class="anchor-link" aria-label="Anchor" href="https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&amp;quizId=1152370#q14">
+                
+            </a>
+        </h5>
+    </div>
+    <div class="card-body">
+        
+            <p>Что происходит при выполнении команды возврат из прерывания?</p>
+            
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Адрес возврата в прерванную программу считывается из регистра данных внешнего устройства и помещается в регистр-счетчик команд процессора
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Считывается адрес возврата в прерванную программу из первой ячейки вектора прерывания внешнего устройства
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            Выталкивается из стека и записывается в регистр состояния процессора прежнее слово состояния процессора
+        </strong>
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Адрес возврата и слово состояния процессора считываются из первой и второй ячеек вектора прерывания внешнего устройства и заносятся в регистр-счетчик команд и регистр состояния процессора
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            Адрес возврата в прерванную программу из вершины стека пересылается в регистр-счетчик команд процессора
+        </strong>
+        
+    <br>
+
+
+<p>Статистика: </p>
+
+
+    <table class="table table-bordered table-striped">
+    
+    <thead>
+    <tr>
+      <th>Вариант ответа</th>
+      <th style="text-align:right;">За</th>
+      <th style="text-align:right;">Против</th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    
+    <tr>
+      <td>Адрес возврата в прерванную программу считывается из регистра данных внешнего устройства и помещается в регистр-счетчик команд процессора</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">159</td>
+    </tr>
+    
+    <tr>
+      <td>Считывается адрес возврата в прерванную программу из первой ячейки вектора прерывания внешнего устройства</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">159</td>
+    </tr>
+    
+    <tr>
+      <td>Выталкивается из стека и записывается в регистр состояния процессора прежнее слово состояния процессора</td>
+      <td style="text-align:right;">158</td>
+      <td style="text-align:right;">1</td>
+    </tr>
+    
+    <tr>
+      <td>Адрес возврата и слово состояния процессора считываются из первой и второй ячеек вектора прерывания внешнего устройства и заносятся в регистр-счетчик команд и регистр состояния процессора</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">159</td>
+    </tr>
+    
+    <tr>
+      <td>Адрес возврата в прерванную программу из вершины стека пересылается в регистр-счетчик команд процессора</td>
+      <td style="text-align:right;">158</td>
+      <td style="text-align:right;">1</td>
+    </tr>
+    
+    </tbody>
+    
+    </table>
+
+        
+    </div>
+
+</div>
+            </div>
+
+        
+            <div class="row">
+                
+
+<div id="q15" class="card col-md-7 mb-4 mx-auto px-0">
+    <div class="card-header">
+        <h5 class="card-title">
+            Вопрос 15
+            <a class="anchor-link" aria-label="Anchor" href="https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&amp;quizId=1152370#q15">
+                
+            </a>
+        </h5>
+    </div>
+    <div class="card-body">
+        
+            <p>После выполнения каких действий процессор посылает внешнему устройству сигнал предоставления прямого доступа к памяти?</p>
+            
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            После завершения команды, во время выполнения которой был получен сигнал требования прямого доступа к памяти
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            После завершения процессором очередного цикла обращения к каналу (к оперативной памяти)
+        </strong>
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            После перехода на программу обслуживания прерывания
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            После получения от внешнего устройства сигнала требования прямого доступа к памяти
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            После запоминания в стеке текущего содержимого регистра-счетчика команд и регистра состояния процессора
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            После загрузки в регистр-счетчик команд адреса программы обслуживания прямого доступа к памяти
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            После запоминания в стеке текущего содержимого регистра-счетчика команд
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            После запоминания в стеке текущего содержимого регистра состояния процессора
+        
+    <br>
+
+
+<p>Статистика: </p>
+
+
+    <table class="table table-bordered table-striped">
+    
+    <thead>
+    <tr>
+      <th>Вариант ответа</th>
+      <th style="text-align:right;">Выбрали этот вариант</th>
+      <th>Правильность</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+    <tr>
+      <td>После завершения процессором очередного цикла обращения к каналу (к оперативной памяти)</td>
+      <td style="text-align:right;">188</td>
+      <td>верный ответ</td>
+    </tr>
+    
+    </tbody>
+    
+    </table>
+
+        
+    </div>
+
+</div>
+            </div>
+
+        
+            <div class="row">
+                
+
+<div id="q16" class="card col-md-7 mb-4 mx-auto px-0">
+    <div class="card-header">
+        <h5 class="card-title">
+            Вопрос 16
+            <a class="anchor-link" aria-label="Anchor" href="https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&amp;quizId=1152370#q16">
+                
+            </a>
+        </h5>
+    </div>
+    <div class="card-body">
+        
+            <p>Какой режим ввода вывода целесообразно использовать для обмена данными с видеомонитором?</p>
+            
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            Режим прерывания
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            Режим опроса флага готовности
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            Режим прямого доступа к памяти
+        </strong>
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            Зависит от типа монитора
+        
+    <br>
+
+
+<p>Статистика: </p>
+
+
+    <table class="table table-bordered table-striped">
+    
+    <thead>
+    <tr>
+      <th>Вариант ответа</th>
+      <th style="text-align:right;">Выбрали этот вариант</th>
+      <th>Правильность</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+    <tr>
+      <td>Режим прямого доступа к памяти</td>
+      <td style="text-align:right;">158</td>
+      <td>верный ответ</td>
+    </tr>
+    
+    </tbody>
+    
+    </table>
+
+        
+    </div>
+
+</div>
+            </div>
+
+        
+            <div class="row">
+                
+
+<div id="q17" class="card col-md-7 mb-4 mx-auto px-0">
+    <div class="card-header">
+        <h5 class="card-title">
+            Вопрос 17
+            <a class="anchor-link" aria-label="Anchor" href="https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&amp;quizId=1152370#q17">
+                
+            </a>
+        </h5>
+    </div>
+    <div class="card-body">
+        
+            <p>Какой режим ввода вывода целесообразно использовать для обмена данными со сканером?</p>
+            
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            Режим прерывания
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            Режим прямого доступа к памяти
+        </strong>
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            Режим опроса флага готовности
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            Зависит от типа сканера
+        
+    <br>
+
+
+<p>Статистика: </p>
+
+
+    <table class="table table-bordered table-striped">
+    
+    <thead>
+    <tr>
+      <th>Вариант ответа</th>
+      <th style="text-align:right;">Выбрали этот вариант</th>
+      <th>Правильность</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+    <tr>
+      <td>Режим прямого доступа к памяти</td>
+      <td style="text-align:right;">154</td>
+      <td>верный ответ</td>
+    </tr>
+    
+    </tbody>
+    
+    </table>
+
+        
+    </div>
+
+</div>
+            </div>
+
+        
+            <div class="row">
+                
+
+<div id="q18" class="card col-md-7 mb-4 mx-auto px-0">
+    <div class="card-header">
+        <h5 class="card-title">
+            Вопрос 18
+            <a class="anchor-link" aria-label="Anchor" href="https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&amp;quizId=1152370#q18">
+                
+            </a>
+        </h5>
+    </div>
+    <div class="card-body">
+        
+            <p>Кэш-память</p>
+            
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            может адресоваться обычным образом из программы
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            недоступна для адресации из программы
+        </strong>
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            имеет емкость большую, чем основная оперативная память, но меньшее быстродействие
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            используется для ускорения работы компьютера
+        </strong>
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            используется для повышения надежности работы компьютера
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            имеет меньшую емкость, чем основная оперативная память
+        </strong>
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            используется для снижения энергопотребления компьютера
+        
+    <br>
+
+
+<p>Статистика: </p>
+
+
+    <table class="table table-bordered table-striped">
+    
+    <thead>
+    <tr>
+      <th>Вариант ответа</th>
+      <th style="text-align:right;">За</th>
+      <th style="text-align:right;">Против</th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    
+    <tr>
+      <td>может адресоваться обычным образом из программы</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">161</td>
+    </tr>
+    
+    <tr>
+      <td>недоступна для адресации из программы</td>
+      <td style="text-align:right;">160</td>
+      <td style="text-align:right;">3</td>
+    </tr>
+    
+    <tr>
+      <td>имеет емкость большую, чем основная оперативная память, но меньшее быстродействие</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">161</td>
+    </tr>
+    
+    <tr>
+      <td>используется для ускорения работы компьютера</td>
+      <td style="text-align:right;">160</td>
+      <td style="text-align:right;">3</td>
+    </tr>
+    
+    <tr>
+      <td>используется для повышения надежности работы компьютера</td>
+      <td style="text-align:right;">1</td>
+      <td style="text-align:right;">160</td>
+    </tr>
+    
+    <tr>
+      <td>имеет меньшую емкость, чем основная оперативная память</td>
+      <td style="text-align:right;">160</td>
+      <td style="text-align:right;">3</td>
+    </tr>
+    
+    <tr>
+      <td>используется для снижения энергопотребления компьютера</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">161</td>
+    </tr>
+    
+    </tbody>
+    
+    </table>
+
+        
+    </div>
+
+</div>
+            </div>
+
+        
+            <div class="row">
+                
+
+<div id="q19" class="card col-md-7 mb-4 mx-auto px-0">
+    <div class="card-header">
+        <h5 class="card-title">
+            Вопрос 19
+            <a class="anchor-link" aria-label="Anchor" href="https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&amp;quizId=1152370#q19">
+                
+            </a>
+        </h5>
+    </div>
+    <div class="card-body">
+        
+            <p>Укажите правильные названия указанных на рисунке элементов<br></p>
+            <table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+          <th>Левая часть</th>
+          <th>Правая часть</th>
+        </tr>
+    </thead>
+    <tbody>
+        
+            <tr>
+              <td>Е)</td>
+              <td>
+                  
+                    регистр данных памяти
+                  
+              </td>
+            </tr>
+        
+            <tr>
+              <td>В)</td>
+              <td>
+                  
+                    смещение
+                  
+              </td>
+            </tr>
+        
+            <tr>
+              <td>Б)</td>
+              <td>
+                  
+                    физический адрес
+                  
+              </td>
+            </tr>
+        
+            <tr>
+              <td>Г)</td>
+              <td>
+                  
+                    виртуальный адрес
+                  
+              </td>
+            </tr>
+        
+            <tr>
+              <td>А)</td>
+              <td>
+                  
+                    АЛУ
+                  
+              </td>
+            </tr>
+        
+            <tr>
+              <td>Ж)</td>
+              <td>
+                  
+                    ОЗУ
+                  
+              </td>
+            </tr>
+        
+            <tr>
+              <td>З)</td>
+              <td>
+                  
+                    центральный процессор
+                  
+              </td>
+            </tr>
+        
+            <tr>
+              <td>Д)</td>
+              <td>
+                  
+                    регистр адреса памяти
+                  
+              </td>
+            </tr>
+        
+    </tbody>
+</table>
+
+<p>Варианты правой части:</p>
+
+<ul>
+    
+        <li>Выберите...</li>
+    
+        <li>смещение</li>
+    
+        <li>физический адрес</li>
+    
+        <li>центральный процессор</li>
+    
+        <li>ОЗУ</li>
+    
+        <li>регистр адреса памяти</li>
+    
+        <li>регистр данных памяти</li>
+    
+        <li>АЛУ</li>
+    
+        <li>виртуальный адрес</li>
+    
+</ul>
+
+<p>Статистика:</p>
+
+
+<ul>
+    
+        <li>Е)
+            <ul>
+                
+                <li>регистр данных памяти (выбрали 133, верный ответ)</li>
+                
+            </ul>
+        </li>
+    
+        <li>В)
+            <ul>
+                
+                <li>смещение (выбрали 133, верный ответ)</li>
+                
+            </ul>
+        </li>
+    
+        <li>Б)
+            <ul>
+                
+                <li>физический адрес (выбрали 133, верный ответ)</li>
+                
+            </ul>
+        </li>
+    
+        <li>Г)
+            <ul>
+                
+                <li>виртуальный адрес (выбрали 133, верный ответ)</li>
+                
+            </ul>
+        </li>
+    
+        <li>А)
+            <ul>
+                
+                <li>АЛУ (выбрали 133, верный ответ)</li>
+                
+            </ul>
+        </li>
+    
+        <li>Ж)
+            <ul>
+                
+                <li>ОЗУ (выбрали 133, верный ответ)</li>
+                
+            </ul>
+        </li>
+    
+        <li>З)
+            <ul>
+                
+                <li>центральный процессор (выбрали 133, верный ответ)</li>
+                
+            </ul>
+        </li>
+    
+        <li>Д)
+            <ul>
+                
+                <li>регистр адреса памяти (выбрали 133, верный ответ)</li>
+                
+            </ul>
+        </li>
+    
+</ul>
+
+        
+    </div>
+
+</div>
+            </div>
+
+        
+            <div class="row">
+                
+
+<div id="q20" class="card col-md-7 mb-4 mx-auto px-0">
+    <div class="card-header">
+        <h5 class="card-title">
+            Вопрос 20
+            <a class="anchor-link" aria-label="Anchor" href="https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&amp;quizId=1152370#q20">
+                
+            </a>
+        </h5>
+    </div>
+    <div class="card-body">
+        
+            <p>Могут ли 16-разрядные процессоры работать с памятью объемом 2 Мегабайта?</p>
+            
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            Нет не могут
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            Могут некоторые 16-разрядные процессоры
+        </strong>
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            Могут любые 16-разрядные процессоры
+        
+    <br>
+
+
+<p>Статистика: </p>
+
+
+    <table class="table table-bordered table-striped">
+    
+    <thead>
+    <tr>
+      <th>Вариант ответа</th>
+      <th style="text-align:right;">Выбрали этот вариант</th>
+      <th>Правильность</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+    <tr>
+      <td>Могут любые 16-разрядные процессоры</td>
+      <td style="text-align:right;">1</td>
+      <td>правильность неизвестна</td>
+    </tr>
+    
+    <tr>
+      <td>Могут некоторые 16-разрядные процессоры</td>
+      <td style="text-align:right;">161</td>
+      <td>верный ответ</td>
+    </tr>
+    
+    </tbody>
+    
+    </table>
+
+        
+    </div>
+
+</div>
+            </div>
+
+        
+            <div class="row">
+                
+
+<div id="q21" class="card col-md-7 mb-4 mx-auto px-0">
+    <div class="card-header">
+        <h5 class="card-title">
+            Вопрос 21
+            <a class="anchor-link" aria-label="Anchor" href="https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&amp;quizId=1152370#q21">
+                
+            </a>
+        </h5>
+    </div>
+    <div class="card-body">
+        
+            <p>Физической памятью называют</p>
+            
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            внешние запоминающие устройства
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            множество имеющихся в ОЗУ компьютера ячеек оперативной памяти
+        </strong>
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            кэш-память
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            регистры центрального процессора
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            буферную память в интерфейсах внешних устройств
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            адресное пространство, с которым оперирует разработчик при создании кода программы
+        
+    <br>
+
+
+<p>Статистика: </p>
+
+
+    <table class="table table-bordered table-striped">
+    
+    <thead>
+    <tr>
+      <th>Вариант ответа</th>
+      <th style="text-align:right;">Выбрали этот вариант</th>
+      <th>Правильность</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+    <tr>
+      <td>множество имеющихся в ОЗУ компьютера ячеек оперативной памяти</td>
+      <td style="text-align:right;">182</td>
+      <td>верный ответ</td>
+    </tr>
+    
+    </tbody>
+    
+    </table>
+
+        
+    </div>
+
+</div>
+            </div>
+
+        
+            <div class="row">
+                
+
+<div id="q22" class="card col-md-7 mb-4 mx-auto px-0">
+    <div class="card-header">
+        <h5 class="card-title">
+            Вопрос 22
+            <a class="anchor-link" aria-label="Anchor" href="https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&amp;quizId=1152370#q22">
+                
+            </a>
+        </h5>
+    </div>
+    <div class="card-body">
+        
+            <p>К какому объему памяти можно адресоваться с помощью 32-разрядного адреса?</p>
+            
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            1 Гигабайт
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            1 073 741 824 Байта
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            64 Килобайта
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            4 Гигабайта
+        </strong>
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            65 536 Байт
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            1 Мегабайт
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            1 048 576 Байт
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            128 Килобайт
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            2 Мегабайт
+        
+    <br>
+
+
+<p>Статистика: </p>
+
+
+    <table class="table table-bordered table-striped">
+    
+    <thead>
+    <tr>
+      <th>Вариант ответа</th>
+      <th style="text-align:right;">За</th>
+      <th style="text-align:right;">Против</th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    
+    <tr>
+      <td>1 Гигабайт</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">139</td>
+    </tr>
+    
+    <tr>
+      <td>1 073 741 824 Байта</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">139</td>
+    </tr>
+    
+    <tr>
+      <td>64 Килобайта</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">139</td>
+    </tr>
+    
+    <tr>
+      <td>4 Гигабайта</td>
+      <td style="text-align:right;">139</td>
+      <td style="text-align:right;">1</td>
+    </tr>
+    
+    <tr>
+      <td>65 536 Байт</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">139</td>
+    </tr>
+    
+    <tr>
+      <td>1 Мегабайт</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">139</td>
+    </tr>
+    
+    <tr>
+      <td>1 048 576 Байт</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">139</td>
+    </tr>
+    
+    <tr>
+      <td>128 Килобайт</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">139</td>
+    </tr>
+    
+    <tr>
+      <td>2 Мегабайт</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">139</td>
+    </tr>
+    
+    </tbody>
+    
+    </table>
+
+        
+    </div>
+
+</div>
+            </div>
+
+        
+            <div class="row">
+                
+
+<div id="q23" class="card col-md-7 mb-4 mx-auto px-0">
+    <div class="card-header">
+        <h5 class="card-title">
+            Вопрос 23
+            <a class="anchor-link" aria-label="Anchor" href="https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&amp;quizId=1152370#q23">
+                
+            </a>
+        </h5>
+    </div>
+    <div class="card-body">
+        
+            <p>Распараллеливание алгоритма выполнения задачи это</p>
+            
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            совмещение во времени выполнения операций, составляющих последовательный во времени алгоритм обработки, над разными экземплярами последовательно поступающих входных данных
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            последовательное выполнение набором операционных устройств последовательности микроопераций, составляющих машинную команду
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            одновременное выполнение набором операционных устройств операций, составляющих задачу, над множеством одновременно поступающих входных данных
+        </strong>
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            одновременное выполнение набором операционных устройств последовательности микроопераций, составляющих машинную команду
+        
+    <br>
+
+
+<p>Статистика: </p>
+
+
+    <table class="table table-bordered table-striped">
+    
+    <thead>
+    <tr>
+      <th>Вариант ответа</th>
+      <th style="text-align:right;">За</th>
+      <th style="text-align:right;">Против</th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    
+    <tr>
+      <td>совмещение во времени выполнения операций, составляющих последовательный во времени алгоритм обработки, над разными экземплярами последовательно поступающих входных данных</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">124</td>
+    </tr>
+    
+    <tr>
+      <td>последовательное выполнение набором операционных устройств последовательности микроопераций, составляющих машинную команду</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">124</td>
+    </tr>
+    
+    <tr>
+      <td>одновременное выполнение набором операционных устройств операций, составляющих задачу, над множеством одновременно поступающих входных данных</td>
+      <td style="text-align:right;">124</td>
+      <td style="text-align:right;">0</td>
+    </tr>
+    
+    <tr>
+      <td>одновременное выполнение набором операционных устройств последовательности микроопераций, составляющих машинную команду</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">124</td>
+    </tr>
+    
+    </tbody>
+    
+    </table>
+
+        
+    </div>
+
+</div>
+            </div>
+
+        
+            <div class="row">
+                
+
+<div id="q24" class="card col-md-7 mb-4 mx-auto px-0">
+    <div class="card-header">
+        <h5 class="card-title">
+            Вопрос 24
+            <a class="anchor-link" aria-label="Anchor" href="https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&amp;quizId=1152370#q24">
+                
+            </a>
+        </h5>
+    </div>
+    <div class="card-body">
+        
+            <p>Рисунок иллюстрирует вычислительную архитектуру типа - _____ поток команд, множественный поток данных</p>
+            
+    
+        <input type="radio" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            множественный
+        </strong>
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            параллельный
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            последовательный
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            одинарный
+        
+    <br>
+
+
+<p>Статистика: </p>
+
+
+    <table class="table table-bordered table-striped">
+    
+    <thead>
+    <tr>
+      <th>Вариант ответа</th>
+      <th style="text-align:right;">Выбрали этот вариант</th>
+      <th>Правильность</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+    <tr>
+      <td>множественный</td>
+      <td style="text-align:right;">55</td>
+      <td>верный ответ</td>
+    </tr>
+    
+    </tbody>
+    
+    </table>
+
+        
+    </div>
+
+</div>
+            </div>
+
+        
+            <div class="row">
+                
+
+<div id="q25" class="card col-md-7 mb-4 mx-auto px-0">
+    <div class="card-header">
+        <h5 class="card-title">
+            Вопрос 25
+            <a class="anchor-link" aria-label="Anchor" href="https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&amp;quizId=1152370#q25">
+                
+            </a>
+        </h5>
+    </div>
+    <div class="card-body">
+        
+            <p>Команда условного перехода используется для</p>
+            
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            перехода на программу обработки прерывания
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            изменения содержимого регистра-счетчика команд
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            возврата из подпрограммы
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            для перехода на команду с указанным адресом
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            вызова подпрограммы
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            возврата из прерывания
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            изменения содержимого регистра-счетчика команд в случае выполнения заданного условия
+        </strong>
+        
+    <br>
+
+
+<p>Статистика: </p>
+
+
+    <table class="table table-bordered table-striped">
+    
+    <thead>
+    <tr>
+      <th>Вариант ответа</th>
+      <th style="text-align:right;">За</th>
+      <th style="text-align:right;">Против</th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    
+    <tr>
+      <td>перехода на программу обработки прерывания</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">79</td>
+    </tr>
+    
+    <tr>
+      <td>изменения содержимого регистра-счетчика команд</td>
+      <td style="text-align:right;">1</td>
+      <td style="text-align:right;">78</td>
+    </tr>
+    
+    <tr>
+      <td>возврата из подпрограммы</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">79</td>
+    </tr>
+    
+    <tr>
+      <td>для перехода на команду с указанным адресом</td>
+      <td style="text-align:right;">7</td>
+      <td style="text-align:right;">72</td>
+    </tr>
+    
+    <tr>
+      <td>вызова подпрограммы</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">79</td>
+    </tr>
+    
+    <tr>
+      <td>возврата из прерывания</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">79</td>
+    </tr>
+    
+    <tr>
+      <td>изменения содержимого регистра-счетчика команд в случае выполнения заданного условия</td>
+      <td style="text-align:right;">78</td>
+      <td style="text-align:right;">1</td>
+    </tr>
+    
+    </tbody>
+    
+    </table>
+
+        
+    </div>
+
+</div>
+            </div>
+
+        
+            <div class="row">
+                
+
+<div id="q26" class="card col-md-7 mb-4 mx-auto px-0">
+    <div class="card-header">
+        <h5 class="card-title">
+            Вопрос 26
+            <a class="anchor-link" aria-label="Anchor" href="https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&amp;quizId=1152370#q26">
+                
+            </a>
+        </h5>
+    </div>
+    <div class="card-body">
+        
+            <p>Для многопроцессорных кластерных систем является характерным</p>
+            
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Должны использоваться компьютеры специальной сборки и комплектации
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            Простая масштабируемость. Возможность включения в комплекс любого числа компьютеров
+        </strong>
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Отказ одного узла приводит потере работоспособности всего комплекса
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            Могут использоваться компьютеры массового производства
+        </strong>
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            Каждый процессор работает со своим ОЗУ
+        </strong>
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            Снижение соотношения цена/производительность
+        </strong>
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Управление всем комплексом общей операционной системой
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Сложная масштабируемость
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Наличие общей памяти, к которой имеют доступ все процессоры
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            Возможность наращивания мощности комплекса в процессе эксплуатации
+        </strong>
+        
+    <br>
+
+
+<p>Статистика: </p>
+
+
+    <table class="table table-bordered table-striped">
+    
+    <thead>
+    <tr>
+      <th>Вариант ответа</th>
+      <th style="text-align:right;">За</th>
+      <th style="text-align:right;">Против</th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    
+    <tr>
+      <td>Должны использоваться компьютеры специальной сборки и комплектации</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">50</td>
+    </tr>
+    
+    <tr>
+      <td>Простая масштабируемость. Возможность включения в комплекс любого числа компьютеров</td>
+      <td style="text-align:right;">50</td>
+      <td style="text-align:right;">0</td>
+    </tr>
+    
+    <tr>
+      <td>Отказ одного узла приводит потере работоспособности всего комплекса</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">50</td>
+    </tr>
+    
+    <tr>
+      <td>Могут использоваться компьютеры массового производства</td>
+      <td style="text-align:right;">50</td>
+      <td style="text-align:right;">0</td>
+    </tr>
+    
+    <tr>
+      <td>Каждый процессор работает со своим ОЗУ</td>
+      <td style="text-align:right;">50</td>
+      <td style="text-align:right;">0</td>
+    </tr>
+    
+    <tr>
+      <td>Снижение соотношения цена/производительность</td>
+      <td style="text-align:right;">50</td>
+      <td style="text-align:right;">0</td>
+    </tr>
+    
+    <tr>
+      <td>Управление всем комплексом общей операционной системой</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">50</td>
+    </tr>
+    
+    <tr>
+      <td>Сложная масштабируемость</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">50</td>
+    </tr>
+    
+    <tr>
+      <td>Наличие общей памяти, к которой имеют доступ все процессоры</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">50</td>
+    </tr>
+    
+    <tr>
+      <td>Возможность наращивания мощности комплекса в процессе эксплуатации</td>
+      <td style="text-align:right;">50</td>
+      <td style="text-align:right;">0</td>
+    </tr>
+    
+    </tbody>
+    
+    </table>
+
+        
+    </div>
+
+</div>
+            </div>
+
+        
+            <div class="row">
+                
+
+<div id="q27" class="card col-md-7 mb-4 mx-auto px-0">
+    <div class="card-header">
+        <h5 class="card-title">
+            Вопрос 27
+            <a class="anchor-link" aria-label="Anchor" href="https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&amp;quizId=1152370#q27">
+                
+            </a>
+        </h5>
+    </div>
+    <div class="card-body">
+        
+            <p>При размещении команд и данных в общей памяти ...</p>
+            
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Упрощается обращение к данным
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Увеличивается скорость выборки команд и данных
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            Эффективнее используется имеющийся объем оперативной памяти
+        </strong>
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Легче различать команды и данные
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Уменьшается количество линий связи процессора с памятью
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Упрощается кодирование команд
+        
+    <br>
+
+
+<p>Статистика: </p>
+
+
+    <table class="table table-bordered table-striped">
+    
+    <thead>
+    <tr>
+      <th>Вариант ответа</th>
+      <th style="text-align:right;">За</th>
+      <th style="text-align:right;">Против</th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    
+    <tr>
+      <td>Упрощается обращение к данным</td>
+      <td style="text-align:right;">4</td>
+      <td style="text-align:right;">159</td>
+    </tr>
+    
+    <tr>
+      <td>Увеличивается скорость выборки команд и данных</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">163</td>
+    </tr>
+    
+    <tr>
+      <td>Эффективнее используется имеющийся объем оперативной памяти</td>
+      <td style="text-align:right;">158</td>
+      <td style="text-align:right;">7</td>
+    </tr>
+    
+    <tr>
+      <td>Легче различать команды и данные</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">163</td>
+    </tr>
+    
+    <tr>
+      <td>Уменьшается количество линий связи процессора с памятью</td>
+      <td style="text-align:right;">5</td>
+      <td style="text-align:right;">158</td>
+    </tr>
+    
+    <tr>
+      <td>Упрощается кодирование команд</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">163</td>
+    </tr>
+    
+    </tbody>
+    
+    </table>
+
+        
+    </div>
+
+</div>
+            </div>
+
+        
+            <div class="row">
+                
+
+<div id="q28" class="card col-md-7 mb-4 mx-auto px-0">
+    <div class="card-header">
+        <h5 class="card-title">
+            Вопрос 28
+            <a class="anchor-link" aria-label="Anchor" href="https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&amp;quizId=1152370#q28">
+                
+            </a>
+        </h5>
+    </div>
+    <div class="card-body">
+        
+            <p>Укажите название блока A запоминающего устройства<br></p>
+            
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            Ячейка памяти
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            Регистр данных внешнего устройства
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            Внешнее запоминающее устройство
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            Шина адреса
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            Регистр команд
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            Регистр адреса
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            Регистры общего назначения
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            Регистр состояния
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            Регистр-счетчик команд
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            Дешифратор адреса
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            Входная шина данных
+        </strong>
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            Арифметико-логической устройство
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            Шина записи/чтения
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            Устройство ввода/вывода
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            Выходная шина данных
+        
+    <br>
+
+
+<p>Статистика: </p>
+
+
+    <table class="table table-bordered table-striped">
+    
+    <thead>
+    <tr>
+      <th>Вариант ответа</th>
+      <th style="text-align:right;">Выбрали этот вариант</th>
+      <th>Правильность</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+    <tr>
+      <td>Входная шина данных</td>
+      <td style="text-align:right;">185</td>
+      <td>верный ответ</td>
+    </tr>
+    
+    <tr>
+      <td>Выходная шина данных</td>
+      <td style="text-align:right;">3</td>
+      <td>неверный ответ</td>
+    </tr>
+    
+    </tbody>
+    
+    </table>
+
+        
+    </div>
+
+</div>
+            </div>
+
+        
+            <div class="row">
+                
+
+<div id="q29" class="card col-md-7 mb-4 mx-auto px-0">
+    <div class="card-header">
+        <h5 class="card-title">
+            Вопрос 29
+            <a class="anchor-link" aria-label="Anchor" href="https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&amp;quizId=1152370#q29">
+                
+            </a>
+        </h5>
+    </div>
+    <div class="card-body">
+        
+            <p>Содержимое, какого (каких) регистра (регистров) всегда интерпретируется процессором как адрес ячейки памяти, в которой размещена следующая команда выполняемой программы?</p>
+            
+    
+        <input type="checkbox" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            Регистра-счетчика команд
+        </strong>
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Регистра данных памяти
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Регистра общего назначения
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Регистра адреса памяти
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Регистра состояния процессора
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Регистра-указателя стека
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Регистра команд
+        
+    <br>
+
+
+<p>Статистика: </p>
+
+
+    <table class="table table-bordered table-striped">
+    
+    <thead>
+    <tr>
+      <th>Вариант ответа</th>
+      <th style="text-align:right;">За</th>
+      <th style="text-align:right;">Против</th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    
+    <tr>
+      <td>Регистра-счетчика команд</td>
+      <td style="text-align:right;">207</td>
+      <td style="text-align:right;">3</td>
+    </tr>
+    
+    <tr>
+      <td>Регистра данных памяти</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">207</td>
+    </tr>
+    
+    <tr>
+      <td>Регистра общего назначения</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">207</td>
+    </tr>
+    
+    <tr>
+      <td>Регистра адреса памяти</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">207</td>
+    </tr>
+    
+    <tr>
+      <td>Регистра состояния процессора</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">207</td>
+    </tr>
+    
+    <tr>
+      <td>Регистра-указателя стека</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">207</td>
+    </tr>
+    
+    <tr>
+      <td>Регистра команд</td>
+      <td style="text-align:right;">1</td>
+      <td style="text-align:right;">206</td>
+    </tr>
+    
+    </tbody>
+    
+    </table>
+
+        
+    </div>
+
+</div>
+            </div>
+
+        
+            <div class="row">
+                
+
+<div id="q30" class="card col-md-7 mb-4 mx-auto px-0">
+    <div class="card-header">
+        <h5 class="card-title">
+            Вопрос 30
+            <a class="anchor-link" aria-label="Anchor" href="https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&amp;quizId=1152370#q30">
+                
+            </a>
+        </h5>
+    </div>
+    <div class="card-body">
+        
+            <p>Укажите, какой (каким) из перечисленных характеристик фон-неймановской ЭВМ соответствует приведенное определение - &lt;Количество разрядов в операндах, над которыми процессор может совершать операции&gt;</p>
+            
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Определяет объем физической памяти
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Быстродействие процессора
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Количество подключаемых внешних устройств
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Система команд процессора
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            Разрядность процессора
+        </strong>
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Максимальный размер физической памяти
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            Точность выполняемых процессором вычислений
+        
+    <br>
+
+
+<p>Статистика: </p>
+
+
+    <table class="table table-bordered table-striped">
+    
+    <thead>
+    <tr>
+      <th>Вариант ответа</th>
+      <th style="text-align:right;">За</th>
+      <th style="text-align:right;">Против</th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    
+    <tr>
+      <td>Определяет объем физической памяти</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">22</td>
+    </tr>
+    
+    <tr>
+      <td>Быстродействие процессора</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">22</td>
+    </tr>
+    
+    <tr>
+      <td>Количество подключаемых внешних устройств</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">22</td>
+    </tr>
+    
+    <tr>
+      <td>Система команд процессора</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">22</td>
+    </tr>
+    
+    <tr>
+      <td>Разрядность процессора</td>
+      <td style="text-align:right;">22</td>
+      <td style="text-align:right;">0</td>
+    </tr>
+    
+    <tr>
+      <td>Максимальный размер физической памяти</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">22</td>
+    </tr>
+    
+    <tr>
+      <td>Точность выполняемых процессором вычислений</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">22</td>
+    </tr>
+    
+    </tbody>
+    
+    </table>
+
+        
+    </div>
+
+</div>
+            </div>
+
+        
+            <div class="row">
+                
+
+<div id="q31" class="card col-md-7 mb-4 mx-auto px-0">
+    <div class="card-header">
+        <h5 class="card-title">
+            Вопрос 31
+            <a class="anchor-link" aria-label="Anchor" href="https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&amp;quizId=1152370#q31">
+                
+            </a>
+        </h5>
+    </div>
+    <div class="card-body">
+        
+            <p>В момент времени t1 схема находится в следующем состоянии: D=1, C=0, Q=1.<br><br>В каком состоянии будет выход Q=? в момент t2, после того как вход C перейдет в состояние &lt;1&gt;?</p>
+            
+<p><strong>Ответ:</strong> 1</p>
+
+<p>Статистика: </p>
+
+
+<table class="table table-bordered table-striped">
+<thead>
+<tr>
+  <th>Вариант ответа</th>
+  <th style="text-align:right;">Выбрали этот вариант</th>
+  <th>Правильность</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td>0</td>
+  <td style="text-align:right;">4</td>
+  <td>неверный ответ</td>
+</tr>
+
+<tr>
+  <td>1</td>
+  <td style="text-align:right;">2</td>
+  <td>верный ответ</td>
+</tr>
+
+</tbody>
+</table>
+
+        
+    </div>
+
+</div>
+            </div>
+
+        
+            <div class="row">
+                
+
+<div id="q32" class="card col-md-7 mb-4 mx-auto px-0">
+    <div class="card-header">
+        <h5 class="card-title">
+            Вопрос 32
+            <a class="anchor-link" aria-label="Anchor" href="https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&amp;quizId=1152370#q32">
+                
+            </a>
+        </h5>
+    </div>
+    <div class="card-body">
+        
+            <p></p><p>Указать состояние сигналов б, в, г, е, з, S и Cвых при X=0, Y=1 и Cвх=0</p>
+
+<p>б: <a class="btn btn-outline-primary btn-sm" role="button" href="https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&amp;quizId=1152370#q4146sub1">Мини-вопрос 1</a> в: <a class="btn btn-outline-primary btn-sm" role="button" href="https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&amp;quizId=1152370#q4146sub2">Мини-вопрос 2</a> г: <a class="btn btn-outline-primary btn-sm" role="button" href="https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&amp;quizId=1152370#q4146sub3">Мини-вопрос 3</a> е: <a class="btn btn-outline-primary btn-sm" role="button" href="https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&amp;quizId=1152370#q4146sub4">Мини-вопрос 4</a> з: <a class="btn btn-outline-primary btn-sm" role="button" href="https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&amp;quizId=1152370#q4146sub5">Мини-вопрос 5</a> S: <a class="btn btn-outline-primary btn-sm" role="button" href="https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&amp;quizId=1152370#q4146sub6">Мини-вопрос 6</a> Cвых: <a class="btn btn-outline-primary btn-sm" role="button" href="https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&amp;quizId=1152370#q4146sub7">Мини-вопрос 7</a></p><p></p>
+            
+
+<div id="q4146sub1" class="card mb-4 mx-auto px-0 border">
+    <div class="card-header">
+        <h6>Мини-вопрос 1</h6>
+    </div>
+    <div class="card-body">
+
+        
+            
+    
+        <input type="radio" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            0
+        </strong>
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            1
+        
+    <br>
+
+
+<p>Статистика: </p>
+
+
+    <table class="table table-bordered table-striped">
+    
+    <thead>
+    <tr>
+      <th>Вариант ответа</th>
+      <th style="text-align:right;">Выбрали этот вариант</th>
+      <th>Правильность</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+    <tr>
+      <td>0</td>
+      <td style="text-align:right;">173</td>
+      <td>верный ответ</td>
+    </tr>
+    
+    </tbody>
+    
+    </table>
+
+        
+    </div>
+</div>
+
+<div id="q4146sub2" class="card mb-4 mx-auto px-0 border">
+    <div class="card-header">
+        <h6>Мини-вопрос 2</h6>
+    </div>
+    <div class="card-body">
+
+        
+            
+    
+        <input type="radio" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            1
+        </strong>
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            0
+        
+    <br>
+
+
+<p>Статистика: </p>
+
+
+    <table class="table table-bordered table-striped">
+    
+    <thead>
+    <tr>
+      <th>Вариант ответа</th>
+      <th style="text-align:right;">Выбрали этот вариант</th>
+      <th>Правильность</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+    <tr>
+      <td>1</td>
+      <td style="text-align:right;">173</td>
+      <td>верный ответ</td>
+    </tr>
+    
+    </tbody>
+    
+    </table>
+
+        
+    </div>
+</div>
+
+<div id="q4146sub3" class="card mb-4 mx-auto px-0 border">
+    <div class="card-header">
+        <h6>Мини-вопрос 3</h6>
+    </div>
+    <div class="card-body">
+
+        
+            
+    
+        <input type="radio" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            1
+        </strong>
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            0
+        
+    <br>
+
+
+<p>Статистика: </p>
+
+
+    <table class="table table-bordered table-striped">
+    
+    <thead>
+    <tr>
+      <th>Вариант ответа</th>
+      <th style="text-align:right;">Выбрали этот вариант</th>
+      <th>Правильность</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+    <tr>
+      <td>1</td>
+      <td style="text-align:right;">173</td>
+      <td>верный ответ</td>
+    </tr>
+    
+    </tbody>
+    
+    </table>
+
+        
+    </div>
+</div>
+
+<div id="q4146sub4" class="card mb-4 mx-auto px-0 border">
+    <div class="card-header">
+        <h6>Мини-вопрос 4</h6>
+    </div>
+    <div class="card-body">
+
+        
+            
+    
+        <input type="radio" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            1
+        </strong>
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            0
+        
+    <br>
+
+
+<p>Статистика: </p>
+
+
+    <table class="table table-bordered table-striped">
+    
+    <thead>
+    <tr>
+      <th>Вариант ответа</th>
+      <th style="text-align:right;">Выбрали этот вариант</th>
+      <th>Правильность</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+    <tr>
+      <td>1</td>
+      <td style="text-align:right;">172</td>
+      <td>верный ответ</td>
+    </tr>
+    
+    </tbody>
+    
+    </table>
+
+        
+    </div>
+</div>
+
+<div id="q4146sub5" class="card mb-4 mx-auto px-0 border">
+    <div class="card-header">
+        <h6>Мини-вопрос 5</h6>
+    </div>
+    <div class="card-body">
+
+        
+            
+    
+        <input type="radio" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            0
+        </strong>
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            1
+        
+    <br>
+
+
+<p>Статистика: </p>
+
+
+    <table class="table table-bordered table-striped">
+    
+    <thead>
+    <tr>
+      <th>Вариант ответа</th>
+      <th style="text-align:right;">Выбрали этот вариант</th>
+      <th>Правильность</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+    <tr>
+      <td>0</td>
+      <td style="text-align:right;">173</td>
+      <td>верный ответ</td>
+    </tr>
+    
+    </tbody>
+    
+    </table>
+
+        
+    </div>
+</div>
+
+<div id="q4146sub6" class="card mb-4 mx-auto px-0 border">
+    <div class="card-header">
+        <h6>Мини-вопрос 6</h6>
+    </div>
+    <div class="card-body">
+
+        
+            
+    
+        <input type="radio" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            1
+        </strong>
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            0
+        
+    <br>
+
+
+<p>Статистика: </p>
+
+
+    <table class="table table-bordered table-striped">
+    
+    <thead>
+    <tr>
+      <th>Вариант ответа</th>
+      <th style="text-align:right;">Выбрали этот вариант</th>
+      <th>Правильность</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+    <tr>
+      <td>1</td>
+      <td style="text-align:right;">173</td>
+      <td>верный ответ</td>
+    </tr>
+    
+    </tbody>
+    
+    </table>
+
+        
+    </div>
+</div>
+
+<div id="q4146sub7" class="card mb-4 mx-auto px-0 border">
+    <div class="card-header">
+        <h6>Мини-вопрос 7</h6>
+    </div>
+    <div class="card-body">
+
+        
+            
+    
+        <input type="radio" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            0
+        </strong>
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            1
+        
+    <br>
+
+
+<p>Статистика: </p>
+
+
+    <table class="table table-bordered table-striped">
+    
+    <thead>
+    <tr>
+      <th>Вариант ответа</th>
+      <th style="text-align:right;">Выбрали этот вариант</th>
+      <th>Правильность</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+    <tr>
+      <td>0</td>
+      <td style="text-align:right;">173</td>
+      <td>верный ответ</td>
+    </tr>
+    
+    </tbody>
+    
+    </table>
+
+        
+    </div>
+</div>
+
+        
+    </div>
+
+</div>
+            </div>
+
+        
+            <div class="row">
+                
+
+<div id="q33" class="card col-md-7 mb-4 mx-auto px-0">
+    <div class="card-header">
+        <h5 class="card-title">
+            Вопрос 33
+            <a class="anchor-link" aria-label="Anchor" href="https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&amp;quizId=1152370#q33">
+                
+            </a>
+        </h5>
+    </div>
+    <div class="card-body">
+        
+            <p><br>&nbsp;<br>Рисунок иллюстрирует вычислительную архитектуру типа - _____ поток команд, множественный поток данных</p>
+            
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            множественный
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            параллельный
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" disabled="">
+    
+        
+            последовательный
+        
+    <br>
+
+    
+        <input type="radio" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            одинарный
+        </strong>
+        
+    <br>
+
+
+<p>Статистика: </p>
+
+
+    <table class="table table-bordered table-striped">
+    
+    <thead>
+    <tr>
+      <th>Вариант ответа</th>
+      <th style="text-align:right;">Выбрали этот вариант</th>
+      <th>Правильность</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+    <tr>
+      <td>одинарный</td>
+      <td style="text-align:right;">65</td>
+      <td>верный ответ</td>
+    </tr>
+    
+    </tbody>
+    
+    </table>
+
+        
+    </div>
+
+</div>
+            </div>
+
+        
+            <div class="row">
+                
+
+<div id="q34" class="card col-md-7 mb-4 mx-auto px-0">
+    <div class="card-header">
+        <h5 class="card-title">
+            Вопрос 34
+            <a class="anchor-link" aria-label="Anchor" href="https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&amp;quizId=1152370#q34">
+                
+            </a>
+        </h5>
+    </div>
+    <div class="card-body">
+        
+            <p>Ввод-вывод данных в режиме прямого доступа к памяти осуществляется:</p>
+            
+    
+        <input type="checkbox" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            под управлением  контроллера внешнего устройства
+        </strong>
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            по запросу пользователя
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            под управлением процессора
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            по инициативе выполняемой процессором программы
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            под управлением выполняемой процессором программы
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            по инициативе внешнего устройства
+        </strong>
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            под управлением внешнего устройства
+        
+    <br>
+
+
+<p>Статистика: </p>
+
+
+    <table class="table table-bordered table-striped">
+    
+    <thead>
+    <tr>
+      <th>Вариант ответа</th>
+      <th style="text-align:right;">За</th>
+      <th style="text-align:right;">Против</th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    
+    <tr>
+      <td>под управлением  контроллера внешнего устройства</td>
+      <td style="text-align:right;">27</td>
+      <td style="text-align:right;">5</td>
+    </tr>
+    
+    <tr>
+      <td>по запросу пользователя</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">32</td>
+    </tr>
+    
+    <tr>
+      <td>под управлением процессора</td>
+      <td style="text-align:right;">5</td>
+      <td style="text-align:right;">27</td>
+    </tr>
+    
+    <tr>
+      <td>по инициативе выполняемой процессором программы</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">32</td>
+    </tr>
+    
+    <tr>
+      <td>под управлением выполняемой процессором программы</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">32</td>
+    </tr>
+    
+    <tr>
+      <td>по инициативе внешнего устройства</td>
+      <td style="text-align:right;">28</td>
+      <td style="text-align:right;">4</td>
+    </tr>
+    
+    <tr>
+      <td>под управлением внешнего устройства</td>
+      <td style="text-align:right;">2</td>
+      <td style="text-align:right;">30</td>
+    </tr>
+    
+    </tbody>
+    
+    </table>
+
+        
+    </div>
+
+</div>
+            </div>
+
+        
+            <div class="row">
+                
+
+<div id="q35" class="card col-md-7 mb-4 mx-auto px-0">
+    <div class="card-header">
+        <h5 class="card-title">
+            Вопрос 35
+            <a class="anchor-link" aria-label="Anchor" href="https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&amp;quizId=1152370#q35">
+                
+            </a>
+        </h5>
+    </div>
+    <div class="card-body">
+        
+            <p>В процессоре фон-неймановской ЭВМ для формирования адреса следующей команды служит</p>
+            
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            вектор прерывания
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            регистр-счетчик команд
+        </strong>
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            регистр-указатель стека
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            регистр состояния внешнего устройства
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            регистр команд
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            регистр состояния процессора
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            порт внешнего устройства
+        
+    <br>
+
+
+<p>Статистика: </p>
+
+
+    <table class="table table-bordered table-striped">
+    
+    <thead>
+    <tr>
+      <th>Вариант ответа</th>
+      <th style="text-align:right;">За</th>
+      <th style="text-align:right;">Против</th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    
+    <tr>
+      <td>вектор прерывания</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">13</td>
+    </tr>
+    
+    <tr>
+      <td>регистр-счетчик команд</td>
+      <td style="text-align:right;">12</td>
+      <td style="text-align:right;">1</td>
+    </tr>
+    
+    <tr>
+      <td>регистр-указатель стека</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">13</td>
+    </tr>
+    
+    <tr>
+      <td>регистр состояния внешнего устройства</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">13</td>
+    </tr>
+    
+    <tr>
+      <td>регистр команд</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">13</td>
+    </tr>
+    
+    <tr>
+      <td>регистр состояния процессора</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">13</td>
+    </tr>
+    
+    <tr>
+      <td>порт внешнего устройства</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">13</td>
+    </tr>
+    
+    </tbody>
+    
+    </table>
+
+        
+    </div>
+
+</div>
+            </div>
+
+        
+            <div class="row">
+                
+
+<div id="q36" class="card col-md-7 mb-4 mx-auto px-0">
+    <div class="card-header">
+        <h5 class="card-title">
+            Вопрос 36
+            <a class="anchor-link" aria-label="Anchor" href="https://syncshare.naloaty.me/app/quiz/view/?moodleHost=edu_vsu_ru&amp;quizId=1152370#q36">
+                
+            </a>
+        </h5>
+    </div>
+    <div class="card-body">
+        
+            <p>Рисунок иллюстрирует принцип повышения производительности путем</p>
+            
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            дублирования (резервирования) операционных блоков
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" checked="" disabled="">
+    
+        
+        <strong>
+            конвейерного выполнения операций
+        </strong>
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            распараллеливания выполнения операций
+        
+    <br>
+
+    
+        <input type="checkbox" class="task-list-item-checkbox" disabled="">
+    
+        
+            увеличения разрядности операционных блоков
+        
+    <br>
+
+
+<p>Статистика: </p>
+
+
+    <table class="table table-bordered table-striped">
+    
+    <thead>
+    <tr>
+      <th>Вариант ответа</th>
+      <th style="text-align:right;">За</th>
+      <th style="text-align:right;">Против</th>
+    </tr>
+    </thead>
+    
+    <tbody>
+    
+    <tr>
+      <td>дублирования (резервирования) операционных блоков</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">1</td>
+    </tr>
+    
+    <tr>
+      <td>конвейерного выполнения операций</td>
+      <td style="text-align:right;">1</td>
+      <td style="text-align:right;">0</td>
+    </tr>
+    
+    <tr>
+      <td>распараллеливания выполнения операций</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">1</td>
+    </tr>
+    
+    <tr>
+      <td>увеличения разрядности операционных блоков</td>
+      <td style="text-align:right;">0</td>
+      <td style="text-align:right;">1</td>
+    </tr>
+    
+    </tbody>
+    
+    </table>
+
+        
+    </div>
+
+</div>
+            </div>
+
+        
+    <p>
+    </p></div>
+</div>
+<script src="./АрхЭВМ Бров_files/bootstrap.bundle.min.js.download" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async="" src="./АрхЭВМ Бров_files/tex-mml-chtml.js.download"></script>
+<script src="./АрхЭВМ Бров_files/highlight.min.js.download" integrity="sha512-D9gUyxqja7hBtkWpPWGt9wfbfaMGVt9gnyCvYa+jojwwPHLCzUm5i8rpk7vD7wNee9bA35eYIjobYPaQuKS1MQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="./АрхЭВМ Бров_files/highlightjs-line-numbers.min.js.download"></script>
+<script src="./АрхЭВМ Бров_files/highlightjs-copy.min.js.download"></script>
+<script>
+    hljs.highlightAll();
+    hljs.initLineNumbersOnLoad();
+    hljs.addPlugin(new CopyButtonPlugin());
+</script>
+
+
+</body></html>
