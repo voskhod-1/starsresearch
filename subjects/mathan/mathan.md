@@ -41,6 +41,8 @@
 #### Сиро́та
   + [Аттестация №1](sirota/mathan-2-th-att-1-fact.md)
   + [Аттестация №2](sirota/mathan-2-th-att-2-fact.md)
+#### Канищева
+  + [Лекции](kanischeva/mathan-lectures.md)
 ### Практика
 #### ИСиТ
 + Некрасова
