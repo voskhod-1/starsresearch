@@ -1,12 +1,12 @@
 [назад](algem.md)
 ***
-![Вариант 29](https://github.com/user-attachments/assets/baba39be-4459-4309-8bf7-30b414113dec)
+![Вариант 1](https://github.com/user-attachments/assets/3f527a34-5759-49c2-b792-bcbdd43a2a2f)
 
-![Вариант 58](https://github.com/user-attachments/assets/2b6bee4f-1970-4a59-9533-6f96af32eb66)
+![Вариант 2](https://github.com/user-attachments/assets/8ec27954-8470-4311-93c3-eb11255bedc6)
 
-![Вариант 69](https://github.com/user-attachments/assets/42dc4dd4-d3b5-490f-9043-3790b30fdc50)
+![Вариант 3](https://github.com/user-attachments/assets/fb7d7601-c38e-47ff-9b4e-3fd3943c39f3)
 
-![Вариант 80](https://github.com/user-attachments/assets/c1be7139-8f30-452c-926b-dbbd1f22ed8b)
+![Вариант 4](https://github.com/user-attachments/assets/af5199e1-8a9b-4cad-913b-22e0c7ac3ea0)
 
 ![Доска 1](https://github.com/user-attachments/assets/5a473b6f-3979-4af6-9064-fa7c950a8b23)
 
