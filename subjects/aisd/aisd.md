@@ -5,6 +5,8 @@
 ### Лекция
 + Аттестация №3
   + [Контрольная работа](aisd-att-final-fact.md)
++ Экзамен
+  + [Список билетов](aisd-att-exam-ticklist.md)
 ### Учебные материалы
 + [Сортировки](https://github.com/observernear/SortingAlgorithmsCollection)
 
