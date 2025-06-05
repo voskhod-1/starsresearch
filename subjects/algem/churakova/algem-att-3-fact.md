@@ -1,7 +1,5 @@
 [назад](algem.md)
 ***
-![Вариант 19](https://github.com/user-attachments/assets/b44b9ce7-5549-4352-b31b-c4375d4f4cdb)
-
 ![Вариант 29](https://github.com/user-attachments/assets/baba39be-4459-4309-8bf7-30b414113dec)
 
 ![Вариант 58](https://github.com/user-attachments/assets/2b6bee4f-1970-4a59-9533-6f96af32eb66)
