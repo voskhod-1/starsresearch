@@ -5,7 +5,6 @@
 ## 2 семестр
 ### Лекция
 + Вахитова
-  + [Учебник](https://github.com/user-attachments/files/20629538/default.pdf)
 
 ### Практика
 + Вахитова
