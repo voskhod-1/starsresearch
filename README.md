@@ -38,6 +38,7 @@
 
 ## Шаблоны
 + [ВКР](templates/vkr/vkr.md)
++ [ВКР(LaTeX)](https://github.com/itonik/spbu_diploma)
 ***
 [Интересные расширения👀](smth/resources.md#Прикладной-софт)
 
