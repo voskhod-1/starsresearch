@@ -15,24 +15,24 @@
 ## Предметы:
 + [Алгебра и геометрия](subjects/algem/algem.md)
 + [Алгоритмы и структуры данных](subjects/aisd/aisd.md)
-+ [Аналитическая геометрия](subjects/angem/angem.md)
++ [Аналитическая геометрия](subjects/angem/angem.md) ✨новый предмет✨
 + [Архитектура ЭВМ](subjects/archevm/archevm.md)
 + [Введение в прикладную информатику](subjects/pi/pi.md)
 + [Введение в программирование](subjects/vvp/vvp.md)
 + [Веб-технологии](subjects/web/web.md)
 + [Деловое общение и культура речи/Русский язык](subjects/russian/russian.md)
 + [Дискретная математика](subjects/dm/dm.md)
-+ [Дифференциальные уравнения](subjects/diffur/diffur.md) ✨новый предмет✨
++ [Дифференциальные уравнения](subjects/diffur/diffur.md) 
 + [История России](subjects/hist/hist.md)
 + [Культурология](archive/subjects/cult/cult.md)
 + [Линейная Алгебра](subjects/lin-alg/lin-alg.md)
 + [Математический анализ](subjects/mathan/mathan.md)
-+ [Основы математической логики](subjects/mathlogic/mathlogic.md)
++ [Основы математической логики](subjects/mathlogic/mathlogic.md) ✨новый предмет✨
 + [Основы российской государственности](subjects/org/org.md)
 + [Система подготовки электронных документов](subjects/sped/sped.md)
 + [Теоретические основы информатики](subjects/toinf/toinf.md)
-+ [Теория вероятностей и математическая статистика](subjects/terver/terver.md) ✨новый предмет✨
-+ [Теория функций комплексного переменного](subjects/tfkp/tfkp.md) ✨новый предмет✨
++ [Теория вероятностей и математическая статистика](subjects/terver/terver.md)
++ [Теория функций комплексного переменного](subjects/tfkp/tfkp.md)
 + [Экономика и финансовая грамотность](subjects/economy/economy.md)
 + [Язык Си](subjects/clang/clang.md)
 
