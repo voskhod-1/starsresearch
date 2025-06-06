@@ -11,6 +11,3 @@
   + [Аттестация №1](angem-att-1-fact.md)
   + [Аттестация №2](angem-att-2-fact.md)
   + [Аттестация №3](angem-att-3-fact.md)
-
-### Зачет
-+ [Вопросы к зачету](angem-zachet-questions.md)
