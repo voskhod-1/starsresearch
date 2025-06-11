@@ -7,7 +7,7 @@
  graph TD;
     Elements -->Empty;
     Elements -->Containers;
-    Containers ->|contains| TextOnly;
+    Containers -->|contains| TextOnly;
     Containers -->|contains| ChildElementsOnly;
     Containers -->|contains| MixedContent;
 ```
