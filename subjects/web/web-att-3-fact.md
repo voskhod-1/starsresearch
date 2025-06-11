@@ -5,9 +5,9 @@
 
 ```mermaid
  graph TD;
-    Elements -->|contains| Empty;
-    Elements -->|contains| Containers;
-    Containers -->|contains| TextOnly;
+    Elements -->Empty;
+    Elements -->Containers;
+    Containers ->|contains| TextOnly;
     Containers -->|contains| ChildElementsOnly;
     Containers -->|contains| MixedContent;
 ```
