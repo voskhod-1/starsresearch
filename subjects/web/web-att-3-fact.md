@@ -2,8 +2,9 @@
 ***
 ![image](https://github.com/user-attachments/assets/fd9f6706-c478-4b41-9d38-c278b3a290ad)
 ***
+
 ```mermaid
- graph TD;
+graph TD;
     Элементы-->Пустые;
     Элементы-->Контейнеры;
     Контейнеры-->Данные;
