@@ -35,7 +35,7 @@
 + Стукалова
   + [Аттестация №1](stukalova/dm-pr-att-1-fact.md)
   + [Аттестация №2](stukalova/dm-pr-att-2-fact.md)
-  + [Аттестация №3](stukalova/dm-pr-att-3-fact.md)
+  + [Аттестация №3](stukalova/dm-pr-att-3-fact.md) ✨новое✨
 + ИБ
   + Аттестация №1
     + Материалы отсутствуют 
