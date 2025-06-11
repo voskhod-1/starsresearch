@@ -4,12 +4,12 @@
 ***
 
 ```mermaid
-graph TD;
-    Элементы-->Пустые;
-    Элементы-->Контейнеры;
-    Контейнеры-->Данные;
-    Контейнеры-->Дочерние элементы;
-    Контейнеры-->Данные+Дочерние элементы;
+ graph TD;
+    Elements -->|contains| Empty;
+    Elements -->|contains| Containers;
+    Containers -->|contains| TextOnly;
+    Containers -->|contains| ChildElementsOnly;
+    Containers -->|contains| MixedContent;
 ```
 
 #### Сформулируйте определение веб-портала
