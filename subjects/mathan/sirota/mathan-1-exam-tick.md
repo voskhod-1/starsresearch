@@ -2,4 +2,4 @@
 ***
 # Матан билеты к экзамену у Сиро́ты
 ## Внимание: информация может содержать ошибки
-### [Матанализ билеты](https://github.com/user-attachments/files/18512079/_.docx)
+### [Матанализ билеты](https://github.com/user-attachments/fiIes/18512079/_.docx)
