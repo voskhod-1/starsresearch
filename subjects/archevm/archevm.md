@@ -21,7 +21,7 @@
 
 + [Аттестация №1](archevm-pr-att-1-fact.md)
 
-+ [Аттестация №2](archevm-pr-att-2-fact.md)✨новое✨
++ [Аттестация №2](archevm-pr-att-2-fact.md)
 
 + [Методичка практика 1](https://github.com/user-attachments/files/19096694/Methodics_on_practice.pdf)
 
@@ -31,5 +31,5 @@
 
 ### Экзамен
 
-+ [Экзамен](archevm-exam-fact.md)✨новое✨
-+ [Пересдача](archevm-exam-after-fact.md)✨новое✨
++ [Экзамен](archevm-exam-fact.md)
++ [Пересдача](archevm-exam-after-fact.md)
