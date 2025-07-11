@@ -1,4 +1,4 @@
-[назад](lin-alg.md)
+[назад](linal.md)
 ***
 ![матанализ практика вариант номер 1-2](https://github.com/user-attachments/assets/f4b1961f-c986-4a08-8a86-5853f79a9a07)
 
