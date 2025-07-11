@@ -27,7 +27,7 @@
 + [Культурология](archive/subjects/cult/cult.md)
 + [Линейная Алгебра](subjects/lin-alg/lin-alg.md)
 + [Математический анализ](subjects/mathan/mathan.md)
-+ [Основы математической логики](subjects/mathlogic/mathlogic.md) ✨новый предмет✨
++ [Основы математической логики](subjects/mathlog/mathlog.md) ✨новый предмет✨
 + [Основы российской государственности](subjects/org/org.md)
 + [Система подготовки электронных документов](subjects/sped/sped.md)
 + [Теоретические основы информатики](subjects/toinf/toinf.md)
