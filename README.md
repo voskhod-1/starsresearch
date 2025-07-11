@@ -25,7 +25,7 @@
 + [Дифференциальные уравнения](subjects/diffur/diffur.md) 
 + [История России](subjects/hist/hist.md)
 + [Культурология](archive/subjects/cult/cult.md)
-+ [Линейная Алгебра](subjects/lin-alg/lin-alg.md)
++ [Линейная Алгебра](subjects/linal/linal.md)
 + [Математический анализ](subjects/mathan/mathan.md)
 + [Основы математической логики](subjects/mathlog/mathlog.md) ✨новый предмет✨
 + [Основы российской государственности](subjects/org/org.md)
