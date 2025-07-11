@@ -48,7 +48,7 @@
 
 [Minecraft](smth/Minecraft.md)✨новое✨
 
-[Виды стипендий](smth/stipendia.md)
+[График и виды стипендий](smth/stipendia.md)
 ## Для участников сообщества:
 
 [Правила единого форматирования](smth/formattingRules.md)
