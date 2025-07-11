@@ -3,7 +3,8 @@
 # Аналитическая геометрия
 ## 2 семестр
 ### Лекция
-+ [Вахитова](https://drive.google.com/drive/folders/1JuXVZJV_bgoRYNMWKBhPIh9tFTQrh68D?usp=sharing)
++ Вахитова
+  + [Лекции](https://drive.google.com/drive/folders/1JuXVZJV_bgoRYNMWKBhPIh9tFTQrh68D?usp=sharing)
 
 ### Практика
 + Вахитова
