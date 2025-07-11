@@ -15,7 +15,7 @@
 ## Предметы:
 + [Алгебра и геометрия](subjects/algem/algem.md)
 + [Алгоритмы и структуры данных](subjects/aisd/aisd.md)
-+ [Аналитическая геометрия](subjects/angem/angem.md) ✨новый предмет✨
++ [Аналитическая геометрия](subjects/angem/angem.md) 
 + [Архитектура ЭВМ](subjects/archevm/archevm.md)
 + [Введение в прикладную информатику](subjects/pi/pi.md)
 + [Введение в программирование](subjects/vvp/vvp.md)
@@ -27,7 +27,7 @@
 + [Культурология](archive/subjects/cult/cult.md)
 + [Линейная Алгебра](subjects/linal/linal.md)
 + [Математический анализ](subjects/mathan/mathan.md)
-+ [Основы математической логики](subjects/mathlog/mathlog.md) ✨новый предмет✨
++ [Основы математической логики](subjects/mathlog/mathlog.md) 
 + [Основы российской государственности](subjects/org/org.md)
 + [Система подготовки электронных документов](subjects/sped/sped.md)
 + [Теоретические основы информатики](subjects/toinf/toinf.md)
