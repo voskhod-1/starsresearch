@@ -31,11 +31,11 @@
 + Попов
   + [Аттестация №1](popov/dm-2-pr-att-1-fact.md)
   + [Аттестация №2](popov/dm-2-pr-att-2-fact.md) 
-  + [Аттестация №3](popov/dm-2-pr-att-3-fact.md) ✨новое✨
+  + [Аттестация №3](popov/dm-2-pr-att-3-fact.md) 
 + Стукалова
   + [Аттестация №1](stukalova/dm-pr-att-1-fact.md)
   + [Аттестация №2](stukalova/dm-pr-att-2-fact.md)
-  + [Аттестация №3](stukalova/dm-pr-att-3-fact.md) ✨новое✨
+  + [Аттестация №3](stukalova/dm-pr-att-3-fact.md) 
 + ИБ
   + Аттестация №1
     + Материалы отсутствуют 
