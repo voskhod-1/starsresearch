@@ -1,0 +1,10 @@
+[назад](linal.md)
+***
+![1 фото](https://github.com/user-attachments/assets/ad187d6f-6e07-4ba6-8f86-b0c0008fbd9b)
+![2 фото](https://github.com/user-attachments/assets/42f5a4f1-8a14-4849-ac79-2c76fbf52942)
+![3 фото](https://github.com/user-attachments/assets/a88f988f-c856-4b4e-a8f1-1e6f45b207af)
+![4 фото](https://github.com/user-attachments/assets/3d1f2dbe-7a83-436c-9660-54daf985f118)
+![5 фото](https://github.com/user-attachments/assets/5bd20f9d-cbc5-45f7-b7ac-1a69f623afe1)
+![6 фото](https://github.com/user-attachments/assets/5f11e871-d536-4ba2-8015-b94e804db138)
+![7 фото](https://github.com/user-attachments/assets/1154620d-a719-403a-80a9-f89e867e0a3a)
+![8 фото](https://github.com/user-attachments/assets/a5f79789-60f9-4e02-a70b-b6c1f60e4b45)
