@@ -1,6 +1,9 @@
 [Назад](../../README.md)
 ***
 # Математический анализ
+
+![1000005027](https://github.com/user-attachments/assets/875d5d08-b2bd-4d93-bf86-5cf8783e7b2f)
+
 ## 1 семестр
 ### Лекция
 #### Сиро́та
@@ -64,3 +67,4 @@
 #### Сиро́та
 + [Билеты](sirota/mathan-exam-tick.md) ✨новое✨
 + [Практика](sirota/mathan-2-exam-pr.md) ✨новое✨
+
