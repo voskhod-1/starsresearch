@@ -33,6 +33,7 @@
 + [Теоретические основы информатики](subjects/toinf/toinf.md)
 + [Теория вероятностей и математическая статистика](subjects/terver/terver.md)
 + [Теория функций комплексного переменного](subjects/tfkp/tfkp.md)
++ [Управление данными](subjects/ud/ud.md)
 + [Экономика и финансовая грамотность](subjects/economy/economy.md)
 + [Язык Си](subjects/clang/clang.md)
 
