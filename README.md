@@ -1,4 +1,4 @@
-<img width="320" alt="avatar-round" src="https://github.com/user-attachments/assets/74497635-fdda-4170-a999-49bcda8935be" />
+![фон](https://github.com/user-attachments/assets/baa38912-f628-4a1d-aa11-22023fc21521)
 
 # Проект "Звездочет" 
 #### Работает даже на парковке
