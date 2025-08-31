@@ -15,3 +15,19 @@
 ![вариант 7](https://github.com/user-attachments/assets/5879dcf7-8ebc-4f9f-a64f-45ac36d5f3bc)
 
 ![вариант 8](https://github.com/user-attachments/assets/950e0ad3-408c-4cc0-9f00-49ecea4ac756)
+
+![вариант 9](https://github.com/user-attachments/assets/34b5365c-6578-4057-a46b-53866b596371)
+
+![вариант 10](https://github.com/user-attachments/assets/67cba119-bacf-429f-bbc0-9b3054c04106)
+
+![вариант 11](https://github.com/user-attachments/assets/3f9ede68-7ca7-43bf-9437-b5a8b94f4c67)
+
+![вариант 12](https://github.com/user-attachments/assets/53997321-967b-4b07-a32f-8c277e2b1e80)
+
+![вариант 13](https://github.com/user-attachments/assets/8bbe2996-29ef-42d0-a5dc-1770d75b202e)
+
+![вариант 14](https://github.com/user-attachments/assets/f069c965-3eee-4efe-ac3e-646aec467085)
+
+![вариант 15](https://github.com/user-attachments/assets/d8f247b8-dc61-4a4d-bacc-5db1b0b03cf1)
+
+![вариант 16](https://github.com/user-attachments/assets/73661600-df41-41a4-94a7-cba985ce873f)
