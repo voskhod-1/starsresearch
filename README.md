@@ -37,11 +37,11 @@
 + [Язык Си](subjects/clang/clang.md)
 
 ## Полезности
-+ [База знаний](faq/faq.md)
++ [База знаний](faq/faq.md)✨новое✨
 + [Интересные расширения👀](smth/resources.md#Прикладной-софт)
 + [Boosty](https://boosty.to/starsresearch)
 + [Полезные ресурсы](smth/resources.md)
-+ [Minecraft](smth/Minecraft.md)✨новое✨
++ [Minecraft](smth/Minecraft.md)
 + [График и виды стипендий](smth/stipendia.md)
 ***
 ## Шаблоны
