@@ -1,4 +1,4 @@
-[Назад](diffur.md)
+[Назад](../diffur.md)
 ***
 ![вариант 1](https://github.com/user-attachments/assets/ab8d249f-221f-492c-8ba4-2d0d3c2440bb)
 
