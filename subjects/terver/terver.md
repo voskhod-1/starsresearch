@@ -6,6 +6,6 @@
 
 ## Практика
 + Некипелов
-  + [Аттестация №1](terver-nekipelov-pr-att-1-fact.md)
-  + [Аттестация №2](terver-nekipelov-pr-att-2-fact.md)
-  + [Аттестация №3](terver-nekipelov-pr-att-3-fact.md)
+  + [Аттестация №1](nekipelov/terver-pr-att-1-fact.md)
+  + [Аттестация №2](nekipelov/terver-pr-att-2-fact.md)
+  + [Аттестация №3](nekipelov/terver-pr-att-3-fact.md)
