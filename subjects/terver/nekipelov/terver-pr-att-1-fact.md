@@ -1,4 +1,4 @@
-[Назад](terver/terver.md)
+[Назад](../terver.md)
 ***
 ![вариант 3](https://github.com/user-attachments/assets/1825d9b1-31f8-4e67-a532-28506eb7cf0b)
 
