@@ -107,4 +107,6 @@
 
 <details>
   <summary>Как перевестись на бюджет?</summary>
+
+  >[ТЫК](https://www.cs.vsu.ru/perevod-vosstanovlenie-otchislenie/)
 </details>
