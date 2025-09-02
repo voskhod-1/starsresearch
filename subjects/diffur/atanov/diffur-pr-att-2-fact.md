@@ -1,4 +1,4 @@
-[Назад](diffur.md)
+[Назад](../diffur.md)
 ***
 ## Контрольная работа №3
 ![вариант 1](https://github.com/user-attachments/assets/dfacbdfb-5eb0-4a6c-9774-af16d33ee62e)
