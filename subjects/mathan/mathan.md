@@ -51,7 +51,7 @@
 + Некрасова
   + [Аттестация №1](nekrasova/mathan-2-isit-pr-att-1-fact.md)
   + [Аттестация №2](nekrasova/mathan-2-isit-pr-att-2-fact.md)
-  + [Аттестация №3](nekrasova/mathan-2-isit-pr-att-3-fact.md) ✨новое✨
+  + [Аттестация №3](nekrasova/mathan-2-isit-pr-att-3-fact.md)
   + [Учебник](https://github.com/user-attachments/files/18893956/default.pdf)
 #### ПрИнж
 + Пашкевич
@@ -65,8 +65,9 @@
   + [Аттестация №3](tolkachev/mathan-2-pr-att-3-fact.md)
 ### Экзамен
 #### Сиро́та
-+ [Билеты](sirota/mathan-exam-tick.md) ✨новое✨
-+ [Практика](sirota/mathan-2-exam-pr.md) ✨новое✨
-+ [Пересдачи](sirota/mathan-2-exam-fact.md)
++ [Билеты](sirota/mathan-exam-tick.md)
++ [Практика](sirota/mathan-2-exam-pr.md)
++ [Пересдачи](sirota/mathan-2-exam-fact.md) ✨новое✨
+
 
 
