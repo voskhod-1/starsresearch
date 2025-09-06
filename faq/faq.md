@@ -145,3 +145,9 @@ P.S. У зама те же обязанности, но только у стар
 
   >[ТЫК](https://www.cs.vsu.ru/perevod-vosstanovlenie-otchislenie/)
 </details>
+
+<details>
+  <summary>Сколько стоит физкультура?</summary>
+
+  >![](https://github.com/user-attachments/assets/10896b30-2269-4242-bb97-49ee68575c66)
+</details>
