@@ -6,9 +6,13 @@
 
 + [Методички из "космонавтов"](https://drive.google.com/drive/folders/1U4WVkXh-JffJi9KkCasMFLKMocuq4OXt?usp=sharing)
 
-## Нейросети
+## Антиплагиат
 
-+ [Сайт для проверки на GPT](https://zerogpt.com)
++ [Максимально приближенный к вузовскому](https://antiplagiat.ru/)
+
++ [Проверка на GPT](https://zerogpt.com)
+
+## Нейросети
 
 + [Самый лучший сайт с множеством нейросетей для всего](https://lmarena.ai/)
 
