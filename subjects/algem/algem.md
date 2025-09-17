@@ -21,6 +21,7 @@
 ### Экзамен
 + Чуракова
   + [Фактические варианты](churakova/algem-exam-fact.md)
+  + [Пересдачи](churakova/algem-exam-peresdacha.md)
 
 ### Полезные материалы
 + [Формулы](algem-formulae.md)
