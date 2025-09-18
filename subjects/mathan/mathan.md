@@ -6,9 +6,9 @@
 
 ## 1 семестр
 ### Лекция
-#### Сиро́та
-+ [Аттестация №1](sirota/mathan-1-th-att-1-fact.md)
-+ [Аттестация №2](sirota/mathan-1-th-att-2-fact.md)
++ Сиро́та
+  + [Аттестация №1](sirota/mathan-1-th-att-1-fact.md)
+  + [Аттестация №2](sirota/mathan-1-th-att-2-fact.md)
 + [Учебник Демидовича](https://github.com/user-attachments/files/22404647/Demidovich.pdf)
 ### Практика
 #### ИСиТ
@@ -69,6 +69,7 @@
 + [Билеты](sirota/mathan-exam-tick.md)
 + [Практика](sirota/mathan-2-exam-pr.md)
 + [Пересдачи](sirota/mathan-2-exam-fact.md) ✨новое✨
+
 
 
 
