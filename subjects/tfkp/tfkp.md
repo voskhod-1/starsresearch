@@ -5,7 +5,9 @@
 ### Практика
 + Попов
   + [Аттестация №1](tfkp-att-1.md)
-+ [Учебник Лунгу](https://github.com/user-attachments/files/22120441/1.pdf)
++ [Учебник Лунгу 1 курс](https://github.com/user-attachments/files/22120441/1.pdf)
++ [Учебник Лунгу 2 курс](https://github.com/user-attachments/files/22410101/2.pdf)
+
 
 ### Экзамен
 + Материалы отсутствуют
