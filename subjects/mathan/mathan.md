@@ -9,6 +9,7 @@
 #### Сиро́та
 + [Аттестация №1](sirota/mathan-1-th-att-1-fact.md)
 + [Аттестация №2](sirota/mathan-1-th-att-2-fact.md)
++ [Учебник Демидовича](https://github.com/user-attachments/files/22404647/Demidovich.pdf)
 ### Практика
 #### ИСиТ
 + Чуракова
@@ -31,7 +32,6 @@
   + [Аттестация №2](paszkiewicz/mathan-1-pr-att-2-fact.md)
   + [Аттестация №3](paszkiewicz/mathan-1-pr-att-3-fact.md)
 + [Учебник Кудрявцева](https://github.com/user-attachments/files/22404627/_._._._._._241204_232122.pdf)
-
 ### Экзамен
 #### Сиро́та
 + [Воспоминания потерпевших](sirota/mathan-1-exam-memories.md)
@@ -69,6 +69,7 @@
 + [Билеты](sirota/mathan-exam-tick.md)
 + [Практика](sirota/mathan-2-exam-pr.md)
 + [Пересдачи](sirota/mathan-2-exam-fact.md) ✨новое✨
+
 
 
 
