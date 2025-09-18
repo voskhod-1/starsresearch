@@ -30,6 +30,7 @@
   + [Аттестация №1](paszkiewicz/mathan-1-pr-att-1-fact.md)
   + [Аттестация №2](paszkiewicz/mathan-1-pr-att-2-fact.md)
   + [Аттестация №3](paszkiewicz/mathan-1-pr-att-3-fact.md)
++ [Учебник Кудрявцева](https://github.com/user-attachments/files/22404627/_._._._._._241204_232122.pdf)
 
 ### Экзамен
 #### Сиро́та
@@ -68,6 +69,7 @@
 + [Билеты](sirota/mathan-exam-tick.md)
 + [Практика](sirota/mathan-2-exam-pr.md)
 + [Пересдачи](sirota/mathan-2-exam-fact.md) ✨новое✨
+
 
 
 
