@@ -23,6 +23,7 @@
 + [Дискретная математика](subjects/dm/dm.md)
 + [Дифференциальные уравнения](subjects/diffur/diffur.md) 
 + [История России](subjects/hist/hist.md)
++ [Компьютерная графика](subjects/cg/cg.md)
 + [Культурология](subjects/cult/cult.md)
 + [Линейная Алгебра](subjects/linal/linal.md)
 + [Математический анализ](subjects/mathan/mathan.md)
