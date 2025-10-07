@@ -1,6 +1,6 @@
 [Назад](tfkp.md)
 ***
-# Варианты 2025
+## Варианты 2025
 ![zd1](https://github.com/user-attachments/assets/7e596b30-ed40-435c-b26c-25ed690480f6)
 
 ![zd2](https://github.com/user-attachments/assets/fd43bdbc-07ca-46d1-af3b-8acb25907695)
@@ -21,7 +21,7 @@
 
 ![zd10](https://github.com/user-attachments/assets/ee5b3b12-c9a6-43b3-8b86-b5d82a6b1879)
 ***
-# Очень старые варианты
+## Очень старые варианты
 ![вариант 3](https://github.com/user-attachments/assets/a23b4c2d-18e7-40db-8635-e15d3afc6600)
 
 ![вариант 4](https://github.com/user-attachments/assets/ba7fae31-9e66-41fc-8552-54b069272d1f)
