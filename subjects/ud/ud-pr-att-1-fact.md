@@ -11,3 +11,11 @@
 ![практика_уд_2_3](https://github.com/user-attachments/assets/01cf5225-c033-4428-a74d-ae663a9fc6e4)
 ![практика_уд_2_4](https://github.com/user-attachments/assets/02a2706d-7278-487e-85a8-37422e020ae9)
 ![практика_уд_2_5](https://github.com/user-attachments/assets/82b12f19-ab51-4a77-82fd-2661611f5b84)
+## 3 вариант
+![практика уд 3_1](https://github.com/user-attachments/assets/f3037e45-7869-4bc1-996f-fdd665df910b)
+![практика уд 3_2](https://github.com/user-attachments/assets/3b9769e6-f705-470e-9947-5498a9ee24c8)
+![практика уд 3_3](https://github.com/user-attachments/assets/1d9ddd66-84a5-4d39-8c7c-5b264424b601)
+![практика уд 3_4](https://github.com/user-attachments/assets/31577656-b4b5-4030-8fae-80012103da4b)
+![практика уд 3_5](https://github.com/user-attachments/assets/476b7261-816b-42c8-b8aa-49b6426a4ffd)
+## 4 вариант?
+Для каждого семестра получить общее количество часов, отводимых в семестр на изучение каждого предмета.
