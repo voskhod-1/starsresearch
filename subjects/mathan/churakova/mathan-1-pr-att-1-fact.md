@@ -1,5 +1,10 @@
 [назад](../mathan.md)
 ***
+## 2025
+![image](https://github.com/user-attachments/assets/47d34cd3-e64f-46a0-9175-3249114abc7c)
+![image](https://github.com/user-attachments/assets/190ddf91-0749-4eeb-aed9-9889f79baeb7)
+![image](https://github.com/user-attachments/assets/dd13b18a-c6ac-4dd5-b5db-0f9de0dfd6fc)
+***
 ### Важное уточнение: в 2024 году Чуракова давала в самостоятельных работах задания, которые уже решали на практике
 ***
 ## 2024
