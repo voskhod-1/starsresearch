@@ -45,5 +45,6 @@
 ### Практика
 + Попов
   + [Аттестация №1](popov/dm-3-pr-att-1-fact.md)
+  + [Аттестация №2](popov/dm-3-pr-att-2-colloquium.md)
 + Стукалова
   + [Аттестация №1](stukalova/dm-3-pr-att-1-fact.md)
