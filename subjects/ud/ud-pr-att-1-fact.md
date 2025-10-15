@@ -17,5 +17,10 @@
 ![практика уд 3_3](https://github.com/user-attachments/assets/1d9ddd66-84a5-4d39-8c7c-5b264424b601)
 ![практика уд 3_4](https://github.com/user-attachments/assets/31577656-b4b5-4030-8fae-80012103da4b)
 ![практика уд 3_5](https://github.com/user-attachments/assets/476b7261-816b-42c8-b8aa-49b6426a4ffd)
-## 4 вариант?
-Для каждого семестра получить общее количество часов, отводимых в семестр на изучение каждого предмета.
+## 4 вариант
+![практика уд 4_1](https://github.com/user-attachments/assets/531753de-1db7-4b2d-ab18-244102927082)
+![практика уд 4_2](https://github.com/user-attachments/assets/49dd961d-c0d2-4b45-bf5f-019d61acd0d1)
+![практика уд 4_3](https://github.com/user-attachments/assets/be6dd431-61ba-46c1-8165-8cbc489f7399)
+![практика уд 4_4](https://github.com/user-attachments/assets/ba1fffa4-bdec-4d24-9999-55395d6e6bca)
+![практика уд 4_5](https://github.com/user-attachments/assets/45755860-d362-4f5b-b775-0dab26337ec4)1
+1. Для каждого семестра получить общее количество часов, отводимых в семестр на изучение каждого предмета.
