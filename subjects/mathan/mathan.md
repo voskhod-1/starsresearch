@@ -73,15 +73,16 @@
 ## 3 cеместр
 ### Практика
 + Попов
-  + [Аттестация №1](popov/mathan-3-att-1-fact.md)
+  + [Аттестация №1](popov/mathan-3-pr-att-1-fact.md)
   + Аттестация №2
-    + [Вопросы к коллоквиуму](popov/mathan-3-att-2-colloquium.md)
+    + [Вопросы к коллоквиуму](popov/mathan-3-pr-att-2-colloquium.md)
 + Толкачев
-  + [Аттестация №1](tolkachev/mathan-3-att-1-fact.md)
+  + [Аттестация №1](tolkachev/mathan-3-pr-att-1-fact.md)
 + [Учебник Лунгу 1 курс](https://github.com/user-attachments/files/22120441/1.pdf)
 + [Учебник Лунгу 2 курс](https://github.com/user-attachments/files/22410101/2.pdf)
 ### Экзамен
 + Материалы отсутствуют
+
 
 
 
