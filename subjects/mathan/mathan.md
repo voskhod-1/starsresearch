@@ -70,6 +70,17 @@
 + [Практика](sirota/mathan-2-exam-pr.md)
 + [Пересдачи](sirota/mathan-2-exam-fact.md) ✨новое✨
 
+## 3 cеместр
+### Практика
++ Попов
+  + [Аттестация №1](popov/mathan-3-att-1-fact.md)
+  + [Аттестация №2](popov/mathan-3-att-2-fact.md)
++ [Учебник Лунгу 1 курс](https://github.com/user-attachments/files/22120441/1.pdf)
++ [Учебник Лунгу 2 курс](https://github.com/user-attachments/files/22410101/2.pdf)
+### Экзамен
++ Материалы отсутствуют
+
+
 
 
 
