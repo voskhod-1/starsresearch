@@ -23,9 +23,9 @@
 
 #### Розенфельд/Козельская
 
-+ [Аттестация №1](russian-att-1-fact.md)
-+ [Аттестация №2](russian-att-2-fact.md)
-+ [Аттестация №3](russian-att-3-fact.md)
++ [Аттестация №1](rozenfeldkozelskaya/russian-att-1-fact.md)
++ [Аттестация №2](rozenfeldkozelskaya/russian-att-2-fact.md)
++ [Аттестация №3](rozenfeldkozelskaya/russian-att-3-fact.md)
 
 #### Зачет
 + [Зачетный тест](russian-final-test.md)
