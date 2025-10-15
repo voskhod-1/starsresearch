@@ -1,6 +1,6 @@
 [Назад](../../README.md)
 ***
-# Математический анализ
+# Математический анализ/Теория функций комплексного переменного
 
 ![1000005027](https://github.com/user-attachments/assets/875d5d08-b2bd-4d93-bf86-5cf8783e7b2f)
 
@@ -69,6 +69,7 @@
 + [Билеты](sirota/mathan-exam-tick.md)
 + [Практика](sirota/mathan-2-exam-pr.md)
 + [Пересдачи](sirota/mathan-2-exam-fact.md) ✨новое✨
+
 
 
 
