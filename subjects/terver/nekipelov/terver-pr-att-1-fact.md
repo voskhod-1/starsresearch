@@ -5,3 +5,5 @@
 ![вариант 2](https://github.com/user-attachments/assets/783724dc-29fa-4c8f-92e4-ac68e8eacf78)
 
 ![вариант 3](https://github.com/user-attachments/assets/13c36a0c-4f0e-4813-bcd6-02ba50e0f39f)
+
+![вариант 4](https://github.com/user-attachments/assets/d9ba7a05-d832-40d6-80c0-49b5edd30902)
