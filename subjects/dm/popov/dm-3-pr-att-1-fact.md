@@ -14,6 +14,8 @@
 
 ![вариант 22](https://github.com/user-attachments/assets/83708b60-3283-4a57-ad59-477f0f25818e)
 
+![вариант 24](https://github.com/user-attachments/assets/c416fa77-1774-4569-8a21-15908d5d3760)
+
 ![вариант 26](https://github.com/user-attachments/assets/03f191a4-f273-4964-855a-67d4378304a6)
 
 ![вариант 27](https://github.com/user-attachments/assets/dc0768fe-b1c9-4d95-bd66-b212c7ca884b)
