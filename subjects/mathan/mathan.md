@@ -35,7 +35,7 @@
 ### Экзамен
 #### Сиро́та
 + [Воспоминания потерпевших](sirota/mathan-1-exam-memories.md)
-+ [Билеты](sirota/mathan-exam-tick.md)
++ [Билеты](sirota/mathan-1-exam-tick.md)
 + [Пересдачи](sirota/mathan-1-exam-fact.md)
 #### ПрИнж
 + [Лекция](paszkiewicz/mathan-1-th-exam.md)
@@ -66,7 +66,7 @@
   + [Аттестация №3](tolkachev/mathan-2-pr-att-3-fact.md)
 ### Экзамен
 #### Сиро́та
-+ [Билеты](sirota/mathan-exam-tick.md)
++ [Билеты](sirota/mathan-2-exam-tick.md)
 + [Практика](sirota/mathan-2-exam-pr.md)
 + [Пересдачи](sirota/mathan-2-exam-fact.md) ✨новое✨
 
@@ -84,6 +84,7 @@
 + [Учебник Лунгу 2 курс](https://github.com/user-attachments/files/22410101/2.pdf)
 ### Экзамен
 + Материалы отсутствуют
+
 
 
 
