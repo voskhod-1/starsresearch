@@ -7,8 +7,8 @@
   + Материалы отсутствуют
 ### Практика
 + Каверина
-  + [Аттестация №1](kaverina/dm-pr-att-1-fact.md)
-  + [Аттестация №2](kaverina/dm-pr-att-2-fact.md)
+  + [Аттестация №1](kaverina/dm-2-pr-att-1-fact.md)
+  + [Аттестация №2](kaverina/dm-2-pr-att-2-fact.md)
 + Лобода
   + Аттестация №1
     + Материалы отсутствуют 
@@ -48,3 +48,5 @@
   + [Аттестация №2](popov/dm-3-pr-att-2-colloquium.md)
 + Стукалова
   + [Аттестация №1](stukalova/dm-3-pr-att-1-fact.md)
++ Каверина
+  + [Аттестация №1](kaverina/dm-3-pr-att-1-fact.md)
