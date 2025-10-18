@@ -1,4 +1,4 @@
-[Task_07.pdf](https://github.com/user-attachments/files/22985795/Task_07.pdf)[назад](aisd.md)
+[назад](aisd.md)
 ***
 # Таски для практики АиСД
 
