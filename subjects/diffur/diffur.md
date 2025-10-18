@@ -12,4 +12,5 @@
   + [Аттестация №1](nekrasova/diffur-pr-att-1-fact.md)
 ### Зачёт
 + Каверина
-  + [Вопросы](diffur-zachet-fact.md)
+  + [Список вопросов](diffur-zachet-fact.md)
+  + [Практика](diffur-zachet-pr.md)
