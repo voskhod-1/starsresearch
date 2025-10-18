@@ -27,6 +27,7 @@
 + [Культурология](subjects/cult/cult.md)
 + [Линейная Алгебра](subjects/linal/linal.md)
 + [Математический анализ/ТФКП](subjects/mathan/mathan.md)
++ [Объектно-ориентированное программирование](subjects/oop.md)
 + [Основы математической логики](subjects/mathlog/mathlog.md) 
 + [Основы российской государственности](subjects/org/org.md)
 + [Система подготовки электронных документов](subjects/sped/sped.md)
