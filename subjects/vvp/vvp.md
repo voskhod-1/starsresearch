@@ -10,6 +10,6 @@
  + [Таски](vvp-tasks.md)
 
 ### Экзамен
-+ [Гайд на экзамен](vvp-exam-guide.md)
++ [Гайд на экзамен](vvp-exam-guide.md) ✨новое✨
 + [Записи лекций](vvp-lect.md)
 + [Фактические варианты](vvp-exam-fact.md)
