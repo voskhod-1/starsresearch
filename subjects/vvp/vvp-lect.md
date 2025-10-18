@@ -1,1 +1,17 @@
-
+[назад](vvp.md)
+***
+Несмотря на то, что лекции за 2024 год, они до сих пор актуальные
++ [Лекция 1 (06.09.24)](https://bbb.edu.vsu.ru/playback/presentation/2.3/9f89d2d0bc494ed760b7aed83faddd22ef92b941-1725598568558)
++ [Лекция 2 (13.09.24)](https://bbb.edu.vsu.ru/playback/presentation/2.3/3e530297a7014a3f7b3c01b65b452a9a6a983dae-1726203663441)
++ [Лекция 3 (20.09.24)](https://bbb.edu.vsu.ru/playback/presentation/2.3/eb25d970dcf2d05e1d80e480a105625f45bb5457-1726808578064)
++ [Лекция 4 (27.09.24)](https://bbb.edu.vsu.ru/playback/presentation/2.3/29b49a0e06c48dcc5409f30daba1a070441fecfe-1727413450269)
++ [Лекция 5 (04.10.24)](https://bbb.edu.vsu.ru/playback/presentation/2.3/04f9eab3548594900706a6d504cdfc0e28134d03-1728018032644)
++ [Лекция 6 (11.10.24)](https://bbb.edu.vsu.ru/playback/presentation/2.3/7ad42df849dc2a7ca5e074ede29e331a7fd662d5-1728622946378)
++ [Лекция 7 (18.10.24)](https://bbb.edu.vsu.ru/playback/presentation/2.3/77c944334f7a4e3be958033c73274e87fe2c776a-1729227759974)
++ [Лекция 8 (25.10.24)](https://bbb.edu.vsu.ru/playback/presentation/2.3/62465e1d2647cb12432b027aadf963c728aba2b8-1729832758351)
++ [Лекция 9 (08.11.24)](https://bbb.edu.vsu.ru/playback/presentation/2.3/4485d844be79bb812549a6f21ed0711586835a19-1731042658380)
++ [Лекция 10 (15.11.24)](https://bbb.edu.vsu.ru/playback/presentation/2.3/76caeb3a4071f8ac832f98f74b387e438b583cea-1731647051762)
++ [Лекция 11 (22.11.24)](https://bbb.edu.vsu.ru/playback/presentation/2.3/e8556f15f0f69df1255059c19f1efb4d84e18cb1-1732251733075)
++ [Лекция 12 (29.11.24)](https://bbb.edu.vsu.ru/playback/presentation/2.3/ae40bb622f5d47844380d2eb41fb9b6fb75dd283-1732856855640)
++ [Лекция 13 (13.12.24)](https://bbb.edu.vsu.ru/playback/presentation/2.3/f68fe467ef9e387eabae9f573adc9853433d225d-1734065879750)
++ [Лекция 14 (20.12.24)](https://bbb.edu.vsu.ru/playback/presentation/2.3/abe6949c6282e21c7b6f9d2f51b4406689bbb08b-1734670817706 )
