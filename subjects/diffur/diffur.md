@@ -8,8 +8,9 @@
   + [Аттестация №2](atanov/diffur-pr-att-2-fact.md)
   + [Аттестация №3](atanov/diffur-pr-att-3-fact.md)
 + Некрасова
-  + [Аттестация №?](nekrasova/diffur-pr-att-idk-fact.md)
   + [Аттестация №1](nekrasova/diffur-pr-att-1-fact.md)
+  + [Аттестация №2](nekrasova/diffur-pr-att-2-fact.md)
+  + [Аттестация №3](nekrasova/diffur-pr-att-3-fact.md)
 ### Зачёт
 + Каверина
   + [Список вопросов](diffur-zachet-fact.md)
