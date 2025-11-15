@@ -85,6 +85,7 @@
 + Михин
   + [Летучка №1](mihin/mathan-3-pr-let-1-fact.md)
   + [Летучка №2](mihin/mathan-3-pr-let-2-fact.md)
+  + [Летучка №3](mihin/mathan-3-pr-let-3-fact.md)
 + Попов
   + [Аттестация №1](popov/mathan-3-pr-att-1-fact.md)
 + Толкачев
@@ -93,6 +94,7 @@
 + [Учебник Лунгу 2 курс](https://github.com/user-attachments/files/22410101/2.pdf)
 ### Экзамен
 + Материалы отсутствуют
+
 
 
 
