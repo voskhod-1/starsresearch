@@ -14,6 +14,6 @@
       + [Контрольная №1](nekipelov/terver-pr-kontr-1-fact.md)
       + [Контрольная №2](nekipelov/terver-pr-kontr-2-fact.md)
     + [Аттестация №3](nekipelov/terver-pr-att-3-fact.md)
-      + [Контрольная №2](nekipelov/terver-pr-kontr-5-fact.md) ✨новое✨
+      + [Контрольная №2](nekipelov/terver-pr-kontr-5-fact.md) 
 
 + [Учебник Гмурмана](https://github.com/user-attachments/files/22322085/default.pdf)
