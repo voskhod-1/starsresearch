@@ -42,11 +42,14 @@
   + [Аттестация №2](ib/dm-pr-att-2-fact.md)
   + [Аттестация №3](ib/dm-pr-att-3-fact.md)
 ## 3 семестр
+### Лекция
++ Борзунов
+  + [Аттестация №2](borzunov/dm-3-th-att-2-fact.md)
 ### Практика
++ Каверина
+  + [Аттестация №1](kaverina/dm-3-pr-att-1-fact.md)
 + Попов
   + [Аттестация №1](popov/dm-3-pr-att-1-fact.md)
   + [Аттестация №2](popov/dm-3-pr-att-2-colloquium.md)
 + Стукалова
   + [Аттестация №1](stukalova/dm-3-pr-att-1-fact.md)
-+ Каверина
-  + [Аттестация №1](kaverina/dm-3-pr-att-1-fact.md)
