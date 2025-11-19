@@ -1,5 +1,12 @@
 [назад](vvp.md)
 ***
+## 2025
+![vvp1](https://github.com/user-attachments/assets/87a97fa5-d2b1-4191-ada6-370e49887d7b)
+
+![vvp2](https://github.com/user-attachments/assets/2c58fcea-faf3-4b2d-bcc7-3cb2a0ae9f4c)
+
+![vvp3](https://github.com/user-attachments/assets/45da3dc6-b37b-4936-8a8d-0c55a15c99f3)
+
 ## 2024
 ![ВВП1](https://github.com/user-attachments/assets/d43b5967-2a94-4a44-bb20-1d8899c35316)
 
