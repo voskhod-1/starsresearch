@@ -1,4 +1,16 @@
 [назад](../dm.md)
+## 2025
+![var 3](https://github.com/user-attachments/assets/ab6e506f-02c8-4904-b395-116b95f4ca8d)
+
+![var 4](https://github.com/user-attachments/assets/3d8e5070-8709-4ace-941a-8c0885beb1c0)
+
+![var 5](https://github.com/user-attachments/assets/7991ed16-b6bd-4e9b-93d2-c3f7a2ce9e91)
+
+![var 6](https://github.com/user-attachments/assets/cac906f4-4bab-46fb-880d-840e36e851f5)
+
+![var 7](https://github.com/user-attachments/assets/d487f41f-5db2-43dc-a26d-c0314b5fe0a5)
+
+![var 16](https://github.com/user-attachments/assets/2337a57a-ed69-45ea-b010-7851b78ec940)
 ***
 ## Список вопросов 
 1. Определение и основные свойства деревьев.
