@@ -11,6 +11,8 @@
 
 ![var 7](https://github.com/user-attachments/assets/d487f41f-5db2-43dc-a26d-c0314b5fe0a5)
 
+![var 9](https://github.com/user-attachments/assets/86bfc96a-5dcb-44b5-b46a-be8334965442)
+
 ![var 16](https://github.com/user-attachments/assets/2337a57a-ed69-45ea-b010-7851b78ec940)
 ***
 ## Список вопросов 
