@@ -1,4 +1,5 @@
 [назад](../dm.md)
+***
 ## 2025
 ![var 3](https://github.com/user-attachments/assets/ab6e506f-02c8-4904-b395-116b95f4ca8d)
 
@@ -6,7 +7,7 @@
 
 ![var 5](https://github.com/user-attachments/assets/7991ed16-b6bd-4e9b-93d2-c3f7a2ce9e91)
 
-![var 6](https://github.com/user-attachments/assets/cac906f4-4bab-46fb-880d-840e36e851f5)
+![var 6](https://github.com/user-attachments/assets/e851b7ed-7911-49cd-88ad-30474942d827)
 
 ![var 7](https://github.com/user-attachments/assets/d487f41f-5db2-43dc-a26d-c0314b5fe0a5)
 
@@ -31,5 +32,5 @@
 16. Основная теорема о рекуррентных соотношениях.
 17. Оценка количества базовых операций.
 
-## Какая-то практика по теории, возможно не будет, но это не точно :)
+## Практика по теории для примера
 ![img](https://github.com/user-attachments/assets/3655bdc7-f1a2-43cb-8c53-6ddd6c570260)
