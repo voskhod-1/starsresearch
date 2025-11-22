@@ -1,4 +1,4 @@
-[назад](../mathan)
+[назад](../mathan.md)
 ***
 ## Варианты 2025
 ![var1_1](https://github.com/user-attachments/assets/bca39662-f049-4046-a45e-a32c71d703a2)
