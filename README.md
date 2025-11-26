@@ -35,6 +35,7 @@
 + [Теоретические основы информатики](subjects/toinf/toinf.md)
 + [Теория вероятностей и математическая статистика](subjects/terver/terver.md)
 + [Управление данными/Базы данных](subjects/ud/ud.md)
++ [Уравнения математической физики](subjects/urmat/urmat.md)
 + [Экономика и финансовая грамотность](subjects/economy/economy.md)
 + [Электроника](subjects/electro/electro.md)
 + [Язык Си](subjects/clang/clang.md)
