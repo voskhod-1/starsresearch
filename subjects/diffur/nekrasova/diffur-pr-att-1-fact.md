@@ -1,13 +1,14 @@
 [Назад](../diffur.md)
 ***
 ## 2025
-![newvar1](https://github.com/user-attachments/assets/93cecfc5-8f1d-4282-bbd3-b3f1378874e2)
-
+#### Варианты 1, 5, 9, 13 и т.д.
+![newvar1](https://github.com/user-attachments/assets/8c9bea08-cec3-4e3a-ac5b-e261c4d0dbe3)
+#### Варианты 2, 6, 10, 14 и т.д.
 ![newvar2](https://github.com/user-attachments/assets/b8fe1708-056a-4b6f-b2d0-66e4a371afbc)
-
-![newvar3](https://github.com/user-attachments/assets/8c9bea08-cec3-4e3a-ac5b-e261c4d0dbe3)
-
-![newvar4](https://github.com/user-attachments/assets/1d9f4314-0cee-44f7-81a1-05b0d141e630)
+#### Варианты 3, 7, 11, 15 и т.д.
+![newvar3](https://github.com/user-attachments/assets/1d9f4314-0cee-44f7-81a1-05b0d141e630)
+#### Варианты 4, 8, 12, 16 и т.д.
+![newvar4](https://github.com/user-attachments/assets/93cecfc5-8f1d-4282-bbd3-b3f1378874e2)
 ***
 ## 2024
 ![вариант 2](https://github.com/user-attachments/assets/41f41bc0-e4a7-4996-9907-303b2ebb8e17)
