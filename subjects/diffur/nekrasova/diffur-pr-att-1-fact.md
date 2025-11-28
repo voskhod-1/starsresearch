@@ -9,6 +9,7 @@
 
 ![newvar4](https://github.com/user-attachments/assets/1d9f4314-0cee-44f7-81a1-05b0d141e630)
 ***
+## 2024
 ![вариант 2](https://github.com/user-attachments/assets/41f41bc0-e4a7-4996-9907-303b2ebb8e17)
 
 ![вариант 4](https://github.com/user-attachments/assets/9f438d22-e79d-453e-8cb7-5e9665179ea3)
