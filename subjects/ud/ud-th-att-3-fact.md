@@ -285,21 +285,19 @@
 <img width="1117" height="87" alt="Screenshot 2025-11-28 at 23 51 55" src="https://github.com/user-attachments/assets/e2464845-0666-4772-910c-bf3fb72f01c9" />
 
 **`не соответствует`**
-
-
+***
 <img width="1133" height="87" alt="Screenshot 2025-11-28 at 23 52 21" src="https://github.com/user-attachments/assets/2a897ce5-6155-4ca9-8735-746d9138aa57" />
 
 **`соответствует`**
-
-
+***
 <img width="1138" height="106" alt="Screenshot 2025-11-28 at 23 52 32" src="https://github.com/user-attachments/assets/2e3696dd-1559-440f-a012-fc5f209b9872" />
 
 **`не соответствует`**
+***
 <img width="1126" height="94" alt="Screenshot 2025-11-28 at 23 52 46" src="https://github.com/user-attachments/assets/38a9ea8c-1c11-4e46-873b-14b9e840092a" />
 
 **`соответствует`**
-
-
+***
 #### Если блокируется более крупный объект базы данных, то
 
 + [x] накладные расходы на установку блокировок ниже
