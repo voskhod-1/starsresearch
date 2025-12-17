@@ -10,10 +10,11 @@
 + Некипелов
   + Аттестации
     + [Аттестация №1](nekipelov/terver-pr-att-1-fact.md)
+      + Контрольная №1
     + Аттестация №2
-      + [Контрольная №1](nekipelov/terver-pr-kontr-1-fact.md)
       + [Контрольная №2](nekipelov/terver-pr-kontr-2-fact.md)
+      + [Контрольная №3](nekipelov/terver-pr-kontr-3-fact.md)
     + [Аттестация №3](nekipelov/terver-pr-att-3-fact.md)
-      + [Контрольная №2](nekipelov/terver-pr-kontr-5-fact.md) 
+      + [Контрольная №4](nekipelov/terver-pr-kontr-4-fact.md) 
 
 + [Учебник Гмурмана](https://github.com/user-attachments/files/22322085/default.pdf)
