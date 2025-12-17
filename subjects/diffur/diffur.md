@@ -13,5 +13,6 @@
   + [Аттестация №3](nekrasova/diffur-pr-att-3-fact.md)
 ### Зачёт
 + Каверина
-  + [Список вопросов](diffur-zachet-fact.md)
+  + [Фактические варианты](diffur-zachet-fact.md)
+  + [Билеты](diffur-zachet-tick.md)
   + [Практика](diffur-zachet-pr.md)
