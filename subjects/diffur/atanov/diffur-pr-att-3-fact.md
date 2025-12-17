@@ -1,5 +1,14 @@
 [Назад](../diffur.md)
 ***
+Задания 2025г. 
+***
+![telegram-cloud-photo-size-2-5332517694504373807-x](https://github.com/user-attachments/assets/813afa40-a0d3-4e54-8df7-743893b4b2ac)
+
+![telegram-cloud-photo-size-2-5332517694504373806-x](https://github.com/user-attachments/assets/ad44dced-da64-4048-a553-7a37887ba152)
+
+![telegram-cloud-photo-size-2-5332517694504373808-y](https://github.com/user-attachments/assets/1efc5a7b-2613-4fdd-b54b-733fd65e340a)
+
+***
 ![вариант 1](https://github.com/user-attachments/assets/1f64e35a-bb45-4f6e-9793-5eccd5da128f)
 
 ![вариант 2](https://github.com/user-attachments/assets/ef2eeb54-b0b4-438c-af7f-0d45b2e565fe)
