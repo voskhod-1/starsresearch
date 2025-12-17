@@ -9,6 +9,8 @@
 ![telegram-cloud-photo-size-2-5332517694504373808-y](https://github.com/user-attachments/assets/1efc5a7b-2613-4fdd-b54b-733fd65e340a)
 
 ***
+Задания прошлых лет
+***
 ![вариант 1](https://github.com/user-attachments/assets/1f64e35a-bb45-4f6e-9793-5eccd5da128f)
 
 ![вариант 2](https://github.com/user-attachments/assets/ef2eeb54-b0b4-438c-af7f-0d45b2e565fe)
