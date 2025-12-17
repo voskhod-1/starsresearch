@@ -1,5 +1,17 @@
 [Назад](../diffur.md)
 ***
+Задания 2025г.
+***
+![вариант 11](https://github.com/user-attachments/assets/c2d183e0-43d1-4685-be40-7fbe9c689e09)
+
+![вариант 12](https://github.com/user-attachments/assets/98bda9c9-86c2-467f-88df-b2837dd45e17)
+
+![вариант 13](https://github.com/user-attachments/assets/3779f061-8d91-48b7-afd3-6a541ffefb84)
+
+![вариант 26](https://github.com/user-attachments/assets/62d03c15-e95c-488b-beed-7d561ad86cd1)
+***
+Задания прошлых лет
+***
 ![вариант 3](https://github.com/user-attachments/assets/12b6e46a-63c4-438d-aa49-6536713c777d)
 
 ![вариант 6](https://github.com/user-attachments/assets/23dd3eb5-9b54-4994-aa9e-88b6b01dece2)
@@ -8,18 +20,10 @@
 
 ![вариант 10](https://github.com/user-attachments/assets/8b78b350-5990-4237-8c1f-3053fafca76d)
 
-![вариант 11](https://github.com/user-attachments/assets/c2d183e0-43d1-4685-be40-7fbe9c689e09)
-
-![вариант 12](https://github.com/user-attachments/assets/98bda9c9-86c2-467f-88df-b2837dd45e17)
-
-![вариант 13](https://github.com/user-attachments/assets/3779f061-8d91-48b7-afd3-6a541ffefb84)
-
 ![вариант 14](https://github.com/user-attachments/assets/93cb00c5-2234-4e5b-adb6-805a409e9c7c)
 
 ![вариант 18](https://github.com/user-attachments/assets/37948208-0775-4293-bd40-a8ac536227f5)
 
 ![вариант 20](https://github.com/user-attachments/assets/f5799006-7ea9-4603-aacd-7a3c3a490d5a)
-
-![вариант 26](https://github.com/user-attachments/assets/62d03c15-e95c-488b-beed-7d561ad86cd1)
 
 ![вариант](https://github.com/user-attachments/assets/d4ebee24-9dbe-47f4-ad14-46dd01c56fff)
