@@ -1,5 +1,8 @@
 [Назад](../mathan.md)
 ***
+## 2025
+![img](https://github.com/user-attachments/assets/4c603df0-4636-4bc9-bda1-e8a898f06074)
+***
 ## 2024
 ![Screenshot 2025-01-14 at 01 33 21](https://github.com/user-attachments/assets/9f976baa-2c09-4114-8ede-3ab3ae5059ee)
 
