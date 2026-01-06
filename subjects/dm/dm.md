@@ -54,3 +54,6 @@
 + Стукалова
   + [Аттестация №1](stukalova/dm-3-pr-att-1-fact.md)
   + [Аттестация №3](stukalova/dm-3-pr-att-3-fact.md)
+### Экзамен
++ Борзунов
+  + [Билеты](borzunov/dm-3-exam-tick.md)
