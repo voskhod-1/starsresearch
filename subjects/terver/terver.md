@@ -16,6 +16,6 @@
     + [Аттестация №3](nekipelov/terver-pr-att-3-fact.md)
 ### Экзамен
 + Попова
-  + [Билеты](terver-exam-tick.md)
+  + [Билеты](popova/terver-exam-tick.md)
 ### Учебные материалы
 + [Учебник Гмурмана](https://github.com/user-attachments/files/22322085/default.pdf)
