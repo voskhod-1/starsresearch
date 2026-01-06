@@ -2,19 +2,20 @@
 ***
 # Теория вероятностей и математическая статистика
 
-## Лекция
+### Лекция
 + Попова
   + [Аттестация №1](popova/terver-pr-att-1-fact.md)
   + [Аттестация №2](popova/terver-pr-att-2-fact.md)
-## Практика
+### Практика
 + Некипелов
   + Аттестации
     + [Аттестация №1](nekipelov/terver-pr-att-1-fact.md)
-      + Контрольная №1
     + Аттестация №2
+      + [Контрольная №1](nekipelov/terver-pr-kontr-1-fact.md)
       + [Контрольная №2](nekipelov/terver-pr-kontr-2-fact.md)
-      + [Контрольная №3](nekipelov/terver-pr-kontr-3-fact.md)
     + [Аттестация №3](nekipelov/terver-pr-att-3-fact.md)
-      + [Контрольная №4](nekipelov/terver-pr-kontr-4-fact.md) 
-
+### Экзамен
++ Попова
+  + [Билеты](terver-exam-tick.md)
+### Учебные материалы
 + [Учебник Гмурмана](https://github.com/user-attachments/files/22322085/default.pdf)
