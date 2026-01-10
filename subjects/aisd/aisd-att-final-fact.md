@@ -1,6 +1,6 @@
 [назад](aisd.md)
 ***
-Ну а прорешанные варианты уже на [бусти](https://boosty.to/starsresearch)
+Ну а прорешанные варианты уже в [телеге](https://t.me/starsresearchnews)
 ***
 ![аисд атта 1](https://github.com/user-attachments/assets/4935c38d-7287-4bd5-909a-e70dde0a0070)
 
