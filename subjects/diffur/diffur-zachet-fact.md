@@ -1,6 +1,6 @@
 [назад](diffur.md)
 ***
-Ну а решения есть в [телеге](https://t.me/starsresearchnews)
+Ну а решения уже в [телеге](https://t.me/starsresearchnews)
 ***
 ## "1" вариант
 ***
