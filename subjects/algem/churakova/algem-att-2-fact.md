@@ -1,4 +1,4 @@
-[назад](algem.md)
+[назад](../algem.md)
 ***
 ## 2024
 ![Свежая атта](https://github.com/user-attachments/assets/f06f4a0a-1e67-48ae-bd23-4a57c50cbe0d)
