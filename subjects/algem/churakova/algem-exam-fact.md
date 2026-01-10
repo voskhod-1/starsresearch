@@ -1,4 +1,4 @@
-[назад](algem.md)
+[назад](../algem.md)
 ***
 
 ![image](https://github.com/user-attachments/assets/4a3a84d8-0495-4834-83ab-dae77110056d)
