@@ -17,5 +17,6 @@
 ### Экзамен
 + Попова
   + [Билеты](popova/terver-exam-tick.md)
+  + [Фактические варианты](popova/terver-exam-fact.md)
 ### Учебные материалы
 + [Учебник Гмурмана](https://github.com/user-attachments/files/22322085/default.pdf)
