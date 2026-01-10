@@ -4,7 +4,7 @@
 ## 2 семестр
 ### Лекция
 + Вахитова
-  + [Материалы](https://drive.google.com/drive/folders/1JuXVZJV_bgoRYNMWKBhPIh9tFTQrh68D?usp=sharing)
+  + [Лекции](https://drive.google.com/drive/folders/1JuXVZJV_bgoRYNMWKBhPIh9tFTQrh68D?usp=sharing)
 
 ### Практика
 + Вахитова
