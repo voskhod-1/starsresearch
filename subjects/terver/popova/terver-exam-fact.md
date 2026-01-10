@@ -3,9 +3,15 @@
 ## Фактические билеты, которые попались на экзамене (вместе с практикой)
 ![2](https://github.com/user-attachments/assets/e4f98891-99dd-4201-afa3-162c4490f238)
 
+![5](https://github.com/user-attachments/assets/6037f967-0867-4cff-92b2-ffa13f504543)
+
 ![6](https://github.com/user-attachments/assets/87871761-1f54-4be8-85ab-81ac0b261c8c)
 
+![11](https://github.com/user-attachments/assets/b8c9b772-2539-4894-8898-25f463989ab4)
+
 ![13](https://github.com/user-attachments/assets/54ab58c9-fa5f-474c-9a09-6b5def28b134)
+
+![15](https://github.com/user-attachments/assets/81a39d2c-3b0d-4e92-b206-5fd774fe5171)
 
 ![20](https://github.com/user-attachments/assets/4ae29771-d8f3-423f-bd8a-60a52e2f2091)
 
