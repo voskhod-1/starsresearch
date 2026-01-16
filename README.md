@@ -1,6 +1,7 @@
 ![фон](https://github.com/user-attachments/assets/baa38912-f628-4a1d-aa11-22023fc21521)
 
 # Проект "Звездочет" 
+[![][telegram-image]][telegram-url]
 #### Смажьте мясло масом
 ## [Преподавателям](smth/tutors.md)
 
@@ -52,3 +53,7 @@
 ***
 ## Для участников сообщества:
 [Правила единого форматирования](smth/formattingRules.md)
+
+
+[telegram-url]: https://t.me/starsresearchnews/
+[telegram-image]: https://img.shields.io/badge/telegram-канал-blue?logo=telegram&labelColor=blue
