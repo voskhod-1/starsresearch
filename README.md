@@ -2,6 +2,7 @@
 
 # Проект "Звездочет" 
 [![][telegram-image]][telegram-url]
+[![][telegram-bot-image]][telegram-bot-url]
 #### Смажьте мясло масом
 ## [Преподавателям](smth/tutors.md)
 
@@ -57,3 +58,6 @@
 
 [telegram-url]: https://t.me/starsresearchnews/
 [telegram-image]: https://img.shields.io/badge/telegram-канал-blue?logo=telegram&labelColor=blue
+
+[telegram-bot-url]: https://t.me/astronstarbot/
+[telegram-bot-image]: https://img.shields.io/badge/Наш%20бот-🐘-blue?logo=telegram&labelColor=blue
