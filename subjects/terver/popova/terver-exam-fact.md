@@ -1,6 +1,8 @@
 [назад](../terver.md)
 ***
 ## Фактические билеты, которые попались на экзамене (вместе с практикой)
+![1](https://github.com/user-attachments/assets/148cfd53-711c-41b8-a4cb-8eaaa4e5b199)
+
 ![2](https://github.com/user-attachments/assets/e4f98891-99dd-4201-afa3-162c4490f238)
 
 ![5](https://github.com/user-attachments/assets/6037f967-0867-4cff-92b2-ffa13f504543)
@@ -16,6 +18,8 @@
 ![20](https://github.com/user-attachments/assets/4ae29771-d8f3-423f-bd8a-60a52e2f2091)
 
 ![22](https://github.com/user-attachments/assets/5d2e09b5-5e1d-47f6-aa8c-16b15a7fde74)
+
+![23](https://github.com/user-attachments/assets/365c53f6-9829-486b-b63c-c0ace7e28ca1)
 
 ![24](https://github.com/user-attachments/assets/98478e3d-a186-431c-891c-b8e456d11510)
 
