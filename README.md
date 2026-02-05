@@ -32,7 +32,7 @@
 + [Основы российской государственности](subjects/org/org.md)
 + [Система подготовки электронных документов](subjects/sped/sped.md)
 + [Теоретические основы информатики](subjects/toinf/toinf.md)
-+ [Теория вероятностей и математическая статистика](subjects/terver/terver.md)
++ [Теория вероятностей](subjects/terver/terver.md)
 + [Управление данными/Базы данных](subjects/ud/ud.md)
 + [Уравнения математической физики](subjects/urmat/urmat.md)
 + [Экономика и финансовая грамотность](subjects/economy/economy.md)
