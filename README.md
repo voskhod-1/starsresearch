@@ -27,6 +27,7 @@
 + [Культурология](subjects/cult/cult.md)
 + [Линейная Алгебра](subjects/linal/linal.md)
 + [Математический анализ/ТФКП](subjects/mathan/mathan.md)
++ [Математическая логика и теория алгоритмов](subject/mlita/mlita.md)
 + [Математическая статистика](subject/matstat/matstat.md)
 + [Методы вычислений](subject/methods/methods.md)
 + [Механика и оптика](subject/mio/mio.md)
