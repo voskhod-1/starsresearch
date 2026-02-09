@@ -42,6 +42,7 @@
 + [Экономика и финансовая грамотность](subjects/economy/economy.md)
 + [Электроника](subjects/electro/electro.md)
 + [Язык Си](subjects/clang/clang.md)
++ [Языки и системы программирования](subject/yaisp\yaisp.md)
 
 ## Полезности
 + [База знаний](faq/faq.md)✨новое✨
