@@ -31,7 +31,7 @@
 + [Математическая логика и теория алгоритмов](subject/mlita/mlita.md)
 + [Математическая статистика](subject/matstat/matstat.md)
 + [Методы вычислений](subject/methods/methods.md)
-+ [Механика и оптика](subject/mio/mio.md)
++ [Механика и оптика](subject/mio/mio.md)✨новое✨
 + [Объектно-ориентированное программирование](subjects/oop/oop.md)
 + [Основы математической логики](subjects/mathlog/mathlog.md) 
 + [Основы российской государственности](subjects/org/org.md)
@@ -46,7 +46,7 @@
 + [Языки и системы программирования](subject/yaisp\yaisp.md)
 
 ## Полезности
-+ [База знаний](faq/faq.md)✨новое✨
++ [База знаний](faq/faq.md)
 + [Полезные ресурсы](smth/resources.md)
 + [Игры](smth/games.md)
 + [График и виды стипендий](smth/stipendia.md)
