@@ -4,10 +4,11 @@
 [![][telegram-image]][telegram-url]
 [![][telegram-bot-image]][telegram-bot-url]
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=voskhod-1.starsresearch)
+![GitHub Repo stars](https://img.shields.io/github/stars/voskhod-1/starsresearch?style=plastic)
+
 > Самые непослушные здесь отправятся на остров Сергея Лавлиштейна
 ## [Преподавателям](smth/tutors.md)
 
-### Ставьте звездочки, если проект вам помог
 ## Нашли [инструкцию](https://github.com/voskhod-1/VSU_MoodleFix) по устранению лагов мудла
 ***
 
