@@ -4,7 +4,7 @@
 [![][telegram-image]][telegram-url]
 [![][telegram-bot-image]][telegram-bot-url]
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=voskhod-1.starsresearch)
-#### На ФНК самые непослушные отправятся на остров Сергея Лавлиштейна
+> Самые непослушные здесь отправятся на остров Сергея Лавлиштейна
 ## [Преподавателям](smth/tutors.md)
 
 ### Ставьте звездочки, если проект вам помог
