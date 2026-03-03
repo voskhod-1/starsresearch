@@ -31,7 +31,7 @@
 + [Математическая логика и теория алгоритмов](subject/mlita/mlita.md)
 + [Математическая статистика](subject/matstat/matstat.md)
 + [Методы вычислений](subject/methods/methods.md)
-+ [Механика и оптика](subject/mio/mio.md)✨новое✨
++ [Механика и оптика](subjects/mio/mio.md)✨новое✨
 + [Объектно-ориентированное программирование](subjects/oop/oop.md)
 + [Основы математической логики](subjects/mathlog/mathlog.md) 
 + [Основы российской государственности](subjects/org/org.md)
