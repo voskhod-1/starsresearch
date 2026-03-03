@@ -28,9 +28,9 @@
 + [Культурология](subjects/cult/cult.md)
 + [Линейная Алгебра](subjects/linal/linal.md)
 + [Математический анализ/ТФКП](subjects/mathan/mathan.md)
-+ [Математическая логика и теория алгоритмов](subject/mlita/mlita.md)
-+ [Математическая статистика](subject/matstat/matstat.md)
-+ [Методы вычислений](subject/methods/methods.md)
++ [Математическая логика и теория алгоритмов](subjects/mlita/mlita.md)
++ [Математическая статистика](subjects/matstat/matstat.md)
++ [Методы вычислений](subjects/methods/methods.md)
 + [Механика и оптика](subjects/mio/mio.md)✨новое✨
 + [Объектно-ориентированное программирование](subjects/oop/oop.md)
 + [Основы математической логики](subjects/mathlog/mathlog.md) 
@@ -43,7 +43,7 @@
 + [Экономика и финансовая грамотность](subjects/economy/economy.md)
 + [Электроника](subjects/electro/electro.md)
 + [Язык Си](subjects/clang/clang.md)
-+ [Языки и системы программирования](subject/yaisp\yaisp.md)
++ [Языки и системы программирования](subjects/yaisp/yaisp.md)
 
 ## Полезности
 + [База знаний](faq/faq.md)
