@@ -35,4 +35,7 @@
 ***
 ![telegram-cloud-photo-size-2-5407059596410556407-y](https://github.com/user-attachments/assets/24653df6-4959-41c7-97d7-8c91fa2c01cd)
 ![telegram-cloud-photo-size-2-5407059596410556406-w](https://github.com/user-attachments/assets/4ce02e74-4840-42b6-a6f7-f1e2b5334875)
+***
+## Пересдача
+![per1](https://github.com/user-attachments/assets/3ddf2feb-60ef-4ea2-b1e0-add6dd9fb910)
 
