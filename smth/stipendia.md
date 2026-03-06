@@ -75,7 +75,12 @@
 <details>
   <summary>Контакты МФЦ ВГУ</summary>
     <img height=200 src="https://github.com/user-attachments/assets/f7bc792d-7c3f-489e-abc9-3460e0d9d6a9">
-</details
+</details>
+<details>
+  <summary>Как получить НУЖНУЮ выписку из банка</summary>
+  <img height=800 src=https://github.com/user-attachments/assets/5b2f742c-a685-49e3-910c-3931d217e79f>
+  <img height=800 src=https://github.com/user-attachments/assets/08abf581-ba97-4486-942f-8e94e7e574a8>
+</details>
 
 2. Вы идёте в отдел социальной защиты по месту прописки[^2](почти везде записываться на прием не нужно с документами и заказываете справку о том, что вы малоимущий (если скажете, что для соц. стипендии – вас поймут)
 3. Справка будет готова в течение нескольких дней и после этого её нужно будет отнести в 337а аудиторию вместе с ксерокопией паспорта (2-3, 4-5 стр) и ИНН
