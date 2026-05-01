@@ -1,8 +1,6 @@
 ![фон](https://github.com/user-attachments/assets/baa38912-f628-4a1d-aa11-22023fc21521)
 
 # Проект "Звездочет" 
-[![][telegram-image]][telegram-url]
-[![][telegram-bot-image]][telegram-bot-url]
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=voskhod-1.starsresearch)
 ![GitHub Repo stars](https://img.shields.io/github/stars/voskhod-1/starsresearch?style=plastic)
 
